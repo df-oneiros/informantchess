@@ -133,7 +133,7 @@
   <string name="interestingMove">趣味着法</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">可疑着法</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">唯一着法</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">楚茨文格</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">楚茨文格</string>
   <string name="equalPosition">均势局面</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">局面不明</string>
   <string name="whiteIsSlightlyBetter">白方稍优</string>
@@ -177,7 +177,7 @@
   <string name="annotatePositionTitle">评注某个局面</string>
   <string name="annotatePositionText">点击 !? 按钮，或者右键点击右侧的着法列表。&lt;br&gt;评注符号是共享并保存的。</string>
   <string name="conclusionTitle">感谢您抽出宝贵的时间</string>
-  <string name="conclusionText">您可以在个人资料页找到您&lt;a href=\'/study/mine/hot\'&gt;之前的研习&lt;/a&gt;。&lt;br&gt;还有一篇&lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;关于研习的博客文章&lt;/a&gt;。&lt;br&gt;高级用户可以按\"?\"键查看键盘快捷键。&lt;br&gt;祝您研习愉快！</string>
+  <string name="conclusionText">您可以在个人资料页找到您&lt;a href=\'/study/mine/hot\'&gt;之前的研习&lt;/a&gt;。&lt;br&gt;还有一篇&lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;关于研习的博客文章&lt;/a&gt;。&lt;br&gt;高级用户可以按\"?\"键查看键盘快捷键。&lt;br&gt;祝您研习愉快！</string>
   <string name="createChapterTitle">让我们创建一个研习章节</string>
   <string name="createChapterText">一个研习可以有多个章节。&lt;br&gt;每个章节都有独立的着法树，&lt;br&gt;并且可以通过多种方式创建。</string>
   <string name="fromInitialPositionTitle">从初始局面开始</string>
@@ -186,8 +186,8 @@
   <string name="customPositionText">按您的方式设置棋盘。&lt;br&gt;适合探索残局。</string>
   <string name="loadExistingLichessGameTitle">加载已有的 Lichess 对局</string>
   <string name="loadGameFromTheWebTitle" comment="Replaces old string loadExistingLichessGameTitle">从网页加载对局</string>
-  <string name="loadExistingLichessGameText">粘贴一个 Lichess 对局链接&lt;br&gt;（例如 lichess.org/7fHIU0XI）&lt;br&gt;以将对局着法加载到章节中。</string>
-  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">粘贴对局链接&lt;br&gt;（例如 lichess.org/7fHIU0XI）&lt;br&gt;以在章节中加载对局着法。</string>
+  <string name="loadExistingLichessGameText">粘贴一个 Lichess 对局链接&lt;br&gt;（例如 pawn7.com/7fHIU0XI）&lt;br&gt;以将对局着法加载到章节中。</string>
+  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">粘贴对局链接&lt;br&gt;（例如 pawn7.com/7fHIU0XI）&lt;br&gt;以在章节中加载对局着法。</string>
   <string name="fromFenStringTitle">导入 FEN 代码</string>
   <string name="fromFenStringText">粘贴 FEN 格式的局面&lt;br&gt;&lt;i&gt;4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w&lt;/i&gt;&lt;br&gt;以从某个局面开始章节。</string>
   <string name="fromPgnGameTitle">导入 PGN 代码</string>

@@ -605,7 +605,7 @@
   <string name="reportCheatBoostHelp">Collez le lien vers la ou les parties et expliquez pourquoi le comportement de l\'utilisateur est inapproprié. Ne dites pas juste « il triche »; expliquez comment vous êtes arrivé à cette conclusion.</string>
   <string name="reportUsernameHelp">Expliquez pourquoi ce nom d\'utilisateur est offensant. Ne dites pas simplement qu\'il est choquant ou inapproprié; expliquez comment vous êtes arrivé à cette conclusion, surtout si l\'insulte n\'est pas claire, n\'est pas en anglais, est en argot ou a une connotation historique ou culturelle.</string>
   <string name="reportProcessedFasterInEnglish">Votre rapport sera traité plus rapidement s\'il est rédigé en anglais.</string>
-  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://lichess.org/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Nous pouvons traiter votre rapport plus rapidement si vous l\'écrivez en anglais.</string>
+  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://pawn7.com/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Nous pouvons traiter votre rapport plus rapidement si vous l\'écrivez en anglais.</string>
   <string name="error.provideOneCheatedGameLink">Merci de fournir au moins un lien vers une partie où il y a eu triche.</string>
   <string name="by">par %s</string>
   <string name="importedByX">Importée par %s</string>
@@ -730,12 +730,12 @@
   <string name="aboutSimulSettings">Les parties simultanées sont toujours amicales. Les revanches, l\'annulation de coups et la possibilité de donner du temps sont désactivées.</string>
   <string name="create">Créer</string>
   <string name="whenCreateSimul">Lorsque vous créez une simultanée, vouz affrontez plusieurs adversaires à la fois.</string>
-  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://lichess.org/simul/new Replaces old string whenCreateSimul">Créer un simultanée vous permet de jouer contre plusieurs adversaires en même temps.</string>
+  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://pawn7.com/simul/new Replaces old string whenCreateSimul">Créer un simultanée vous permet de jouer contre plusieurs adversaires en même temps.</string>
   <string name="simulVariantsHint">Si vous sélectionnez plusieurs variantes, chaque joueur doit choisir laquelle jouer.</string>
   <string name="simulClockHint">Configuration de la cadence Fischer. Plus il y a d\'adversaires, plus vous pourriez avoir besoin de temps.</string>
   <string name="simulAddExtraTime">Vous pouvez ajouter du temps supplémentaire à votre pendule pour gérer la simultanée.</string>
   <string name="simulHostExtraTime">Temps supplémentaire de l\'hôte</string>
-  <string name="extraClockTimeForHost" comment="Appears on: https://lichess.org/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Temps supplémentaire pour l\'hôte :</string>
+  <string name="extraClockTimeForHost" comment="Appears on: https://pawn7.com/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Temps supplémentaire pour l\'hôte :</string>
   <string name="simulAddExtraTimePerPlayer">Ajouter le temps initial à votre pendule pour chaque joueur participant à la simultanée</string>
   <string name="simulHostExtraTimePerPlayer">Temps additionnel ajouté à la pendule de l\'hôte pour chaque joueur</string>
   <string name="lichessTournaments">Tournois Lichess</string>
@@ -932,7 +932,7 @@
   </plurals>
   <string name="showUnreadLichessMessage">Vous avez reçu un message privé de Lichess.</string>
   <string name="clickHereToReadIt">Cliquez ici pour le lire.</string>
-  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://lichess.org/@/Lichess Replaces old string clickHereToReadIt">Lire le message</string>
+  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://pawn7.com/@/Lichess Replaces old string clickHereToReadIt">Lire le message</string>
   <string name="sorry">Désolé :(</string>
   <string name="weHadToTimeYouOutForAWhile">Nous avons dû temporairement vous suspendre.</string>
   <string name="why">Pourquoi ?</string>
@@ -944,7 +944,7 @@
   <string name="tryToWin">Essayez de gagner (ou du moins d\'annuler) chaque partie que vous jouez.</string>
   <string name="resignLostGames">Abandonnez les parties perdues sans laisser votre temps s\'écouler.</string>
   <string name="temporaryInconvenience">Nous nous excusons pour le désagrément occasionné,</string>
-  <string name="wishYouGreatGames">et vous souhaitons d\'excellentes parties sur lichess.org.</string>
+  <string name="wishYouGreatGames">et vous souhaitons d\'excellentes parties sur pawn7.com.</string>
   <string name="thankYouForReading">Merci d\'avoir pris le temps de lire !</string>
   <string name="lifetimeScore">Meilleur résultat</string>
   <string name="currentMatchScore">Résultat actuel (match)</string>

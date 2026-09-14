@@ -57,7 +57,7 @@ Het enige verschil? Patronen krijgen een cool nieuw profielpictogram als waarder
     <item quantity="one">Lichess Patroon voor één maand</item>
     <item quantity="other">Lichess Patroon voor %s maanden</item>
   </plurals>
-  <string name="youSupportWith">U ondersteunt lichess.org met %s per maand.</string>
+  <string name="youSupportWith">U ondersteunt pawn7.com met %s per maand.</string>
   <string name="tyvm">Heel erg bedankt voor je hulp. Je bent geweldig!</string>
   <string name="currentStatus">Huidige status</string>
   <string name="nextPayment">Volgende betaling</string>

@@ -53,7 +53,7 @@ Tamen, Patronoj ekhavas rajtojn fiere uzi novan profilan ikonon.</string>
     <item quantity="one">Lichess Patrono por unu monato</item>
     <item quantity="other">Lichess Patrono por %s monatoj</item>
   </plurals>
-  <string name="youSupportWith">Vi subtenas lichess.org per %s po monato.</string>
+  <string name="youSupportWith">Vi subtenas pawn7.com per %s po monato.</string>
   <string name="tyvm">Koran dankon pro via helpo. Vi estas mojosa!</string>
   <string name="currentStatus">Aktuala stato</string>
   <string name="nextPayment">Sekva pago</string>

@@ -71,7 +71,7 @@
     <item quantity="other">%s સ્વિસ ટુર્નામેન્ટમાં ભાગ લીધો</item>
   </plurals>
   <string name="rankedInSwissTournament">%2$s માં #%1$s ક્રમાંકિત</string>
-  <string name="signedUp">lichess.org પર સાઇન અપ કર્યું</string>
+  <string name="signedUp">pawn7.com પર સાઇન અપ કર્યું</string>
   <plurals name="joinedNbTeams">
     <item quantity="one">%s ટીમમાં જોડાયા</item>
     <item quantity="other">%s ટીમમાં જોડાયા</item>

@@ -136,7 +136,7 @@
   <string name="interestingMove">Mielenkiintoinen siirto</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Kyseenalainen siirto</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Ainoa siirto</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Siirtopakko</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Siirtopakko</string>
   <string name="equalPosition">Tasainen asema</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Epäselvä asema</string>
   <string name="whiteIsSlightlyBetter">Valkealla on pieni etu</string>
@@ -180,7 +180,7 @@
   <string name="annotatePositionTitle">Arvioi asema symbolein</string>
   <string name="annotatePositionText">Napsauta !?-painiketta tai hiiren oikealla näppäimellä oikealla olevaa siirtolistaa.&lt;br&gt;Arviosymbolit tallentuvat ja tulevat näkyviin kaikille jäsenille.</string>
   <string name="conclusionTitle">Kiitokset tutkielmiin tutustumisesta</string>
-  <string name="conclusionText">&lt;a href=\'/study/mine/hot\'&gt;Edelliset tutkielmasi&lt;/a&gt; löytyvät profiilisivultasi.&lt;br&gt;Olemme myös kirjoittaneet tutkielmista &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;blogiin &lt;/a&gt;.&lt;br&gt;Edistyneille käyttäjille suosittelemme tutustumista pikanäppäimin, jotka saa näkyviin painamalla \"?\".&lt;br&gt;Pidä hauskaa!</string>
+  <string name="conclusionText">&lt;a href=\'/study/mine/hot\'&gt;Edelliset tutkielmasi&lt;/a&gt; löytyvät profiilisivultasi.&lt;br&gt;Olemme myös kirjoittaneet tutkielmista &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;blogiin &lt;/a&gt;.&lt;br&gt;Edistyneille käyttäjille suosittelemme tutustumista pikanäppäimin, jotka saa näkyviin painamalla \"?\".&lt;br&gt;Pidä hauskaa!</string>
   <string name="createChapterTitle">Tutkielman luvun luonti</string>
   <string name="createChapterText">Tutkielmassa voi olla useita lukuja.&lt;br&gt;Jokaisella luvulla on oma siirtopuukaavionsa,&lt;br&gt;ja lukuja voidaan luoda monin eri tavoin.</string>
   <string name="fromInitialPositionTitle">Alkuasema</string>
@@ -188,7 +188,7 @@
   <string name="customPositionTitle">Itse määritetty asema</string>
   <string name="customPositionText">Aseta nappulat laudalle haluamallasi tavalla.&lt;br&gt;Tämä sopii loppupelien tutkimiseen.</string>
   <string name="loadExistingLichessGameTitle">Lataa Lichessissä pelattu peli</string>
-  <string name="loadExistingLichessGameText">Kun liität Lichessissä pelatun pelin URL:n&lt;br&gt;(esim. lichess.org/7fHIU0XI)&lt;br&gt;pelin siirrot latautuvat tutkielman lukuun.</string>
+  <string name="loadExistingLichessGameText">Kun liität Lichessissä pelatun pelin URL:n&lt;br&gt;(esim. pawn7.com/7fHIU0XI)&lt;br&gt;pelin siirrot latautuvat tutkielman lukuun.</string>
   <string name="fromFenStringTitle">Tuo FEN-asema</string>
   <string name="fromFenStringText">Kun liität aseman FEN-muodossa,&lt;br&gt;&lt;i&gt;4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w&lt;/i&gt;&lt;br&gt;tutkielman luku alkaa kyseisestä asemasta.</string>
   <string name="fromPgnGameTitle">Tuo PGN-peli</string>

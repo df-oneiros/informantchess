@@ -54,7 +54,7 @@ Illetve a Patronok kapnak menő profil ikont amivel lehet villogni.</string>
     <item quantity="one">Lichess Patron egy hónapja</item>
     <item quantity="other">Lichess Patron %s hónapja</item>
   </plurals>
-  <string name="youSupportWith">Havonta %s összeggel támogatod a lichess.org-ot.</string>
+  <string name="youSupportWith">Havonta %s összeggel támogatod a pawn7.com-ot.</string>
   <string name="tyvm">Rendkívül hálásak vagyunk a segítségedért. Király vagy!</string>
   <string name="currentStatus">Jelenlegi állapot</string>
   <string name="nextPayment">Következő fizetés</string>

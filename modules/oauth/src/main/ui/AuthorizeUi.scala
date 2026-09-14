@@ -104,7 +104,7 @@ final class AuthorizeUi(helpers: Helpers)(
         case Some(client) => p(s"Not using ${client.displayName}? ", a(href := prompt.cancelUrl)("Cancel"))
         case None =>
           prompt.trusted.not.option:
-            p(cls := List("danger" -> prompt.isDanger))("Not owned or operated by lichess.org")
+            p(cls := List("danger" -> prompt.isDanger))("Not owned or operated by pawn7.com")
     )
 
   private def oauthClientLanguage(using orig: Translate, custom: Option[AuthCustomUi]): Translate =

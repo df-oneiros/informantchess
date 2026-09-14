@@ -13,6 +13,6 @@
   <string name="twoFactorEnabled">Kétlépcsős azonosítás engedélyezése</string>
   <string name="twoFactorToDisable">A kétlépcsős azonosítás kikapcsolásához szükséges a jelszavad és a hitelesítő alkalmazásból származó kód.</string>
   <string name="openTwoFactorApp">Nyisd meg a kétlépcsős azonosítási alkalmazást az eszközödön az azonosító kódért, és igazold a személyazonosságod.</string>
-  <string name="setupReminder">Kérünk, engedélyezd a kétlépcsős azonosítást https://lichess.org/account/twofactor oldalon, a fiókod védelme érdekében.
+  <string name="setupReminder">Kérünk, engedélyezd a kétlépcsős azonosítást https://pawn7.com/account/twofactor oldalon, a fiókod védelme érdekében.
 Ezt az üzenetet azért kaptad, mert csapatvezetőként, edzőként, oktatóként vagy streamerként a fiókodhoz különleges felelősségi kör tartozik.</string>
 </resources>

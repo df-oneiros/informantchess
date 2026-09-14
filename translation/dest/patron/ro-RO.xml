@@ -57,7 +57,7 @@ Totuși, Patronii primesc o nouă pictogramă faină lângă profil.</string>
     <item quantity="few">Patron Lichess timp de %s luni</item>
     <item quantity="other">Patron Lichess timp de %s luni</item>
   </plurals>
-  <string name="youSupportWith">Susțineți lichess.org cu %s pe lună.</string>
+  <string name="youSupportWith">Susțineți pawn7.com cu %s pe lună.</string>
   <string name="tyvm">Mulțumim foarte mult pentru ajutor. Ești tare!</string>
   <string name="currentStatus">Status actual</string>
   <string name="nextPayment">Următoarea plată</string>

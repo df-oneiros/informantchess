@@ -54,16 +54,16 @@
 	<string name="malwareNoSell">Vi har ikkje selt personopplysningane dine</string>
 	<string name="malwareNoAbuse">Vi har ikkje brukt eininga di mot deg</string>
 	<string name="malwareWarningPrefix" comment="%s is 'be careful'">Men andre nettstader gjer det, så ver venleg å %s.</string>
-	<string name="malwareWarningCta" comment="It is a link to https://lichess.org/ads">ver forsiktig</string>
+	<string name="malwareWarningCta" comment="It is a link to https://pawn7.com/ads">ver forsiktig</string>
 	<string name="lichessGamesPlayedIn" comment="%1$s is the number of games, %2$s is the year">%1$s parti er spelt på Lichess i %2$s</string>
 	<string name="lichessGamesOfThemYours" comment="%s is the percentage of games that are yours">%s av partia var dine.</string>
 	<string name="thanksTitle">Takk for at du spela på Lichess!</string>
 	<string name="thanksHaveAGreat" comment="%s is the next year">Vi er glade for at du er her. Ha eit flott %s!</string>
 	<string name="patronCostsThisYear" comment="%1$s is 'costs'. %2$s is the cost with currency symbol e.g. '$750,000'">Lichess\' %1$s var i år på %2$s.</string>
-	<string name="patronCosts" comment="It is a link to lichess.org/costs">kostnadar</string>
+	<string name="patronCosts" comment="It is a link to pawn7.com/costs">kostnadar</string>
 	<string name="patronCharity">Vi er ein velgjerdsorganisasjon som heilt og fullt blir finansiert av donasjonar.</string>
 	<string name="patronConsiderDonating" comment="%s is 'supporting us with a donation'">Hvis vi hjalp til med å underhalde deg i år, eller du har tru på arbeidet vårt, kan du vurdere %s!</string>
-	<string name="patronMakeDonation" comment="It is a link to https://lichess.org/patron">støtta oss med ein donasjon</string>
+	<string name="patronMakeDonation" comment="It is a link to https://pawn7.com/patron">støtta oss med ein donasjon</string>
 	<string name="shareableTitle" comment="%s is the current year">Oppsummeringa mi for for %s</string>
 	<string name="shareableSpentPlaying" comment="subtitle to the translated time they have spent playing">total speletid</string>
 	<string name="shareableMostPlayedOpponent">mest spelte motspelar</string>

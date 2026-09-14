@@ -15,7 +15,7 @@
   <string name="downloadKit">Λήψη πακέτου μετάδοσης</string>
   <string name="xIsStreaming">Ο χρήστης %s κάνει ζωντανή μετάδοση</string>
   <string name="rules">Κανόνες μετάδοσης</string>
-  <string name="rule1">Συμπεριλάβετε τη λέξη-κλειδί \"lichess.org\" στον τίτλο μετάδοσης και χρησιμοποιήστε την κατηγορία \"Chess\" όταν μεταδίδετε στο Lichess.</string>
+  <string name="rule1">Συμπεριλάβετε τη λέξη-κλειδί \"pawn7.com\" στον τίτλο μετάδοσης και χρησιμοποιήστε την κατηγορία \"Chess\" όταν μεταδίδετε στο Lichess.</string>
   <string name="rule2">Διαγράψτε τη λέξη-κλειδί αυτή όταν μεταδίδετε θέματα άσχετα με το Lichess.</string>
   <string name="rule3">Το Lichess θα ανιχνεύσει την μετάδοσή σας αυτόματα και θα έχετε τα ακόλουθα πλεονεκτήματα:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">Διαβάστε τις %s για να εξασφαλίσετε ένα δίκαιο παιχνίδι για όλους κατά τη διάρκεια της ζωντανής ροής σας.</string>

@@ -136,7 +136,7 @@
   <string name="interestingMove">चित्तवेधक चाल</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">संशयास्पद चाल</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">एकमात्र चाल</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">झुगझ्वांग</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">झुगझ्वांग</string>
   <string name="equalPosition">बरोबरीची स्थिती</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">अस्पष्ट स्थिती</string>
   <string name="whiteIsSlightlyBetter">पांढऱ्याची स्थिती थोडी चांगली आहे</string>
@@ -181,7 +181,7 @@
   <string name="annotatePositionTitle">एका स्थितीचे भाष्य करा</string>
   <string name="annotatePositionText">!? बटण दाबा, किंवा उजवं क्लिक करा डावांच्या सूचीवर.&amp;lt;br&amp;gt;भाष्य ग्लिफ्स शेअर आणि जतन केले जातात.</string>
   <string name="conclusionTitle">तुमच्या वेळेसाठी धन्यवाद</string>
-  <string name="conclusionText">तुम्ही तुमचे &lt;a href=\'/study/mine/hot\'&gt;मागील अभ्यासिके&lt;/a&gt;तुमच्या चरित्र पृष्ठावर.&lt;br&gt;तेथे देखील आहे एक &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;नेमणी अभ्यासांबद्दल&lt;/a&gt;.&lt;br&gt;प्रगत वापरकर्त्यांना कळफलक शॉर्टकट पाहण्यासाठी \"?\" दाबावेसे वाटू शकते.&lt;br&gt;मजा करा!</string>
+  <string name="conclusionText">तुम्ही तुमचे &lt;a href=\'/study/mine/hot\'&gt;मागील अभ्यासिके&lt;/a&gt;तुमच्या चरित्र पृष्ठावर.&lt;br&gt;तेथे देखील आहे एक &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;नेमणी अभ्यासांबद्दल&lt;/a&gt;.&lt;br&gt;प्रगत वापरकर्त्यांना कळफलक शॉर्टकट पाहण्यासाठी \"?\" दाबावेसे वाटू शकते.&lt;br&gt;मजा करा!</string>
   <string name="createChapterTitle">चला एक अभ्यास अध्याय तयार करूया</string>
   <string name="createChapterText">एका अभ्यासात अनेक अध्याय असू शकतात.&amp;lt;br&amp;gt;प्रत्येक अध्यायामध्ये एक वेगळी चालवृक्षी असते &amp;lt;br&amp;gt;आणि ती विविध प्रकारे तयार केली जाऊ शकते.</string>
   <string name="fromInitialPositionTitle">प्रारंभिक स्थितीपासून</string>
@@ -189,7 +189,7 @@
   <string name="customPositionTitle">सानुकूल स्थिती</string>
   <string name="customPositionText">तुमच्या प्रमाणे पट मांडा.&amp;lt;br&amp;gt;अंत्यखेळांना शोधण्यासाठी अनुकूल.</string>
   <string name="loadExistingLichessGameTitle">सध्या अस्तित्वात असलेला Lichess खेळ आयात करा</string>
-  <string name="loadExistingLichessGameText">एक Lichess खेळाचा URL&lt;br&gt;(जसं lichess.org/7fHIU0XI)&lt;br&gt;अध्यायमधील खेळाचे डाव आयात करण्यासाठी. </string>
+  <string name="loadExistingLichessGameText">एक Lichess खेळाचा URL&lt;br&gt;(जसं pawn7.com/7fHIU0XI)&lt;br&gt;अध्यायमधील खेळाचे डाव आयात करण्यासाठी. </string>
   <string name="fromFenStringTitle">एका FEN माळ मधून</string>
   <string name="fromFenStringText">एका स्थितीला FEN स्वरूपात&lt;i&gt;4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w&lt;/i&gt;&lt;br&gt;अध्याय एका स्थितीपासून चालू करण्यासाठी.</string>
   <string name="fromPgnGameTitle">एका PGN खेळातून</string>

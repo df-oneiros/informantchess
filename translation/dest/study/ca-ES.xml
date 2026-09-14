@@ -137,7 +137,7 @@
   <string name="interestingMove">Jugada interessant</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Jugada dubtosa</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Única jugada</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Zugzwang (atzucac)</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Zugzwang (atzucac)</string>
   <string name="equalPosition">Posició igualada</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Posició poc clara</string>
   <string name="whiteIsSlightlyBetter">El blanc està lleugerament millor</string>
@@ -181,7 +181,7 @@
   <string name="annotatePositionTitle">Anotar una posició</string>
   <string name="annotatePositionText">Prem el botó !?, o fes clic dret a la llista de moviments de la dreta.&lt;br&gt;Les icones d\'anotacions es comparteixen i es guarden.</string>
   <string name="conclusionTitle">Gràcies pel teu temps</string>
-  <string name="conclusionText">Podeu trobar els vostres &lt;a href=\'/study/mine/hot\'&gt;estudis anteriors&lt;/a&gt; dins del vostre perfil.&lt;br&gt;Tambe podeu trobar &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;una entrada del blog sobre els estudis&lt;/a&gt;.&lt;br&gt;Els usaris avançats poden premer la tecla \"?\" per veure les dreceres del teclat.&lt;br&gt;Disfruteu!</string>
+  <string name="conclusionText">Podeu trobar els vostres &lt;a href=\'/study/mine/hot\'&gt;estudis anteriors&lt;/a&gt; dins del vostre perfil.&lt;br&gt;Tambe podeu trobar &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;una entrada del blog sobre els estudis&lt;/a&gt;.&lt;br&gt;Els usaris avançats poden premer la tecla \"?\" per veure les dreceres del teclat.&lt;br&gt;Disfruteu!</string>
   <string name="createChapterTitle">Creem un capítol de l\'estudi</string>
   <string name="createChapterText">Un estudi pot tenir diferents capítols.&lt;br&gt;Cada capítol té un arbre de moviments diferent,&lt;br&gt;i es pot crear de formes diferents.</string>
   <string name="fromInitialPositionTitle">A partir de la posició inicial</string>
@@ -190,8 +190,8 @@
   <string name="customPositionText">Munta el tauler a la teva manera.&lt;br&gt; Preparat per estudiar finals.</string>
   <string name="loadExistingLichessGameTitle">Carrega una partida existent de Lichess</string>
   <string name="loadGameFromTheWebTitle" comment="Replaces old string loadExistingLichessGameTitle">Carregar una partida des de la web</string>
-  <string name="loadExistingLichessGameText">Enganxa l\'URL d\'una partida de lichess&lt;br&gt;(per exemple lichess.org/7fHIU0XI)&lt;br&gt;per carregar els moviments de la partida al capítol.</string>
-  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">Enganxa l\'URL d\'una partida &lt;br&gt;(per exemple lichess.org/7fHIU0XI)&lt;br&gt;per carregar els moviments de la partida al capítol.</string>
+  <string name="loadExistingLichessGameText">Enganxa l\'URL d\'una partida de lichess&lt;br&gt;(per exemple pawn7.com/7fHIU0XI)&lt;br&gt;per carregar els moviments de la partida al capítol.</string>
+  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">Enganxa l\'URL d\'una partida &lt;br&gt;(per exemple pawn7.com/7fHIU0XI)&lt;br&gt;per carregar els moviments de la partida al capítol.</string>
   <string name="fromFenStringTitle">A partir d\'una cadena FEN</string>
   <string name="fromFenStringText">Enganxa una posició en format FEN &lt;br&gt;&lt;i&gt;4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w&lt;/i&gt;&lt;br&gt;per començar el capítol en una posició.</string>
   <string name="fromPgnGameTitle">A partir d\'una partida en PGN</string>

@@ -59,9 +59,9 @@
   <string name="notifyInboxMsg">Neue Nachricht im Posteingang</string>
   <string name="notifyDirectMessage" comment="notifyInboxMsg&#10;&#10;A notification setting - notifies players when they receive a new message in their Lichess inbox Replaces old string notifyInboxMsg">Neue Direktnachricht</string>
   <string name="notifyForumMention">Forenkommentar erwähnt dich</string>
-  <string name="notifyForumMentions" comment="notifyForumMention&#10;&#10; A notification setting - notifies players when someone has @mentioned their name in the Lichess Forum (https://lichess.org/forum) Replaces old string notifyForumMention">Forumserwähnungen</string>
+  <string name="notifyForumMentions" comment="notifyForumMention&#10;&#10; A notification setting - notifies players when someone has @mentioned their name in the Lichess Forum (https://pawn7.com/forum) Replaces old string notifyForumMention">Forumserwähnungen</string>
   <string name="notifyInvitedStudy">Einladung zu Studie</string>
-  <string name="notifyStudyInvites" comment="notifyInvitedStudy&#10;&#10; A notification setting - notifies players about invites to studies (https://lichess.org/study/) Replaces old string notifyInvitedStudy">Einladungen zu Studien</string>
+  <string name="notifyStudyInvites" comment="notifyInvitedStudy&#10;&#10; A notification setting - notifies players about invites to studies (https://pawn7.com/study/) Replaces old string notifyInvitedStudy">Einladungen zu Studien</string>
   <string name="notifyGameEvent">Neuigkeiten in Fernschachpartie</string>
   <string name="notifyChallenge">Herausforderungen</string>
   <string name="notifyTournamentSoon">Turnier beginnt bald</string>

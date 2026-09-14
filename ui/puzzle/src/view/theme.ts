@@ -6,7 +6,7 @@ import type { ThemeKey, RoundThemes } from '@/interfaces';
 
 import { renderColorForm } from './side';
 
-const STUDY_URL = 'https://lichess.org/study/viiWlKjv';
+const STUDY_URL = 'https://pawn7.com/study/viiWlKjv';
 
 export default function theme(ctrl: PuzzleCtrl): MaybeVNode {
   const { angle, replay } = ctrl.data;

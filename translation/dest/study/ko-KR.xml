@@ -133,7 +133,7 @@
   <string name="interestingMove">흥미로운 수</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">애매한 수</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">유일한 수</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">추크츠방</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">추크츠방</string>
   <string name="equalPosition">동등한 포지션</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">불확실한 포지션</string>
   <string name="whiteIsSlightlyBetter">백이 미세하게 좋음</string>
@@ -177,7 +177,7 @@
   <string name="annotatePositionTitle">포지션에 주석달기</string>
   <string name="annotatePositionText">!? 버튼을 클릭하거나, 우측의 수 목록을 우클릭하세요.&lt;br&gt;주석들은 공유되며 저장됩니다.</string>
   <string name="conclusionTitle">시간을 내주셔셔 감사합니다</string>
-  <string name="conclusionText">프로필에서도 &lt;a href=\'/study/mine/hot\'&gt;이전 연구&lt;/a&gt;를 찾아볼 수 있습니다.&lt;br&gt; 연구 기능에 대한 &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;블로그&lt;/a&gt;도 있습니다.&lt;br&gt;고급 사용자는 \"?\" 키를 눌러 단축키를 확인할 수 있습니다.&lt;br&gt;즐거운 시간 보내시길 바랍니다!</string>
+  <string name="conclusionText">프로필에서도 &lt;a href=\'/study/mine/hot\'&gt;이전 연구&lt;/a&gt;를 찾아볼 수 있습니다.&lt;br&gt; 연구 기능에 대한 &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;블로그&lt;/a&gt;도 있습니다.&lt;br&gt;고급 사용자는 \"?\" 키를 눌러 단축키를 확인할 수 있습니다.&lt;br&gt;즐거운 시간 보내시길 바랍니다!</string>
   <string name="createChapterTitle">연구 챕터를 만들어 봅시다</string>
   <string name="createChapterText">하나의 연구는 여러 개의 챕터를 포함할 수 있습니다.&lt;br&gt;각 챕터는 고유한 수순 트리를 가지고 있고,&lt;br&gt;다양한 방법으로 만들 수 있습니다.</string>
   <string name="fromInitialPositionTitle">초기 포지션에서</string>
@@ -186,8 +186,8 @@
   <string name="customPositionText">원하는대로 보드를 설정하세요. 엔드게임을 탐색할 때 적합합니다.</string>
   <string name="loadExistingLichessGameTitle">Lichess 게임 불러오기</string>
   <string name="loadGameFromTheWebTitle" comment="Replaces old string loadExistingLichessGameTitle">웹에서 게임 불러오기</string>
-  <string name="loadExistingLichessGameText">챕터에 Lichess에서 진행된 게임 수순을 불러오려면&lt;br&gt;lichess 게임 URL을 붙여넣으세요&lt;br&gt;(예시: lichess.org/7fHIU0XI).</string>
-  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">챕터에 진행된 게임 수순을 불러오려면&lt;br&gt;게임 URL을 붙여넣으세요&lt;br&gt;(예시: lichess.org/7fHIU0XI).</string>
+  <string name="loadExistingLichessGameText">챕터에 Lichess에서 진행된 게임 수순을 불러오려면&lt;br&gt;lichess 게임 URL을 붙여넣으세요&lt;br&gt;(예시: pawn7.com/7fHIU0XI).</string>
+  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">챕터에 진행된 게임 수순을 불러오려면&lt;br&gt;게임 URL을 붙여넣으세요&lt;br&gt;(예시: pawn7.com/7fHIU0XI).</string>
   <string name="fromFenStringTitle">FEN으로부터 불러오기</string>
   <string name="fromFenStringText">미리 설정된 포지션으로 챕터를 만들기 위해 FEN 형식을 붙여넣으세요. (예시: 4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w)</string>
   <string name="fromPgnGameTitle">PGN 게임에서 불러오기</string>

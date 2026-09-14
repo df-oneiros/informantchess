@@ -15,7 +15,7 @@
   <string name="downloadKit">بارگیری بسته بَرخَط-محتواساز</string>
   <string name="xIsStreaming">%s در حال پخش جریانی است</string>
   <string name="rules">قانون‌های جریان‌سازی</string>
-  <string name="rule1">کلیدواژهٔ «lichess.org» را در عنوان جریان‌سازی خود بگنجانید و هنگام پخش جریانی در Lichess از رستهٔ «شطرنج» بِبَهرید.</string>
+  <string name="rule1">کلیدواژهٔ «pawn7.com» را در عنوان جریان‌سازی خود بگنجانید و هنگام پخش جریانی در Lichess از رستهٔ «شطرنج» بِبَهرید.</string>
   <string name="rule2">وقتی چیزهای نا-Lichessی پخش می‌کنید، کلیدواژه را بردارید.</string>
   <string name="rule3">وبگاه Lichess جریان شما را خودکار شناسایی می‌کند و مزیت‌های زیر را فعال می‌کند:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">%s ما را بخوانید تا از اجرای منصفانه برای همه در پخش‌تان مطمئن شوید.</string>

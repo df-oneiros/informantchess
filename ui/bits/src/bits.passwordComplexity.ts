@@ -10,7 +10,7 @@ export function initModule(id = 'form3-newPasswd1'): void {
 }
 
 function updatePasswordComplexityMeter(password: string): void {
-  const analysis = zxcvbn(password, ['chess', 'lichess', 'lichess.org']);
+  const analysis = zxcvbn(password, ['chess', 'lichess', 'pawn7.com']);
   updateMeter(analysis.score);
 }
 

@@ -15,7 +15,7 @@
   <string name="downloadKit">தொடரோட்ட சாதனங்களைப் பதிவிறக்கு</string>
   <string name="xIsStreaming">%s தொடரோட்டுகிறார்</string>
   <string name="rules">தொடரோட்ட விதிமுறைகள்</string>
-  <string name="rule1">உங்கள் தொடரோட்ட தலைப்பில் \"lichess.org\" என்ற முக்கிய சொல்லைச் சேர்த்து, நீங்கள் லிசெஸ் இல் தொடரோட்டும்போது \"சதுரங்கம்\" பிரிவைப் பயன்படுத்தவும்.</string>
+  <string name="rule1">உங்கள் தொடரோட்ட தலைப்பில் \"pawn7.com\" என்ற முக்கிய சொல்லைச் சேர்த்து, நீங்கள் லிசெஸ் இல் தொடரோட்டும்போது \"சதுரங்கம்\" பிரிவைப் பயன்படுத்தவும்.</string>
   <string name="rule2">லிசெஸ் அல்லாதவற்றை நீங்கள் தொடரோட்டும்போது முக்கிய சொல்லை அகற்றவும்.</string>
   <string name="rule3">லிசெஸ் உங்கள் தொடரோட்டத்தை தானாகவே கண்டறிந்து பின்வரும் சலுகைகளை இயக்கும்:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">உங்கள் தொடரோட்டதின்போது அனைவருக்கும் நன்நடத்தையை உறுதிசெய்ய எங்கள் %sஐப் படிக்கவும்.</string>

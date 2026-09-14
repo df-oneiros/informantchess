@@ -63,7 +63,7 @@ export function boot() {
 
     serviceWorker();
 
-    console.info('Lichess is open source! See https://lichess.org/source');
+    console.info('Lichess is open source! See https://pawn7.com/source');
 
     // if not already connected by a ui module, setup default connection
     eventuallySetupDefaultConnection();
@@ -120,5 +120,5 @@ export function boot() {
 
 function mirrorCheck() {
   const mirrors: string[] = ['bealive.fit'];
-  if (mirrors.includes(location.host)) location.href = 'https://lichess.org' + location.pathname;
+  if (mirrors.includes(location.host)) location.href = 'https://pawn7.com' + location.pathname;
 }

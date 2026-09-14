@@ -3,8 +3,8 @@
   <string name="activity">செயல்பாடு</string>
   <string name="hostedALiveStream">இணைய நேரலை</string>
   <plurals name="supportedNbMonths">
-    <item quantity="one">%1$s மாதத்திற்கு %2$s ஆக lichess.org ஆதரிக்கப்படுகிறது</item>
-    <item quantity="other">%1$s மாதங்களுக்கு %2$s ஆக lichess.org ஆதரிக்கப்படுகிறது</item>
+    <item quantity="one">%1$s மாதத்திற்கு %2$s ஆக pawn7.com ஆதரிக்கப்படுகிறது</item>
+    <item quantity="other">%1$s மாதங்களுக்கு %2$s ஆக pawn7.com ஆதரிக்கப்படுகிறது</item>
   </plurals>
   <plurals name="practicedNbPositions">
     <item quantity="one">%2$s இல் %1$s நிலையைப் பயிற்சி செய்தேன்</item>

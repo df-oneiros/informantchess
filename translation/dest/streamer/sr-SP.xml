@@ -15,7 +15,7 @@
   <string name="downloadKit">Преузми стирмер опрему</string>
   <string name="xIsStreaming">%s стримује</string>
   <string name="rules">Правила стримовања</string>
-  <string name="rule1">Укључи кључну реч \"lichess.org\" у свом наслову стрима и користи категорију \"Chess\" када стримујеш на Lichess-у.</string>
+  <string name="rule1">Укључи кључну реч \"pawn7.com\" у свом наслову стрима и користи категорију \"Chess\" када стримујеш на Lichess-у.</string>
   <string name="rule2">Избаци ту кључну реч када стримујеш ствари невезане за Lichess.</string>
   <string name="rule3">Lichess ће детектовати твој стрим аутоматски и омогућити следеће предности:</string>
   <string name="perks">Предности стримовања са кључном речи</string>

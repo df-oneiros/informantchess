@@ -135,7 +135,7 @@
   <string name="interestingMove">Lëvizje me interes</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Lëvizje e dyshimtë</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Lëvizja e vetme</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Zugzwang</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Zugzwang</string>
   <string name="equalPosition">është baras me</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Shenjë gishti e paqartë</string>
   <string name="whiteIsSlightlyBetter">I bardhi është pakëz më mirë</string>
@@ -179,7 +179,7 @@
   <string name="annotatePositionTitle">Vini shënim për një pozicion</string>
   <string name="annotatePositionText">Klikoni butonin !? , ose djathtasklikoni mbi listën e lëvizjeve djathtas.&lt;br&gt;Tregohen shenja shënimi dhe ruhen.</string>
   <string name="conclusionTitle">Faleminderit për kohën që harxhoni</string>
-  <string name="conclusionText">&lt;a href=\'/study/mine/hot\'&gt;Ushtrimet tuaja të mëparshme&lt;/a&gt; mund t’i gjeni te faqja e profilit tuaj.&lt;br&gt;Ka edhe një &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;postim blogu rreth ushtrimeve&lt;/a&gt;.&lt;br&gt;Përdoruesit e sprovuar mund të duan të shtypin “?”, që të shohin shkurtore tastiere.&lt;br&gt;Bëfshi qejf!</string>
+  <string name="conclusionText">&lt;a href=\'/study/mine/hot\'&gt;Ushtrimet tuaja të mëparshme&lt;/a&gt; mund t’i gjeni te faqja e profilit tuaj.&lt;br&gt;Ka edhe një &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;postim blogu rreth ushtrimeve&lt;/a&gt;.&lt;br&gt;Përdoruesit e sprovuar mund të duan të shtypin “?”, që të shohin shkurtore tastiere.&lt;br&gt;Bëfshi qejf!</string>
   <string name="createChapterTitle">Le të krijojmë një kapitull ushtrimi</string>
   <string name="createChapterText">Një ushtrim mund të ketë disa kapituj.&lt;br&gt;Çdo kapitull ka një pemë të vetën lëvizjesh,&lt;br&gt;dhe mund të krijohet në rrugë të ndryshme.</string>
   <string name="fromInitialPositionTitle">Nga pozicioni fillestar</string>
@@ -187,7 +187,7 @@
   <string name="customPositionTitle">Custom position</string>
   <string name="customPositionText">Ujdiseni fushën si doni.&lt;br&gt;E përshtatshme të eksploruar funde lojërash.</string>
   <string name="loadExistingLichessGameTitle">Ngarko një lojë shahu ekzistuese</string>
-  <string name="loadExistingLichessGameText">Hidhni URL-në e një loje shahu&lt;br&gt;(fjala vjen, lichess.org/7fHIU0XI)&lt;br&gt;që të ngarkohen te kapitulli lëvizjet e lojës.</string>
+  <string name="loadExistingLichessGameText">Hidhni URL-në e një loje shahu&lt;br&gt;(fjala vjen, pawn7.com/7fHIU0XI)&lt;br&gt;që të ngarkohen te kapitulli lëvizjet e lojës.</string>
   <string name="fromFenStringTitle">Nga një varg FEN</string>
   <string name="fromFenStringText">Ngjitni një pozicion në format FEN&lt;br&gt;&lt;i&gt;4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w&lt;/i&gt;&lt;br&gt;që kapitulli të niset prej një pozicioni.</string>
   <string name="fromPgnGameTitle">Nga një lojë PGN</string>

@@ -15,7 +15,7 @@
   <string name="downloadKit">Strimer toʻplamini yuklab olish</string>
   <string name="xIsStreaming">%s efirda</string>
   <string name="rules">Strim qilish qoidalari</string>
-  <string name="rule1">Lichessʼda strim qilayotganingizda, efir sarlavhasiga \"lichess.org\" kalit soʻzini kiriting va \"Chess\" (Shaxmat) turkumidan foydalaning.</string>
+  <string name="rule1">Lichessʼda strim qilayotganingizda, efir sarlavhasiga \"pawn7.com\" kalit soʻzini kiriting va \"Chess\" (Shaxmat) turkumidan foydalaning.</string>
   <string name="rule2">Lichessʼga aloqador boʻlmagan kontentni efirga uzatganingizda, ushbu kalit soʻzni sarlavhadan olib tashlang.</string>
   <string name="rule3">Lichess efiringizni avtomatik ravishda aniqlaydi va quyidagi imkoniyatlarni faollashtiradi:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">Efir davomida barcha uchun halol oʻyin muhitini taʼminlash maqsadida %s bo‘limi bilan tanishib chiqing.</string>

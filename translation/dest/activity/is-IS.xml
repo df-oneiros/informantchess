@@ -3,8 +3,8 @@
   <string name="activity">Virkni</string>
   <string name="hostedALiveStream">Var með útsendingu í beinni</string>
   <plurals name="supportedNbMonths">
-    <item quantity="one">Studdi lichess.org í %1$s mánuð sem %2$s</item>
-    <item quantity="other">Studdi lichess.org í %1$s mánuði sem %2$s</item>
+    <item quantity="one">Studdi pawn7.com í %1$s mánuð sem %2$s</item>
+    <item quantity="other">Studdi pawn7.com í %1$s mánuði sem %2$s</item>
   </plurals>
   <plurals name="practicedNbPositions">
     <item quantity="one">Æfði %1$s stöðu í %2$s</item>
@@ -71,7 +71,7 @@
     <item quantity="other">Tók þátt í %s Swiss-mótum</item>
   </plurals>
   <string name="rankedInSwissTournament">#%1$s sæti í %2$s</string>
-  <string name="signedUp">Nýskráning á lichess.org</string>
+  <string name="signedUp">Nýskráning á pawn7.com</string>
   <plurals name="joinedNbTeams">
     <item quantity="one">Gekk til liðs við %s</item>
     <item quantity="other">Gekk til liðs við %s</item>

@@ -126,37 +126,37 @@
   <string name="enableAutoplayForSoundsQ">サウンドの自動再生を有効にするには？</string>
   <string name="enableAutoplayForSoundsA">通常のブラウザではユーザーを守るため、新たに読み込んだページのサウンド再生がオフになっています。いきなり広告の音が鳴ったりしないようにです。
 
-ブラウザが lichess.org のサウンド再生を阻止すると、赤のミュート・アイコンが表示されます。通常、何かをクリックするとこの制限は解除されます。一部のモバイル用ブラウザでは、駒のタッチ＆ドラッグはクリックしたことになりません。その場合は対局が始まるたびに盤をタップして音声をオンにする必要があります。
+ブラウザが pawn7.com のサウンド再生を阻止すると、赤のミュート・アイコンが表示されます。通常、何かをクリックするとこの制限は解除されます。一部のモバイル用ブラウザでは、駒のタッチ＆ドラッグはクリックしたことになりません。その場合は対局が始まるたびに盤をタップして音声をオンにする必要があります。
 
-たいていの場合、ブラウザの設定で lichess.org のサウンド再生を許可できます。以下によく使われるブラウザの最近のバージョンでの操作方法をまとめました。</string>
+たいていの場合、ブラウザの設定で pawn7.com のサウンド再生を許可できます。以下によく使われるブラウザの最近のバージョンでの操作方法をまとめました。</string>
   <string name="mostBrowsersPreventSoundAutoplay" comment="Replaces old string enableAutoplayForSoundsA">通常のブラウザではユーザーを守るため、新たに読み込んだページのサウンド再生がオフになっています。
 
-ブラウザが lichess.org のサウンド再生を阻止すると、赤のミュートアイコンが表示されます。通常、何かをクリックするとこの制限は解除されます。
+ブラウザが pawn7.com のサウンド再生を阻止すると、赤のミュートアイコンが表示されます。通常、何かをクリックするとこの制限は解除されます。
 一部のモバイル用ブラウザでは、駒のタッチ＆ドラッグはクリックしたことになりません。その場合は対局の初めにボードをタップして音声をオンにする必要があります。
 
-この状態を示すために赤のミュートアイコンが表示されます。ほとんどのブラウザでは設定で lichess.org のサウンド再生を許可できます。以下によく使われるブラウザの最近のバージョンでの操作方法をまとめました。</string>
+この状態を示すために赤のミュートアイコンが表示されます。ほとんどのブラウザでは設定で pawn7.com のサウンド再生を許可できます。以下によく使われるブラウザの最近のバージョンでの操作方法をまとめました。</string>
   <string name="desktop">デスクトップ</string>
-  <string name="enableAutoplayForSoundsFirefox">1. lichess.org に行く
+  <string name="enableAutoplayForSoundsFirefox">1. pawn7.com に行く
 2. Linux/Windows なら Ctrl+i を、MacOS なら cmd+i を押す
 3. 許可設定タブをクリック
-4. lichess.org の音声と動画を許可する</string>
-  <string name="enableAutoplayForSoundsChrome">1. lichess.org に行く
+4. pawn7.com の音声と動画を許可する</string>
+  <string name="enableAutoplayForSoundsChrome">1. pawn7.com に行く
 2. アドレスバーの URL の左のアイコンをクリック
 3. 「サイトの設定」をクリック
 4. サウンドを許可する</string>
-  <string name="enableAutoplayForSoundsChromeSiteInformation" comment="Guidance for Google Chrome users on how to enable audio auto-play if they have sound issues. Replaces old string enableAutoplayForSoundsChrome">1. lichess.org へ行く
+  <string name="enableAutoplayForSoundsChromeSiteInformation" comment="Guidance for Google Chrome users on how to enable audio auto-play if they have sound issues. Replaces old string enableAutoplayForSoundsChrome">1. pawn7.com へ行く
 2. URL の左のサイト情報アイコンをクリック
 3. 「サイトの設定」をクリック
 4. 「音声」を「許可する」</string>
-  <string name="enableAutoplayForSoundsSafari">1. lichess.org に行く
+  <string name="enableAutoplayForSoundsSafari">1. pawn7.com に行く
 2. メニューバーで Safari をクリック
-3. lichess.org の設定をクリック
+3. pawn7.com の設定をクリック
 4. 「すべてのメディアを自動再生」を許可する</string>
   <string name="enableAutoplayForSoundsMicrosoftEdge">1. 右上の点 3 つのアイコンをクリック
 2. 「設定」をクリック
 3. 「Cookie とサイトのアクセス許可」をクリック
 4. スクロールして「メディアの自動再生」をクリック
-5. 「許可」に lichess.org を追加</string>
+5. 「許可」に pawn7.com を追加</string>
   <string name="stopMyselfFromPlaying">チェスのやりすぎを止めるには？</string>
   <string name="mentalHealthCondition">独立した疾病</string>
   <string name="lichessUserstyles">Lichess ユーザースタイル</string>

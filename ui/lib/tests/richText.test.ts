@@ -52,23 +52,23 @@ describe('test regex patterns', () => {
   });
 
   each<[string]>([
-    ['https://lichess.org/study/aa*bb'],
-    ['https://lichess.org/study/aa$bb'],
-    ["https://lichess.org/study/aa'bb"],
-    ["https://lichess.org/study/aa*bb$cc'dd"],
+    ['https://pawn7.com/study/aa*bb'],
+    ['https://pawn7.com/study/aa$bb'],
+    ["https://pawn7.com/study/aa'bb"],
+    ["https://pawn7.com/study/aa*bb$cc'dd"],
     ['https://example.com/aa*bb'],
-    ["lichess.org/@/thibault?q=a'b*c$dd"],
+    ["pawn7.com/@/thibault?q=a'b*c$dd"],
     [
-      "https://lichess.org/analysis/pgn/1.d4+Nf6+2.c4+g6+3.Nc3+Bg7+4.e4+d6+5.Nf3+O-O+6.Be2+e5+7.d5+a5+8.Bg5+(8.O-O+Na6+9.a3+Nc5)%20?color=black#.%3EaP-%3DYQ%245%60Y%2F%3FVN)8_b(%2FWG%3EFSC'*%5CK%2B3KE",
+      "https://pawn7.com/analysis/pgn/1.d4+Nf6+2.c4+g6+3.Nc3+Bg7+4.e4+d6+5.Nf3+O-O+6.Be2+e5+7.d5+a5+8.Bg5+(8.O-O+Na6+9.a3+Nc5)%20?color=black#.%3EaP-%3DYQ%245%60Y%2F%3FVN)8_b(%2FWG%3EFSC'*%5CK%2B3KE",
     ],
   ])('urls containing *, $, or apostrophes', url => {
     assert.deepStrictEqual(url.match(linkRegex), [url]);
   });
 
   each<[string]>([
-    ['lichess.org/study/aa*bb'],
-    ['lichess.org/study/aa$bb'],
-    ["lichess.org/study/aa*bb$cc'dd"],
+    ['pawn7.com/study/aa*bb'],
+    ['pawn7.com/study/aa$bb'],
+    ["pawn7.com/study/aa*bb$cc'dd"],
   ])('enhanced lichess links keep *, $, and apostrophes', url => {
     const linked = url.replace(/'/g, '&#39;');
     assert.strictEqual(

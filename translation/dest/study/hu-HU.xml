@@ -136,7 +136,7 @@
   <string name="interestingMove">Érdekes lépés</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Szokatlan lépés</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Egyetlen lépés</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Lépéskényszer</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Lépéskényszer</string>
   <string name="equalPosition">Egyenlő állás</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Zavaros állás</string>
   <string name="whiteIsSlightlyBetter">Világos kicsit jobban áll</string>
@@ -181,7 +181,7 @@ Használd játszmák elemzésére és jegyzetek készítésére,&lt;br&gt;beszé
   <string name="annotatePositionTitle">Jegyezd le az állást</string>
   <string name="annotatePositionText">Kattints a !? gombra, vagy jobb klikk a jobb oldali lépéslistára.&lt;br&gt;Így a jelöléseket megosztod és elmented.</string>
   <string name="conclusionTitle">Köszönjük az idődet</string>
-  <string name="conclusionText">Megtalálod&lt;a href=\'/study/mine/hot\'&gt;korábbi tanulmányaidat&lt;/a&gt;a profilod oldalán.&lt;br&gt;Van egy &lt;ahref=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;blog poszt is a tanulmányokról&lt;/a&gt;.&lt;br&gt;A haladó felhasználók a \"?\" megnyomásával megnézhetik a billentyűparancsokat.&lt;br&gt;Jó szórakozást!</string>
+  <string name="conclusionText">Megtalálod&lt;a href=\'/study/mine/hot\'&gt;korábbi tanulmányaidat&lt;/a&gt;a profilod oldalán.&lt;br&gt;Van egy &lt;ahref=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;blog poszt is a tanulmányokról&lt;/a&gt;.&lt;br&gt;A haladó felhasználók a \"?\" megnyomásával megnézhetik a billentyűparancsokat.&lt;br&gt;Jó szórakozást!</string>
   <string name="createChapterTitle">Hozzunk létre egy tanulmány fejezetet</string>
   <string name="createChapterText">Egy tanulmány több fejezetet is tartalmazhat.&lt;br&gt;Minden fejezetnek különböző lépésváltozatai vannak,&lt;br&gt;és számos módon hozhatók létre.</string>
   <string name="fromInitialPositionTitle">Kezdőállásból</string>
@@ -189,7 +189,7 @@ Használd játszmák elemzésére és jegyzetek készítésére,&lt;br&gt;beszé
   <string name="customPositionTitle">Saját állás</string>
   <string name="customPositionText">Állítsd be a táblát neked megfelelően!&lt;br&gt;Ideális mattvégjátékok felfedezéséhez.</string>
   <string name="loadExistingLichessGameTitle">Tölts be egy létező Lichess játszmát</string>
-  <string name="loadExistingLichessGameText">Illessz be egy Lichess parti URL-jét&lt;br&gt;(például lichess.org/7fHIU0XI)&lt;br&gt;A lépések betöltődnek a fejezetbe.</string>
+  <string name="loadExistingLichessGameText">Illessz be egy Lichess parti URL-jét&lt;br&gt;(például pawn7.com/7fHIU0XI)&lt;br&gt;A lépések betöltődnek a fejezetbe.</string>
   <string name="fromFenStringTitle">Egy FEN karakterláncból</string>
   <string name="fromFenStringText">Illessz be egy állást FET formátumban&lt;br&gt;&lt;i&gt;4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w&lt;/i&gt;&lt;br&gt;,hogy egy állásból kezdd a fejezetet.</string>
   <string name="fromPgnGameTitle">Egy PGN játszmából</string>

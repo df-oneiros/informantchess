@@ -53,7 +53,7 @@
   <plurals name="patronForMonths">
     <item quantity="other">%s달 동안 Lichess의 후원자입니다</item>
   </plurals>
-  <string name="youSupportWith">당신은 lichess.org에 매달 %s를 지원합니다.</string>
+  <string name="youSupportWith">당신은 pawn7.com에 매달 %s를 지원합니다.</string>
   <string name="tyvm">당신의 지원에 대단히 감사합니다. 예압!</string>
   <string name="currentStatus">현재 상태</string>
   <string name="nextPayment">다음 결제일</string>

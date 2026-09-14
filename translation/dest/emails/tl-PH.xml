@@ -9,7 +9,7 @@
   <string name="emailChange_subject">Kumpirmahin ang bagong email address, %s</string>
   <string name="emailChange_intro">Nai-request mo nang baguhin ang iyong email address.</string>
   <string name="emailChange_click">Upang kumpirmahin na mayroon kang access sa email na ito, pindutin ang link sa ibaba:</string>
-  <string name="welcome_subject">Maligayang pagdating sa lichess.org, %s</string>
+  <string name="welcome_subject">Maligayang pagdating sa pawn7.com, %s</string>
   <string name="welcome_text">Ito ang iyong profile page: %1$s. Maaari mo itong i-personalize sa %2$s.
 
 Maging masaya, at nawa’y mahanap ng iyong mga piyesa ang daan tungo sa kalabang hari!</string>

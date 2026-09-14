@@ -15,7 +15,7 @@
   <string name="downloadKit">Atsisiųsti transliuotojo rinkinį</string>
   <string name="xIsStreaming">%s transliuoja</string>
   <string name="rules">Transliacijų taisyklės</string>
-  <string name="rule1">Transliuodami Lichess transliacijos pavadinime įterpkite \"lichess.org\" ir naudokite kategoriją \"Šachmatai\" (Chess).</string>
+  <string name="rule1">Transliuodami Lichess transliacijos pavadinime įterpkite \"pawn7.com\" ir naudokite kategoriją \"Šachmatai\" (Chess).</string>
   <string name="rule2">Pašalinkite raktinį žodį kai transliuojate ne Lichess dalykus.</string>
   <string name="rule3">Lichess jūsų transliaciją aptiks automatiškai ir suteiks jums šiuos privalumus:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">Perskaitykite %s norėdami užtikrinti sąžiningą žaidimą visiems žaidėjams savo transliacijoje.</string>

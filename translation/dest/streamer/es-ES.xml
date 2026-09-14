@@ -15,7 +15,7 @@
   <string name="downloadKit">Descargar kit de presentador</string>
   <string name="xIsStreaming">%s está transmitiendo</string>
   <string name="rules">Reglas de transmisión</string>
-  <string name="rule1">Incluye la palabra clave \"lichess.org\" en el título de tu transmisión y usa la categoría \"Chess\" cuando transmitas en Lichess.</string>
+  <string name="rule1">Incluye la palabra clave \"pawn7.com\" en el título de tu transmisión y usa la categoría \"Chess\" cuando transmitas en Lichess.</string>
   <string name="rule2">Elimina la palabra clave cuando transmitas contenido que no esté relacionado a Lichess.</string>
   <string name="rule3">Lichess detectará tu transmisión automáticamente y habilitará los siguientes beneficios:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">Lee las %s para garantizar que todos los participantes actúen con deportividad durante la transmisión.</string>

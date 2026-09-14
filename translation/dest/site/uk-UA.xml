@@ -305,7 +305,7 @@
   <string name="emailCanTakeSomeTime">Отримання повідомлення може зайняти деякий час.</string>
   <string name="refreshInboxAfterFiveMinutes">Зачекайте 5 хвилин і оновіть поштову скриньку.</string>
   <string name="checkSpamFolder">Також перевірте папку \"Спам\", лист міг потрапити туди. Якщо так, то позначте його як не спам.</string>
-  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Якщо ви не отримали електронного листа з підтвердженням, перевірте теку зі спамом та кошик. Позначте листи від lichess.org як «не спам», щоб ви могли залишатися в курсі подій.</string>
+  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Якщо ви не отримали електронного листа з підтвердженням, перевірте теку зі спамом та кошик. Позначте листи від pawn7.com як «не спам», щоб ви могли залишатися в курсі подій.</string>
   <string name="sendEmailForAccountVerification">Якщо ви не можете знайти лист підтвердження, відправте лист на %s, і ми підтвердимо ваш обліковий запис.</string>
   <string name="accountConfirmed">Користувач %s успішно підтверджений.</string>
   <string name="accountCanLogin">Тепер ви можете ввійти як %s.</string>
@@ -676,7 +676,7 @@
   <string name="reportCheatBoostHelp">Вставте посилання на гру або ігри та поясніть, що не так з поведінкою цього користувача. Не кажіть «він нечесно грав», а поясніть, як ви прийшли до такого висновку.</string>
   <string name="reportUsernameHelp">Поясніть, що саме в цьому імені користувача є образливе. Не кажіть «воно образливе/неприйнятне», а поясніть, чому ви так вважаєте, особливо коли образа заплутана, не англійською, на сленгу, чи є посиланням на щось історичне/культурне.</string>
   <string name="reportProcessedFasterInEnglish">Ваша скарга оброблятиметься швидше, якщо буде написана англійською.</string>
-  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://lichess.org/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Ми зможемо опрацювати вашу скаргу швидше, якщо вона буде англійською.</string>
+  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://pawn7.com/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Ми зможемо опрацювати вашу скаргу швидше, якщо вона буде англійською.</string>
   <string name="error.provideOneCheatedGameLink">Будь ласка, додайте посилання на хоча б одну нечесну гру.</string>
   <string name="by">від %s</string>
   <string name="importedByX">Завантажено гравцем - %s</string>
@@ -807,7 +807,7 @@
   <string name="aboutSimulSettings">Сеанси завжди нерейтингові. Опції реваншу, повернення ходу і додавання часу вимкнені.</string>
   <string name="create">Створити</string>
   <string name="whenCreateSimul">Коли Ви створите сеанс, Вам треба буде грати проти кількох суперників одночасно.</string>
-  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://lichess.org/simul/new Replaces old string whenCreateSimul">Створення сеансу дає вам змогу грати проти кількох суперників одночасно.</string>
+  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://pawn7.com/simul/new Replaces old string whenCreateSimul">Створення сеансу дає вам змогу грати проти кількох суперників одночасно.</string>
   <string name="simulVariantsHint">Якщо Ви обираєте кілька шахових варіантів, кожен гравець буде визначатися, який із них обрати.</string>
   <string name="simulClockHint">Налаштування годинника Фішера. Чим більше учасників, тим більше часу Вам знадобиться.</string>
   <string name="simulAddExtraTime">Ви можете додати собі час, щоб упоратися з сеансом.</string>
@@ -1028,7 +1028,7 @@
   <string name="tryToWin">Грайте завжди на перемогу (чи принаймні на нічию).</string>
   <string name="resignLostGames">Здавайтеся в програних іграх (не чекайте кінця таймера).</string>
   <string name="temporaryInconvenience">Вибачте за тимчасові незручності,</string>
-  <string name="wishYouGreatGames">і бажаємо чудових ігор на lichess.org.</string>
+  <string name="wishYouGreatGames">і бажаємо чудових ігор на pawn7.com.</string>
   <string name="thankYouForReading">Дякуємо, що прочитали!</string>
   <string name="lifetimeScore">Рахунок за весь час</string>
   <string name="currentMatchScore">Поточний рахунок матчу</string>

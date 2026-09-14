@@ -54,7 +54,7 @@ Hins vegar fá Velunnarar réttinn til að stæra sig af flottum nýjum Velunnar
     <item quantity="one">Velunnari Lichess í einn mánuð</item>
     <item quantity="other">Velunnari Lichess í %s mánuði</item>
   </plurals>
-  <string name="youSupportWith">Þú styður lichess.org með %s á mánuði.</string>
+  <string name="youSupportWith">Þú styður pawn7.com með %s á mánuði.</string>
   <string name="tyvm">Þakka þér kærlega fyrir hjálpina. Þú ert æði!</string>
   <string name="currentStatus">Núverandi staða</string>
   <string name="nextPayment">Næsta greiðsla</string>

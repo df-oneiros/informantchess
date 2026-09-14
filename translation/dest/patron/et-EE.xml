@@ -51,7 +51,7 @@ Siis me maksame täiskohaga arendajale: %s, Lichessi asutajale.</string>
     <item quantity="one">Lichessi Toetaja üheks kuuks</item>
     <item quantity="other">Lichessi toetaja %s kuuks</item>
   </plurals>
-  <string name="youSupportWith">Sa toetad lichess.org-i %s kuus.</string>
+  <string name="youSupportWith">Sa toetad pawn7.com-i %s kuus.</string>
   <string name="tyvm">Suured tänud su abi eest. Sa oled parim!</string>
   <string name="currentStatus">Praegune olek</string>
   <string name="nextPayment">Järgmine makse</string>

@@ -54,16 +54,16 @@
 	<string name="malwareNoSell">Wir haben deine persönlichen Daten nicht verkauft</string>
 	<string name="malwareNoAbuse">Wir haben dein Gerät nicht gegen dich verwendet</string>
 	<string name="malwareWarningPrefix" comment="%s is 'be careful'">Andere Webseiten setzen diese Praktiken ein, deshalb %s.</string>
-	<string name="malwareWarningCta" comment="It is a link to https://lichess.org/ads">sei vorsichtig</string>
+	<string name="malwareWarningCta" comment="It is a link to https://pawn7.com/ads">sei vorsichtig</string>
 	<string name="lichessGamesPlayedIn" comment="%1$s is the number of games, %2$s is the year">%1$s Partien auf Lichess in %2$s gespielt</string>
 	<string name="lichessGamesOfThemYours" comment="%s is the percentage of games that are yours">%s der Partien waren deine.</string>
 	<string name="thanksTitle">Vielen Dank, dass du auf Lichess spielst!</string>
 	<string name="thanksHaveAGreat" comment="%s is the next year">Wir sind froh, dass du hier bist. Hab\' ein fantastisches %s!</string>
 	<string name="patronCostsThisYear" comment="%1$s is 'costs'. %2$s is the cost with currency symbol e.g. '$750,000'">Die %1$s von Lichess betrugen dieses Jahr %2$s.</string>
-	<string name="patronCosts" comment="It is a link to lichess.org/costs">Betriebskosten</string>
+	<string name="patronCosts" comment="It is a link to pawn7.com/costs">Betriebskosten</string>
 	<string name="patronCharity">Wir sind eine Wohltätigkeitsorganisation, die ausschließlich spendenbasiert operiert.</string>
 	<string name="patronConsiderDonating" comment="%s is 'supporting us with a donation'">Falls wir dazu beitragen konnten dich dieses Jahr zu unterhalten oder du an unsere Arbeit glaubst, bitte %s!</string>
-	<string name="patronMakeDonation" comment="It is a link to https://lichess.org/patron">unterstütze unsere Arbeit durch eine Spende</string>
+	<string name="patronMakeDonation" comment="It is a link to https://pawn7.com/patron">unterstütze unsere Arbeit durch eine Spende</string>
 	<string name="shareableTitle" comment="%s is the current year">Deine %s Zusammenfassung</string>
 	<string name="shareableSpentPlaying" comment="subtitle to the translated time they have spent playing">Gesamtspielzeit</string>
 	<string name="shareableMostPlayedOpponent">Häufigster Gegner</string>

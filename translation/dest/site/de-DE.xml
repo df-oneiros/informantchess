@@ -606,7 +606,7 @@ Wenn du gewertete Partien spielst, wird die Stabilität erhöht.</string>
   <string name="reportCheatBoostHelp">Füge den Link zu einer oder mehreren Partien ein und erkläre die Auffälligkeiten bezüglich des Verhaltens des Spielers. Bitte schreibe nicht einfach nur „Die schummeln (bzw. betrügen)“, sondern begründe auch, wie Du zu diesem Schluss kommst.</string>
   <string name="reportUsernameHelp">Erkläre, was an diesem Benutzernamen beleidigend oder unangemessen ist. Sage nicht einfach \"Der Name ist beleidigend/unangemessen\", sondern erkläre, wie du zu dieser Schlussfolgerung gekommen bist. Insbesondere wenn die Beleidigung verschleiert wird, nicht auf Englisch, Umgangssprache, oder ein historischer/kultureller Bezugspunkt ist.</string>
   <string name="reportProcessedFasterInEnglish">Ihr Bericht wird schneller bearbeitet, wenn er auf Englisch verfasst ist.</string>
-  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://lichess.org/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Wir können deinen Bericht schneller bearbeiten, wenn du auf Englisch schreibst.</string>
+  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://pawn7.com/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Wir können deinen Bericht schneller bearbeiten, wenn du auf Englisch schreibst.</string>
   <string name="error.provideOneCheatedGameLink">Bitte gib mindestens einen Link zu einem Spiel an, in dem betrogen wurde.</string>
   <string name="by">von %s</string>
   <string name="importedByX">Importiert von %s</string>
@@ -731,12 +731,12 @@ Wenn du gewertete Partien spielst, wird die Stabilität erhöht.</string>
   <string name="aboutSimulSettings">Simultane sind immer ungewertet. Revanchen, Zugrücknahme und zusätzliche Zeit sind deaktiviert.</string>
   <string name="create">Erstellen</string>
   <string name="whenCreateSimul">Wenn du ein Simultan erstellst, spielst du mit mehreren Gegnern gleichzeitig.</string>
-  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://lichess.org/simul/new Replaces old string whenCreateSimul">Durch das Erstellen eines Simultans kannst du gleichzeitig gegen mehrere Gegner spielen.</string>
+  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://pawn7.com/simul/new Replaces old string whenCreateSimul">Durch das Erstellen eines Simultans kannst du gleichzeitig gegen mehrere Gegner spielen.</string>
   <string name="simulVariantsHint">Wurden mehrere Varianten gewählt, kann jeder Spieler sich eine Variante aussuchen.</string>
   <string name="simulClockHint">Fischer Bedenkzeit. Je mehr Gegner du hast, desto mehr Zeit wirst du benötigen.</string>
   <string name="simulAddExtraTime">Du kannst dir selbst zusätzliche Zeit hinzufügen, um mit dem Simultan zurechtzukommen.</string>
   <string name="simulHostExtraTime">Extra Bedenkzeit des Ausrichters</string>
-  <string name="extraClockTimeForHost" comment="Appears on: https://lichess.org/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Zusätzliche Bedenkzeit für den Ausrichter:</string>
+  <string name="extraClockTimeForHost" comment="Appears on: https://pawn7.com/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Zusätzliche Bedenkzeit für den Ausrichter:</string>
   <string name="simulAddExtraTimePerPlayer">Füge deiner Uhr für jeden Spieler, der deinem Simultan beitritt, zu Beginn zusätzliche Bedenkzeit hinzu.</string>
   <string name="simulHostExtraTimePerPlayer">Teile jedem Spieler zusätzliche Bedenkzeit zu</string>
   <string name="lichessTournaments">Lichess Turniere</string>
@@ -933,7 +933,7 @@ Wenn du gewertete Partien spielst, wird die Stabilität erhöht.</string>
   </plurals>
   <string name="showUnreadLichessMessage">Du hast eine private Nachricht von Lichess erhalten.</string>
   <string name="clickHereToReadIt">Hier klicken zum Lesen</string>
-  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://lichess.org/@/Lichess Replaces old string clickHereToReadIt">Nachricht lesen</string>
+  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://pawn7.com/@/Lichess Replaces old string clickHereToReadIt">Nachricht lesen</string>
   <string name="sorry">Entschuldigung :(</string>
   <string name="weHadToTimeYouOutForAWhile">Wir haben dich mit einer vorübergehenden Spielsperre belegt.</string>
   <string name="why">Warum?</string>
@@ -945,7 +945,7 @@ Wenn du gewertete Partien spielst, wird die Stabilität erhöht.</string>
   <string name="tryToWin">Versuche, jedes Spiel zu gewinnen (oder zumindest ein Remis zu erreichen).</string>
   <string name="resignLostGames">Gib verlorene Spiele auf (lasse die Uhr nicht herunterlaufen).</string>
   <string name="temporaryInconvenience">Wir entschuldigen uns für die vorübergehenden Unannehmlichkeiten,</string>
-  <string name="wishYouGreatGames">und wünschen Dir tolle Spiele auf lichess.org.</string>
+  <string name="wishYouGreatGames">und wünschen Dir tolle Spiele auf pawn7.com.</string>
   <string name="thankYouForReading">Vielen Dank für’s Lesen!</string>
   <string name="lifetimeScore">Ewiger Spielstand</string>
   <string name="currentMatchScore">Aktueller Spielstand</string>

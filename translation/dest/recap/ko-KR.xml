@@ -47,16 +47,16 @@
 	<string name="malwareNoSell">Lichess는 당신의 개인정보를 판매하지 않았습니다</string>
 	<string name="malwareNoAbuse">Lichess는 당신의 디바이스를 악용하지 않았습니다</string>
 	<string name="malwareWarningPrefix" comment="%s is 'be careful'">그러나 다른 웹사이트들은 그러기 때문에, %s.</string>
-	<string name="malwareWarningCta" comment="It is a link to https://lichess.org/ads">주의하세요</string>
+	<string name="malwareWarningCta" comment="It is a link to https://pawn7.com/ads">주의하세요</string>
 	<string name="lichessGamesPlayedIn" comment="%1$s is the number of games, %2$s is the year">%1$s 번의 대국이 %2$s년 Lichess에서 진행되었습니다</string>
 	<string name="lichessGamesOfThemYours" comment="%s is the percentage of games that are yours">%s가 당신의 대국이었습니다.</string>
 	<string name="thanksTitle">Lichess에서 플레이해주셔서 감사합니다!</string>
 	<string name="thanksHaveAGreat" comment="%s is the next year">와주셔서 기쁩니다. 행복한 %s년 보내세요!</string>
 	<string name="patronCostsThisYear" comment="%1$s is 'costs'. %2$s is the cost with currency symbol e.g. '$750,000'">올해 Lichess의 %1$s은 %2$s였습니다.</string>
-	<string name="patronCosts" comment="It is a link to lichess.org/costs">비용</string>
+	<string name="patronCosts" comment="It is a link to pawn7.com/costs">비용</string>
 	<string name="patronCharity">Lichess는 자선단체이며, 기부금만으로 비용을 충당합니다.</string>
 	<string name="patronConsiderDonating" comment="%s is 'supporting us with a donation'">올해 Lichess를 즐겁게 이용하셨거나 가치 있다고 생각하시면, %s해주세요!</string>
-	<string name="patronMakeDonation" comment="It is a link to https://lichess.org/patron">기부를 통해 지원</string>
+	<string name="patronMakeDonation" comment="It is a link to https://pawn7.com/patron">기부를 통해 지원</string>
 	<string name="shareableTitle" comment="%s is the current year">나의 %s년 요약</string>
 	<string name="shareableSpentPlaying" comment="subtitle to the translated time they have spent playing">플레이한 시간</string>
 	<string name="shareableMostPlayedOpponent">가장 자주 플레이한 상대</string>

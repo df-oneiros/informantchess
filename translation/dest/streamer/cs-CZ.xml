@@ -15,7 +15,7 @@
   <string name="downloadKit">Stáhnout sadu streamera</string>
   <string name="xIsStreaming">%s streamuje</string>
   <string name="rules">Pravidla streamování</string>
-  <string name="rule1">Zahrnout klíčové slovo \"lichess.org\" do názvu svého streamu, když budete streamovat na Lichess.</string>
+  <string name="rule1">Zahrnout klíčové slovo \"pawn7.com\" do názvu svého streamu, když budete streamovat na Lichess.</string>
   <string name="rule2">Odstraňte klíčové slovo, pokud streamujete neLichess věci.</string>
   <string name="rule3">Lichess automaticky rozpozná váš stream a zapne následující vychytávky:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">Přečtěte si naše %s pro zajištění fair play pro všechny během vašeho streamu.</string>

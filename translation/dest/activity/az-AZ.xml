@@ -67,7 +67,7 @@
     <item quantity="other">%s İsveçrə sistemli turnirə qatıldı</item>
   </plurals>
   <string name="rankedInSwissTournament">%2$s turnirində %1$s-ci oldu</string>
-  <string name="signedUp">lichess.org\'a üzv oldu</string>
+  <string name="signedUp">pawn7.com\'a üzv oldu</string>
   <plurals name="joinedNbTeams">
     <item quantity="one">%s komandasına qatıldı</item>
     <item quantity="other">%s komandasına qatıldı</item>

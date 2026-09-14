@@ -276,7 +276,7 @@
   <string name="emailCanTakeSomeTime">Itxaron pixkatean emaila jaso arte.</string>
   <string name="refreshInboxAfterFiveMinutes">Itxaron 5 minutu eta freskatu zure emailaren sarrera-ontzia.</string>
   <string name="checkSpamFolder">Zabor mezuen karpetan begiratu, batzuetan horra joaten dira-eta emailak. Horrela bada, esan zaborra ez dela.</string>
-  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Emailik jasotzen ez baduzu, kontsultatu zure Spam edo Zabor karpeta. Esan lichess.org-eko mezuak seguruak direla eta \"spam ez\" direla, komunikazio garrantzitsuen berri izateko.</string>
+  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Emailik jasotzen ez baduzu, kontsultatu zure Spam edo Zabor karpeta. Esan pawn7.com-eko mezuak seguruak direla eta \"spam ez\" direla, komunikazio garrantzitsuen berri izateko.</string>
   <string name="sendEmailForAccountVerification">Zure baieztapen emaila ezin baduzu aurkitu, idatzi %s helbidera eta kontua baieztatu egingo dugu.</string>
   <string name="accountConfirmed">%s erabiltzailea ondo baieztatu da.</string>
   <string name="accountCanLogin">Orain %s izena erabiliz sartu zaitezke.</string>
@@ -606,7 +606,7 @@ Jokatu puntuaziorako balio duten partidak egonkortasuna handitzeko.</string>
   <string name="reportCheatBoostHelp">Partidaren esteka itsasi, eta azaldu zer egin duen gaizki erabiltzaileak. Ez esan \"tranpak egiten ditu\" bakarrik, eman horren arrazoiak.</string>
   <string name="reportUsernameHelp">Azaldu erabiltzaile-izen honek zer duen iraingarria. Ez esan \"iraingarria da\" soilik, eman arrazoiak, batez ere iraina ezkutatuta badago, ez bada ingelesezko hitz bat edo errefererantzia historiko edo kulturala bada.</string>
   <string name="reportProcessedFasterInEnglish">Zure mezua azkarrago kudeatuko dugu ingelesez idazten baduzu.</string>
-  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://lichess.org/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Ingelesez idazten badiguzu zure eskaerak azkarrago prozesatuko ditugu.</string>
+  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://pawn7.com/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Ingelesez idazten badiguzu zure eskaerak azkarrago prozesatuko ditugu.</string>
   <string name="error.provideOneCheatedGameLink">Iruzurra izandako partida baten lotura bidali gutxienez.</string>
   <string name="by">egilea %s</string>
   <string name="importedByX">%s erabiltzaileak inportatuta</string>
@@ -731,12 +731,12 @@ Jokatu puntuaziorako balio duten partidak egonkortasuna handitzeko.</string>
   <string name="aboutSimulSettings">Aldibereko partidetan puntuazioak ez dira sekula aldatzen.  Ezin da errebantxarik, atzera-jokatzerik edo-eta denbora-gehitzerik erabili.</string>
   <string name="create">Sortu</string>
   <string name="whenCreateSimul">Aldiberekoa sortzean, jokalari guztien aurka batera jokatu behar duzu.</string>
-  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://lichess.org/simul/new Replaces old string whenCreateSimul">Aldibidereko bat sortzean, aurkari bat baino gehiagoren aurka aldi berean aritu zaitezke.</string>
+  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://pawn7.com/simul/new Replaces old string whenCreateSimul">Aldibidereko bat sortzean, aurkari bat baino gehiagoren aurka aldi berean aritu zaitezke.</string>
   <string name="simulVariantsHint">Aldaera batzuk hautatzen badituzu, jokalari bakoitzak nahi duena aukeratuko du</string>
   <string name="simulClockHint">Fischer erloju doikuntza. Zenbat eta jokalari gehiagoren aurka jokatua,  are denbora gehiago behar izango duzu</string>
   <string name="simulAddExtraTime">Aldibereko partidetan aritu ahal izateko, agian  denbora gehiago gehitu beharko diozu zure erlojuari</string>
   <string name="simulHostExtraTime">Denbora gehitu erlojuan</string>
-  <string name="extraClockTimeForHost" comment="Appears on: https://lichess.org/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Ostatatzailearentzat denbora gehigarria:</string>
+  <string name="extraClockTimeForHost" comment="Appears on: https://pawn7.com/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Ostatatzailearentzat denbora gehigarria:</string>
   <string name="simulAddExtraTimePerPlayer">Aldibereko partidara sartzen den jokalari bakoitzagatik denbora gehitu zure erlojuan.</string>
   <string name="simulHostExtraTimePerPlayer">Jokalari bakoitzeko denbora gehigarria</string>
   <string name="lichessTournaments">Lichess txapelketak</string>
@@ -933,7 +933,7 @@ Jokatu puntuaziorako balio duten partidak egonkortasuna handitzeko.</string>
   </plurals>
   <string name="showUnreadLichessMessage">Lichessek bidalitako mezu pribatu bat jaso duzu.</string>
   <string name="clickHereToReadIt">Egin klik hemen irakurtzeko</string>
-  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://lichess.org/@/Lichess Replaces old string clickHereToReadIt">Irakurri mezua</string>
+  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://pawn7.com/@/Lichess Replaces old string clickHereToReadIt">Irakurri mezua</string>
   <string name="sorry">Barkatu :(</string>
   <string name="weHadToTimeYouOutForAWhile">Denbora tarte baterako bota egin behar izan zaitugu.</string>
   <string name="why">Zergatik?</string>
@@ -945,7 +945,7 @@ Jokatu puntuaziorako balio duten partidak egonkortasuna handitzeko.</string>
   <string name="tryToWin">Jokatutako partida guztiak irabazten saiatu (edo gutxienez berdindu).</string>
   <string name="resignLostGames">Galdutako partidetan amore eman (ez utzi denbora agortzen).</string>
   <string name="temporaryInconvenience">Barkatu eragozpenak,</string>
-  <string name="wishYouGreatGames">segi lichess.org-en jokatzen.</string>
+  <string name="wishYouGreatGames">segi pawn7.com-en jokatzen.</string>
   <string name="thankYouForReading">Eskerrik asko irakurtzeagatik!</string>
   <string name="lifetimeScore">Jokalari honekin duzun emaitza</string>
   <string name="currentMatchScore">Uneko partidetako emaitza</string>

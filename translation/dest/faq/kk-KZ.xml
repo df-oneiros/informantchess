@@ -137,7 +137,7 @@
   <string name="viewSiteInformationPopUp">Сайттың жайлы қалқымалы терезені қарау</string>
   <string name="lichessCanOptionnalySendPopUps">Личес таңдаулы түрде қалқымалы терезе түрінде ескерту жібере алады, мысалы, сіздің жүру кезегіңіз келгенде не жеке хабар түскенде.
 
-Браузердің URL жолағында lichess.org мекенжайының қасында орналасқан құлып таңбасын басыңыз.
+Браузердің URL жолағында pawn7.com мекенжайының қасында орналасқан құлып таңбасын басыңыз.
 
 Кейін Личестің ескетулерін көрсету-көрсетпеуді таңдаңыз.</string>
   <string name="enableAutoplayForSoundsQ">Дыбысты автошығару рұқсат па?</string>
@@ -145,23 +145,23 @@
 Браузер Личес-тегі дыбысқа тыйым етсе, қызыл \"үнсіз\" белгісі шығады. Жағдайдың көбінде қандай да бір жерге шертсеңіз бұл тыйым кетеді. Кейбір мобилді браузер тасты тартып жүргеніңізді шерту деп қабылдамайды, сондықтан дыбысқа рұқсат беру үшін әр ойын басында тақтаға бір шертуіңіз керек. Бұл кезде қызыл белгі шығады.
 Браузер Лическе тұрақты түрде дыбыс рұқсатын бере алады. Ол үшін танымал браузерлерді қамтитын келесідей нұсқаулықты қарап шығыңыз.</string>
   <string name="desktop">компьютер</string>
-  <string name="enableAutoplayForSoundsFirefox">1. lichess.org сайтын ашыңыз
+  <string name="enableAutoplayForSoundsFirefox">1. pawn7.com сайтын ашыңыз
 2. Windows пен Linux үшін Cntr + i, MacOS үшін Cmd + i
 3. Рұқсаттар бөліміне өтіңіз
-4. lichess.org-та Аудио мен Видео рұқсат ету</string>
-  <string name="enableAutoplayForSoundsChrome">1. lichess.org сайтын ашыңыз
+4. pawn7.com-та Аудио мен Видео рұқсат ету</string>
+  <string name="enableAutoplayForSoundsChrome">1. pawn7.com сайтын ашыңыз
 2. Мекенжай жолағында құлып белгісін басыңыз
 3. Сайт баптауларына өтіңіз
 4. Дыбысқа рұқсат беріңіз</string>
-  <string name="enableAutoplayForSoundsSafari">1. lichess.org сайтын ашыңыз
+  <string name="enableAutoplayForSoundsSafari">1. pawn7.com сайтын ашыңыз
 2. Мәзір жолағында Safari басыңыз
-3. lichess.org арналған баптаулар
+3. pawn7.com арналған баптаулар
 4. Бүкіл автоойнатуды рұқсат ету</string>
   <string name="enableAutoplayForSoundsMicrosoftEdge">1. Төбенің оң жағында үш нүктеге басыңыз
 2. Баптаулар
 3. Куки мен сайт рұқсаттарына кіріңіз
 4. Төмен түсіп, Медиа автоойнату
-5. lichess.org-ты қосып, Рұқсатты басыңыз</string>
+5. pawn7.com-ты қосып, Рұқсатты басыңыз</string>
   <string name="stopMyselfFromPlaying">Мені ойнаудан тоқтатыңдар!</string>
   <string name="mentalHealthCondition">дара психикалық ауытқу</string>
   <string name="lichessUserstyles">Жеке Личес стильдері</string>

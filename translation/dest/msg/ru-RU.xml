@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="lichobileNewAppAvailable">Доступно новое мобильное приложение Lichess!</string>
-  <string name="lichobileNewAppDownload" comment="The parameter links to https://lichess.org/app">Пожалуйста, скачайте новое официальное приложение Lichess на %s.</string>
+  <string name="lichobileNewAppDownload" comment="The parameter links to https://pawn7.com/app">Пожалуйста, скачайте новое официальное приложение Lichess на %s.</string>
   <string name="modActionFeedback">Привет!
 
 Мы получили ваше недавнее обращение и предприняли по нему определённые действия. Пока мы не можем поделиться деталями о них, но мы благодарны вам за обратную связь.

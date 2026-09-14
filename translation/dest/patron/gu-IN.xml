@@ -53,7 +53,7 @@
     <item quantity="one">એક મહિના માટે Lichess પેટ્રોન</item>
     <item quantity="other">%s મહિના માટે Lichess પેટ્રોન</item>
   </plurals>
-  <string name="youSupportWith">તમે દર મહિને %s સાથે lichess.org ને સપોર્ટ કરો છો.</string>
+  <string name="youSupportWith">તમે દર મહિને %s સાથે pawn7.com ને સપોર્ટ કરો છો.</string>
   <string name="tyvm">તમારી મદદ બદલ ખૂબ ખૂબ આભાર. તમે ખૂબ જ સરસ છો!</string>
   <string name="currentStatus">વર્તમાન સ્થિતિ</string>
   <string name="nextPayment">આગામી ચુકવણી</string>

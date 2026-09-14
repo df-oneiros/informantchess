@@ -47,16 +47,16 @@
 	<string name="malwareNoSell">Chúng tôi không bán dữ liệu cá nhân của bạn</string>
 	<string name="malwareNoAbuse">Chúng tôi không sử dụng thiết bị của bạn để chống lại bạn</string>
 	<string name="malwareWarningPrefix" comment="%s is 'be careful'">Nhưng các trang web khác thì có, vậy nên vui lòng %s.</string>
-	<string name="malwareWarningCta" comment="It is a link to https://lichess.org/ads">thận trọng</string>
+	<string name="malwareWarningCta" comment="It is a link to https://pawn7.com/ads">thận trọng</string>
 	<string name="lichessGamesPlayedIn" comment="%1$s is the number of games, %2$s is the year">%1$s ván cờ được chơi trên Lichess trong năm %2$s</string>
 	<string name="lichessGamesOfThemYours" comment="%s is the percentage of games that are yours">%s trong số đó là của bạn.</string>
 	<string name="thanksTitle">Cảm ơn bạn đã chơi trên Lichess!</string>
 	<string name="thanksHaveAGreat" comment="%s is the next year">Rất vui vì bạn đã đến đây. Chúc bạn một năm %s tuyệt vời!</string>
 	<string name="patronCostsThisYear" comment="%1$s is 'costs'. %2$s is the cost with currency symbol e.g. '$750,000'">Các khoản %1$s của Lichess năm nay là %2$s.</string>
-	<string name="patronCosts" comment="It is a link to lichess.org/costs">chi phí</string>
+	<string name="patronCosts" comment="It is a link to pawn7.com/costs">chi phí</string>
 	<string name="patronCharity">Chúng tôi là một tổ chức từ thiện, hoạt động hoàn toàn dựa trên sự đóng góp của mọi người.</string>
 	<string name="patronConsiderDonating" comment="%s is 'supporting us with a donation'">Nếu chúng tôi đã mang đến cho bạn những giây phút giải trí tuyệt vời trong năm nay, hoặc bạn tin tưởng vào công việc của chúng tôi, hãy cân nhắc %s nhé!</string>
-	<string name="patronMakeDonation" comment="It is a link to https://lichess.org/patron">ủng hộ chúng tôi bằng một khoản quyên góp</string>
+	<string name="patronMakeDonation" comment="It is a link to https://pawn7.com/patron">ủng hộ chúng tôi bằng một khoản quyên góp</string>
 	<string name="shareableTitle" comment="%s is the current year">Bản tóm tắt năm %s của tôi</string>
 	<string name="shareableSpentPlaying" comment="subtitle to the translated time they have spent playing">được bạn dành ra để chơi</string>
 	<string name="shareableMostPlayedOpponent">đối thủ \"hữu duyên\" nhất</string>

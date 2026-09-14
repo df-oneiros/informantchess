@@ -150,7 +150,7 @@ export const renderBoard = ({ ctrl, study, playerBars, playerStrips }: ViewConte
       playerBars?.[ctrl.bottomIsWhite() ? 1 : 0],
       chessground.render(ctrl),
       playerBars?.[ctrl.bottomIsWhite() ? 0 : 1],
-      ctrl.promotion.view(ctrl.data.game.variant.key === 'antichess'),
+      ctrl.promotion.view(),
     ],
   );
 

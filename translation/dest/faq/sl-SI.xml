@@ -139,33 +139,33 @@ Najbolje, da na rejting gledate kot na \"relativno\" številko (ne kot \"absolut
   <string name="viewSiteInformationPopUp">Pokaži pojavno okno spletnega mesta</string>
   <string name="lichessCanOptionnalySendPopUps">Lichess lahko pošilja pojavna obvestila, na primer, ko ste na vrsti ali ste prejeli zasebno sporočilo.
 
-Kliknite ikono ključavnice poleg naslova lichess.org v vrstici URL vašega brskalnika.
+Kliknite ikono ključavnice poleg naslova pawn7.com v vrstici URL vašega brskalnika.
 
 Nato izberite, ali želite dovoliti ali blokirati obvestila strani Lichess.</string>
   <string name="enableAutoplayForSoundsQ">Omogočiti samodejno predvajanje za zvoke?</string>
   <string name="enableAutoplayForSoundsA">Večina brskalnikov lahko prepreči predvajanje zvoka na sveže naloženi strani, da zaščiti uporabnike. Predstavljajte si, da bi vas lahko vsako spletno mesto takoj zasulo z zvočnimi oglasi.
 
-Rdeča ikona za izklop zvoka se prikaže, ko vaš brskalnik lichess.org prepreči predvajanje zvoka. Običajno se ta omejitev odpravi, ko nekaj kliknete. V nekaterih mobilnih brskalnikih se vlečenje kosa na dotik ne šteje kot klik. V tem primeru se morate dotakniti table, da omogočite zvok na začetku vsake igre.
+Rdeča ikona za izklop zvoka se prikaže, ko vaš brskalnik pawn7.com prepreči predvajanje zvoka. Običajno se ta omejitev odpravi, ko nekaj kliknete. V nekaterih mobilnih brskalnikih se vlečenje kosa na dotik ne šteje kot klik. V tem primeru se morate dotakniti table, da omogočite zvok na začetku vsake igre.
 
-Prikažemo rdečo ikono, da vas opozorimo, ko se to zgodi. Pogosto lahko lichess.org izrecno dovolite predvajanje zvokov. Tu so navodila, kako to narediti v najnovejših različicah nekaterih priljubljenih brskalnikov.</string>
+Prikažemo rdečo ikono, da vas opozorimo, ko se to zgodi. Pogosto lahko pawn7.com izrecno dovolite predvajanje zvokov. Tu so navodila, kako to narediti v najnovejših različicah nekaterih priljubljenih brskalnikov.</string>
   <string name="desktop">namizje</string>
-  <string name="enableAutoplayForSoundsFirefox">1. Pojdite na lichess.org
+  <string name="enableAutoplayForSoundsFirefox">1. Pojdite na pawn7.com
 2. Pritisnite Ctrl-i v sistemu Linux/Windows ali cmd-i v sistemu MacOS
 3. Kliknite zavihek Dovoljenja
-4. Dovolite avdio in video na lichess.org</string>
-  <string name="enableAutoplayForSoundsChrome">1. Pojdite na lichess.org
+4. Dovolite avdio in video na pawn7.com</string>
+  <string name="enableAutoplayForSoundsChrome">1. Pojdite na pawn7.com
 2. Kliknite ikono ključavnice v naslovni vrstici
 3. Kliknite Nastavitve mesta
 4. Dovoli zvok</string>
-  <string name="enableAutoplayForSoundsSafari">1. Pojdite na lichess.org
+  <string name="enableAutoplayForSoundsSafari">1. Pojdite na pawn7.com
 2. V menijski vrstici kliknite Safari
-3. Kliknite Nastavitve za lichess.org ...
+3. Kliknite Nastavitve za pawn7.com ...
 4. Dovoli vse samodejno predvajanje</string>
   <string name="enableAutoplayForSoundsMicrosoftEdge">1. Kliknite tri pike v zgornjem desnem kotu
 2. Kliknite Nastavitve
 3. Kliknite Piškotki in dovoljenja za spletno mesto
 4. Pomaknite se navzdol in kliknite Samodejno predvajanje medijev
-5. Dodajte lichess.org v Dovoli</string>
+5. Dodajte pawn7.com v Dovoli</string>
   <string name="stopMyselfFromPlaying">Naj se ustavim pri igranju?</string>
   <string name="mentalHealthCondition">samostojno stanje duševnega zdravja</string>
   <string name="lichessUserstyles">Lichess uporabniški slogi</string>

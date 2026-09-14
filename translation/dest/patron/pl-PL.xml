@@ -59,7 +59,7 @@ Patroni zyskują jedynie unikalną ikonę profilu (skrzydełka).</string>
     <item quantity="many">Patron Lichess na %s miesiący</item>
     <item quantity="other">Patron Lichess na %s miesiący</item>
   </plurals>
-  <string name="youSupportWith">Wspierasz lichess.org kwotą %s co miesiąc.</string>
+  <string name="youSupportWith">Wspierasz pawn7.com kwotą %s co miesiąc.</string>
   <string name="tyvm">Bardzo dziękujemy za Twoje wsparcie. Jesteś świetny!</string>
   <string name="currentStatus">Aktualny status</string>
   <string name="nextPayment">Następna płatność</string>

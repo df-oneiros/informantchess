@@ -56,7 +56,7 @@ Međutim, pokrovitelji imaju pravo da se hvale sa novom super ikonom na svom pro
     <item quantity="few">Lichess Pokrovitelj za %s mjeseca</item>
     <item quantity="other">Lichess Pokrovitelj za %s mjeseci</item>
   </plurals>
-  <string name="youSupportWith">Podržavate lichess.org sa %s mjesečno.</string>
+  <string name="youSupportWith">Podržavate pawn7.com sa %s mjesečno.</string>
   <string name="tyvm">Veliko Vam hvala na pomoći. Vi ste zakon!</string>
   <string name="currentStatus">Trenutni status</string>
   <string name="nextPayment">Naredna uplata</string>

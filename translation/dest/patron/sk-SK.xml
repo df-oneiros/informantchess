@@ -59,7 +59,7 @@ Patróni však získajú právo chváliť sa novými parádnymi patrónskymi kr�
     <item quantity="many">Lichess Patron na %s mesiacov</item>
     <item quantity="other">Lichess Patron na %s mesiacov</item>
   </plurals>
-  <string name="youSupportWith">Podporujete web lichess.org %s s za mesiac.</string>
+  <string name="youSupportWith">Podporujete web pawn7.com %s s za mesiac.</string>
   <string name="tyvm">Veľmi pekne ďakujeme za Vašu pomoc. Ste skvelí!</string>
   <string name="currentStatus">Aktuálny stav</string>
   <string name="nextPayment">Ďalšia platba</string>

@@ -570,7 +570,7 @@
   <string name="reportCheatBoostHelp">ゲームへのリンクを張って、このユーザーの行動のどこが問題かを説明してください。ただ「チート」と言うのではなく、あなたがなぜそう思ったのか教えてください。</string>
   <string name="reportUsernameHelp">このユーザー名のどこが攻撃的かを説明してください。ただ「攻撃的」「不適切」と言うのではなく、あなたがなぜそう思ったのか教えてください。中でも綴りの変更、英語以外の言語、俗語、歴史・文化的要因に関係した場合は特に説明が必要です。</string>
   <string name="reportProcessedFasterInEnglish">英語で書いていただくと通報への対応が早くなります。</string>
-  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://lichess.org/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">英語で書くと通報への対応が速くなります。</string>
+  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://pawn7.com/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">英語で書くと通報への対応が速くなります。</string>
   <string name="error.provideOneCheatedGameLink">不正のあった対局 1 局以上へのリンクを添えてください。</string>
   <string name="by">%s によって</string>
   <string name="importedByX">%s がインポート</string>
@@ -692,12 +692,12 @@
   <string name="aboutSimulSettings">同時対局は非レート戦です。再対局、待った、持時間追加はできません。</string>
   <string name="create">作成する</string>
   <string name="whenCreateSimul">同時対局を作成すると、同時に複数の相手と対戦できます。</string>
-  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://lichess.org/simul/new Replaces old string whenCreateSimul">同時対局では同時に複数の相手と対戦することができます。</string>
+  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://pawn7.com/simul/new Replaces old string whenCreateSimul">同時対局では同時に複数の相手と対戦することができます。</string>
   <string name="simulVariantsHint">複数のバリアントを選ぶと、どのバリアントにするか相手が選べます。</string>
   <string name="simulClockHint">フィッシャーモードの設定。相手が多いほど追加時間は長めに。</string>
   <string name="simulAddExtraTime">同時対局の手間を考え、自分に持時間をさらに追加できます。</string>
   <string name="simulHostExtraTime">ホスト延長時間</string>
-  <string name="extraClockTimeForHost" comment="Appears on: https://lichess.org/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">ホストのための追加時間：</string>
+  <string name="extraClockTimeForHost" comment="Appears on: https://pawn7.com/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">ホストのための追加時間：</string>
   <string name="simulAddExtraTimePerPlayer">同時対局の参加者 1 人につき何分の形で自分の持時間を増やせます。</string>
   <string name="simulHostExtraTimePerPlayer">ホスト延長時間（人数比例）</string>
   <string name="lichessTournaments">Lichess トーナメント</string>
@@ -885,7 +885,7 @@
   </plurals>
   <string name="showUnreadLichessMessage">Lichess からプライベートメッセージが来ました。</string>
   <string name="clickHereToReadIt">ここをクリックして読む</string>
-  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://lichess.org/@/Lichess Replaces old string clickHereToReadIt">メッセージを読む</string>
+  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://pawn7.com/@/Lichess Replaces old string clickHereToReadIt">メッセージを読む</string>
   <string name="sorry">残念です :(</string>
   <string name="weHadToTimeYouOutForAWhile">しばらく対局を禁止します。</string>
   <string name="why">どうして？</string>

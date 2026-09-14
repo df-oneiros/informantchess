@@ -119,27 +119,27 @@
   <string name="howToThreeDots">ວິທີການ...</string>
   <string name="enableDisableNotificationPopUps">ເປີດ ຫຼື ປິດ ການແຈ້ງເຕືອນແບບປ໊ອບອັບ (Popup)?</string>
   <string name="viewSiteInformationPopUp">ເບິ່ງປ໊ອບອັບຂໍ້ມູນເວັບໄຊ</string>
-  <string name="lichessCanOptionnalySendPopUps">Lichess ສາມາດເລືອກສົ່ງການແຈ້ງເຕືອນແບບປ໊ອບອັບໄດ້, ຕົວຢ່າງ: ເມື່ອຮອດຕາຂອງທ່ານ ຫຼື ເມື່ອທ່ານໄດ້ຮັບຂໍ້ຄວາມສ່ວນຕົວ. ກົດທີ່ໄອຄອນຮູບກະແຈ ຖັດຈາກທີ່ຢູ່ lichess.org ໃນແຖບ URL ຂອງບຣາວເຊີຂອງທ່ານ. ຈາກນັ້ນເລືອກວ່າຈະອະນຸຍາດ ຫຼື ບລັອກການແຈ້ງເຕືອນຈາກ Lichess.</string>
+  <string name="lichessCanOptionnalySendPopUps">Lichess ສາມາດເລືອກສົ່ງການແຈ້ງເຕືອນແບບປ໊ອບອັບໄດ້, ຕົວຢ່າງ: ເມື່ອຮອດຕາຂອງທ່ານ ຫຼື ເມື່ອທ່ານໄດ້ຮັບຂໍ້ຄວາມສ່ວນຕົວ. ກົດທີ່ໄອຄອນຮູບກະແຈ ຖັດຈາກທີ່ຢູ່ pawn7.com ໃນແຖບ URL ຂອງບຣາວເຊີຂອງທ່ານ. ຈາກນັ້ນເລືອກວ່າຈະອະນຸຍາດ ຫຼື ບລັອກການແຈ້ງເຕືອນຈາກ Lichess.</string>
   <string name="enableAutoplayForSoundsQ">ເປີດໃຊ້ງານການຫຼິ້ນສຽງອັດຕະໂນມັດ?</string>
-  <string name="enableAutoplayForSoundsA">ບຣາວເຊີສ່ວນໃຫຍ່ຈະປ້ອງກັນການຫຼິ້ນສຽງອັດຕະໂນມັດເພື່ອຄວາມເປັນສ່ວນຕົວ. ໄອຄອນຮູບລຳໂພງສີແດງຈະປາກົດຂຶ້ນເມື່ອບຣາວເຊີບລັອກສຽງ. ປົກກະຕິແລ້ວຂໍ້ຈຳກັດນີ້ຈະໝົດໄປເມື່ອທ່ານກົດບາງຢ່າງໃນໜ້າເວັບ. ໃນບຣາວເຊີມືຖືບາງອັນ, ການລາກໂຕໝາກອາດຈະບໍ່ຖືວ່າເປັນການກົດ, ທ່ານອາດຈະຕ້ອງກົດທີ່ກະດານເພື່ອເປີດສຽງໃນຕອນເລີ່ມເກມ. ທ່ານສາມາດຕັ້ງຄ່າໃຫ້ບຣາວເຊີອະນຸຍາດສຽງຈາກ lichess.org ໄດ້ໂດຍກົງ.</string>
+  <string name="enableAutoplayForSoundsA">ບຣາວເຊີສ່ວນໃຫຍ່ຈະປ້ອງກັນການຫຼິ້ນສຽງອັດຕະໂນມັດເພື່ອຄວາມເປັນສ່ວນຕົວ. ໄອຄອນຮູບລຳໂພງສີແດງຈະປາກົດຂຶ້ນເມື່ອບຣາວເຊີບລັອກສຽງ. ປົກກະຕິແລ້ວຂໍ້ຈຳກັດນີ້ຈະໝົດໄປເມື່ອທ່ານກົດບາງຢ່າງໃນໜ້າເວັບ. ໃນບຣາວເຊີມືຖືບາງອັນ, ການລາກໂຕໝາກອາດຈະບໍ່ຖືວ່າເປັນການກົດ, ທ່ານອາດຈະຕ້ອງກົດທີ່ກະດານເພື່ອເປີດສຽງໃນຕອນເລີ່ມເກມ. ທ່ານສາມາດຕັ້ງຄ່າໃຫ້ບຣາວເຊີອະນຸຍາດສຽງຈາກ pawn7.com ໄດ້ໂດຍກົງ.</string>
   <string name="desktop">ເດັສທັອບ</string>
-  <string name="enableAutoplayForSoundsFirefox">1. ໄປທີ່ lichess.org
+  <string name="enableAutoplayForSoundsFirefox">1. ໄປທີ່ pawn7.com
 2. ກົດ Ctrl+i (Linux/Windows) ຫຼື cmd+i (MacOS)
 3. ກົດແຖບ Permissions (ການອະນຸຍາດ)
-4. ອະນຸຍາດ Audio and Video (ສຽງ ແລະ ວິດີໂອ) ໃນ lichess.org</string>
-  <string name="enableAutoplayForSoundsChrome">1. ໄປທີ່ lichess.org
+4. ອະນຸຍາດ Audio and Video (ສຽງ ແລະ ວິດີໂອ) ໃນ pawn7.com</string>
+  <string name="enableAutoplayForSoundsChrome">1. ໄປທີ່ pawn7.com
 2. ກົດທີ່ໄອຄອນຮູບກະແຈໃນແຖບທີ່ຢູ່
 3. ກົດ Site Settings (ການຕັ້ງຄ່າເວັບໄຊ)
 4. ອະນຸຍາດ Sound (ສຽງ)</string>
-  <string name="enableAutoplayForSoundsSafari">1. ໄປທີ່ lichess.org
+  <string name="enableAutoplayForSoundsSafari">1. ໄປທີ່ pawn7.com
 2. ກົດ Safari ໃນແຖບເມນູ
-3. ກົດ Settings for lichess.org (ການຕັ້ງຄ່າສຳລັບ lichess.org)
+3. ກົດ Settings for pawn7.com (ການຕັ້ງຄ່າສຳລັບ pawn7.com)
 4. ອະນຸຍາດ All Auto-Play (ຫຼິ້ນອັດຕະໂນມັດທັງໝົດ)</string>
   <string name="enableAutoplayForSoundsMicrosoftEdge">1. ກົດທີ່ຈ້ຳສາມຈ້ຳມຸມຂວາເທິງ
 2. ກົດ Settings (ການຕັ້ງຄ່າ)
 3. ກົດ Cookies and Site Permissions (ຄຸກກີ້ ແລະ ການອະນຸຍາດເວັບໄຊ)
 4. ເລື່ອນລົງແລ້ວກົດ Media autoplay (ການຫຼິ້ນສື່ມີເດຍອັດຕະໂນມັດ)
-5. ເພີ່ມ lichess.org ເຂົ້າໃນລາຍຊື່ Allow (ອະນຸຍາດ)</string>
+5. ເພີ່ມ pawn7.com ເຂົ້າໃນລາຍຊື່ Allow (ອະນຸຍາດ)</string>
   <string name="stopMyselfFromPlaying">ຢຸດຕົວເອງຈາກການຫຼິ້ນຫຼາຍເກີນໄປ?</string>
   <string name="mentalHealthCondition">ສະພາວະສຸຂະພາບຈິດທີ່ເກີດຂຶ້ນດ້ວຍຕົວມັນເອງ</string>
   <string name="lichessUserstyles">ຮູບແບບຜູ້ໃຊ້ (Userstyles) ຂອງ Lichess</string>

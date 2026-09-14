@@ -15,7 +15,7 @@
   <string name="downloadKit">配信者用キットをダウンロード</string>
   <string name="xIsStreaming">%s が現在配信中</string>
   <string name="rules">配信のルール</string>
-  <string name="rule1">Lichess について配信する際にはタイトルにキーワード「lichess.org」を入れてください。</string>
+  <string name="rule1">Lichess について配信する際にはタイトルにキーワード「pawn7.com」を入れてください。</string>
   <string name="rule2">Lichess 以外について配信する際にはキーワードを入れないように。</string>
   <string name="rule3">Lichess はあなたの配信動画を自動的に検知して以下の特典を与えます。</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">あなたの配信中に全員がフェアプレイを守れるよう %s を読んでおくこと。</string>

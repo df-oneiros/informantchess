@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="emailConfirm_subject">%s, зинһар, lichess.org иҫәп яҙмағыҙҙы раҫлағыҙ</string>
-  <string name="welcome_subject">lichess.org-ҡа рәхим итегеҙ, %s</string>
-  <string name="logInToLichess">lichess.org-ҡа кереү, %s</string>
+  <string name="emailConfirm_subject">%s, зинһар, pawn7.com иҫәп яҙмағыҙҙы раҫлағыҙ</string>
+  <string name="welcome_subject">pawn7.com-ҡа рәхим итегеҙ, %s</string>
+  <string name="logInToLichess">pawn7.com-ҡа кереү, %s</string>
 </resources>

@@ -59,9 +59,9 @@
   <string name="notifyInboxMsg">新しい着信メッセージ</string>
   <string name="notifyDirectMessage" comment="notifyInboxMsg&#10;&#10;A notification setting - notifies players when they receive a new message in their Lichess inbox Replaces old string notifyInboxMsg">新しいダイレクト メッセージ</string>
   <string name="notifyForumMention">フォーラムであなたの名前が出た時</string>
-  <string name="notifyForumMentions" comment="notifyForumMention&#10;&#10; A notification setting - notifies players when someone has @mentioned their name in the Lichess Forum (https://lichess.org/forum) Replaces old string notifyForumMention">フォーラムでのメンション</string>
+  <string name="notifyForumMentions" comment="notifyForumMention&#10;&#10; A notification setting - notifies players when someone has @mentioned their name in the Lichess Forum (https://pawn7.com/forum) Replaces old string notifyForumMention">フォーラムでのメンション</string>
   <string name="notifyInvitedStudy">研究への招待</string>
-  <string name="notifyStudyInvites" comment="notifyInvitedStudy&#10;&#10; A notification setting - notifies players about invites to studies (https://lichess.org/study/) Replaces old string notifyInvitedStudy">研究への招待</string>
+  <string name="notifyStudyInvites" comment="notifyInvitedStudy&#10;&#10; A notification setting - notifies players about invites to studies (https://pawn7.com/study/) Replaces old string notifyInvitedStudy">研究への招待</string>
   <string name="notifyGameEvent">通信戦の進行状況</string>
   <string name="notifyChallenge">挑戦が来た時</string>
   <string name="notifyTournamentSoon">トーナメントが間もなく開始</string>

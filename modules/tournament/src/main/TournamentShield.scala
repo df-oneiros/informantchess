@@ -127,7 +127,7 @@ object TournamentShield:
   def make(name: String)(t: Tournament) = t.copy(
     name = s"$name Shield",
     description =
-      s"""This [Shield trophy](https://lichess.org/blog/Wh36WiQAAMMApuRb/introducing-shield-tournaments) is unique.
+      s"""This [Shield trophy](https://pawn7.com/blog/Wh36WiQAAMMApuRb/introducing-shield-tournaments) is unique.
 The winner keeps it for one month,
 then must defend it during the next $name Shield tournament!""".some,
     spotlight = Spotlight(

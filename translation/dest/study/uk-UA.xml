@@ -144,7 +144,7 @@
   <string name="interestingMove">Цікавий хід</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Сумнівний хід</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Єдиний хід</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Цугцванг</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Цугцванг</string>
   <string name="equalPosition">Рівна позиція</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Незрозуміла позиція</string>
   <string name="whiteIsSlightlyBetter">Позиція білих трохи краще</string>
@@ -188,7 +188,7 @@
   <string name="annotatePositionTitle">Додати примітку до позиції</string>
   <string name="annotatePositionText">Натисніть кнопку !? або клацніть правою кнопкою миші на список ходів справа.&lt;br&gt;Символьні анотації зберігаються та доступні всім.</string>
   <string name="conclusionTitle">Дякуємо за ваш час</string>
-  <string name="conclusionText">Ви можете знайти свої &lt;a href=\'/study/mine/hot\'&gt;попередні дослідження&lt;/a&gt; на сторінці профілю.&lt;br&gt;Також радимо ознайомитися з &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;блогом про дослідження&lt;/a&gt;.&lt;br&gt;Досвідчені користувачі можуть натиснути \"?\", щоб побачити комбінації клавіш.&lt;br&gt;Бажаємо успіхів!</string>
+  <string name="conclusionText">Ви можете знайти свої &lt;a href=\'/study/mine/hot\'&gt;попередні дослідження&lt;/a&gt; на сторінці профілю.&lt;br&gt;Також радимо ознайомитися з &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;блогом про дослідження&lt;/a&gt;.&lt;br&gt;Досвідчені користувачі можуть натиснути \"?\", щоб побачити комбінації клавіш.&lt;br&gt;Бажаємо успіхів!</string>
   <string name="createChapterTitle">Створімо студію</string>
   <string name="createChapterText">Студія може містити декілька розділів.&lt;br&gt;Кожен розділ містить унікальне розгалуження ходів,&lt;br&gt;і може бути відтворене багатьма способами.</string>
   <string name="fromInitialPositionTitle">З початкової позиції</string>
@@ -197,7 +197,7 @@
   <string name="customPositionText">Розставте фігури на дошці, як бажаєте.&lt;br&gt;Підходить для дослідження ендшпілів.</string>
   <string name="loadExistingLichessGameTitle">Завантажити партію з бази Lichess</string>
   <string name="loadGameFromTheWebTitle" comment="Replaces old string loadExistingLichessGameTitle">Завантажити гру з інтернету</string>
-  <string name="loadExistingLichessGameText">Вставте URL партії Lichess&lt;br&gt;(наприклад, lichess.org/7fHIU0XI)&lt;br&gt;для завантаження гри в розділ.</string>
+  <string name="loadExistingLichessGameText">Вставте URL партії Lichess&lt;br&gt;(наприклад, pawn7.com/7fHIU0XI)&lt;br&gt;для завантаження гри в розділ.</string>
   <string name="fromFenStringTitle">З рядка FEN</string>
   <string name="fromFenStringText">Вставте позицію у форматі FEN&lt;br&gt;&lt;i&gt;4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w&lt;/i&gt;&lt;br&gt;для початку розділу з цієї позиції.</string>
   <string name="fromPgnGameTitle">З гри в форматі PGN</string>

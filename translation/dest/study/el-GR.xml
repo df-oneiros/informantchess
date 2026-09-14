@@ -136,7 +136,7 @@
   <string name="interestingMove">Ενδιαφέρουσα κίνηση</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Κίνηση αμφίβολης αξίας</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Μοναδική κίνηση</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Τσούγκσβανγκ</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Τσούγκσβανγκ</string>
   <string name="equalPosition">Ισόπαλη θέση</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Ασαφής θέση</string>
   <string name="whiteIsSlightlyBetter">Το λευκά είναι ελαφρώς καλύτερα</string>
@@ -180,7 +180,7 @@
   <string name="annotatePositionTitle">Δημιουργία σχολίου με σύμβολα σε μία θέση</string>
   <string name="annotatePositionText">Κάντε κλικ στο κουμπί !? ή δεξί κλικ στη λίστα των κινήσεων δεξιά.&lt;br&gt;Τα σχόλια με σύμβολα κοινοποιούνται και αποθηκεύονται.</string>
   <string name="conclusionTitle">Σας ευχαριστούμε για τον χρόνο σας</string>
-  <string name="conclusionText">Μπορείτε να βρείτε τις&lt;a href=\'/study/mine/hot\'&gt;προηγούμενες μελέτες σας&lt;/a&gt; στη σελίδα προφίλ σας.&lt;br&gt;Έχουμε επίσης δημοσιεύσει μια &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;ανάρτηση για τις μελέτες στο ιστολόγιό μας&lt;/a&gt;.&lt;br&gt;Οι έμπειροι χρήστες μπορούν να πατήσουν το πλήκτρο «?» για να δουν τους διαθέσιμους συνδυασμούς πλήκτρων.&lt;br&gt;Καλή διασκέδαση!</string>
+  <string name="conclusionText">Μπορείτε να βρείτε τις&lt;a href=\'/study/mine/hot\'&gt;προηγούμενες μελέτες σας&lt;/a&gt; στη σελίδα προφίλ σας.&lt;br&gt;Έχουμε επίσης δημοσιεύσει μια &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;ανάρτηση για τις μελέτες στο ιστολόγιό μας&lt;/a&gt;.&lt;br&gt;Οι έμπειροι χρήστες μπορούν να πατήσουν το πλήκτρο «?» για να δουν τους διαθέσιμους συνδυασμούς πλήκτρων.&lt;br&gt;Καλή διασκέδαση!</string>
   <string name="createChapterTitle">Ας δημιουργήσουμε μαζί ένα νέο κεφάλαιο</string>
   <string name="createChapterText">Μια μελέτη μπορεί να περιέχει παραπάνω από ένα κεφάλαια.&lt;br&gt;Κάθε κεφάλαιο έχει το δικό του δέντρο κινήσεων&lt;br&gt;και μπορεί να δημιουργηθεί με πολλούς τρόπους.</string>
   <string name="fromInitialPositionTitle">Αρχική θέση</string>
@@ -190,7 +190,7 @@
 Ιδανική επιλογή για την εξερεύνηση και τη μελέτη φινάλε.</string>
   <string name="loadExistingLichessGameTitle">Φόρτωση παρτίδας από το lichess</string>
   <string name="loadGameFromTheWebTitle" comment="Replaces old string loadExistingLichessGameTitle">Φορτώστε παρτίδα από το διαδίκτυο</string>
-  <string name="loadExistingLichessGameText">Επικολλήστε τη διεύθυνση URL μιας παρτίδας στο Lichess&lt;br&gt;(π.χ. lichess.org/7fHIU0XI)&lt;br&gt;για να φορτώσετε τις κινήσεις της σε αυτό το κεφάλαιο.</string>
+  <string name="loadExistingLichessGameText">Επικολλήστε τη διεύθυνση URL μιας παρτίδας στο Lichess&lt;br&gt;(π.χ. pawn7.com/7fHIU0XI)&lt;br&gt;για να φορτώσετε τις κινήσεις της σε αυτό το κεφάλαιο.</string>
   <string name="fromFenStringTitle">Θέση από FEN</string>
   <string name="fromFenStringText">Φορτώστε μία θέση επικολλώντας το αντίστοιχο FEN&lt;br&gt;&lt;i&gt;(π.χ. 4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w)&lt;/i&gt;&lt;br&gt;αν θέλετε το κεφάλαιο της μελέτης να ξεκινά από αυτή τη θέση.</string>
   <string name="fromPgnGameTitle">Παρτίδα από αρχείο PGN</string>

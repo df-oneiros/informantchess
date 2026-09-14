@@ -50,7 +50,7 @@
     <item quantity="few">Lichess Покровитељ на %s месеца</item>
     <item quantity="other">Lichess Покровитељ на %s месеци</item>
   </plurals>
-  <string name="youSupportWith">Подржаваш lichess.org са %s месечно.</string>
+  <string name="youSupportWith">Подржаваш pawn7.com са %s месечно.</string>
   <string name="tyvm">Хвала ти пуно на твојој помоћи. Супер си!</string>
   <string name="currentStatus">Тренутни статус</string>
   <string name="nextPayment">Следећа уплата</string>

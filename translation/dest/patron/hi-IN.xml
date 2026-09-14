@@ -52,7 +52,7 @@
     <item quantity="one">एक महीने के लिए लिचेस संरक्षक</item>
     <item quantity="other">लिचेस संरक्षक %s महीनों के लिए</item>
   </plurals>
-  <string name="youSupportWith">आप प्रति माह %s के साथ lichess.org का समर्थन करते हैं।</string>
+  <string name="youSupportWith">आप प्रति माह %s के साथ pawn7.com का समर्थन करते हैं।</string>
   <string name="tyvm">आपकी मदद के लिए बहुत बहुत शुक्रिया। आपने धमाल मचा दिया!</string>
   <string name="currentStatus">वर्तमान स्टेटस</string>
   <string name="nextPayment">अगला भुगतान</string>

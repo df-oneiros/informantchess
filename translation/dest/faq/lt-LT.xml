@@ -138,25 +138,25 @@ Geriausia galvoti apie reitingus kaip apie \"reliatyvius\" skaičius (priešinga
   <string name="viewSiteInformationPopUp">Peržiūrėti iššokančią svetainės informaciją</string>
   <string name="lichessCanOptionnalySendPopUps">Lichess pasirinktinai gali siųsti iššokančius pranešimus, pavyzdžiui kai yra jūsų eilė daryti ėjimą ar kai gavote asmeninę žinutę.
 
-Spustelėkite spynelės ikoną šalia lichess.org adreso savo naršyklės adreso laukelyje.
+Spustelėkite spynelės ikoną šalia pawn7.com adreso savo naršyklės adreso laukelyje.
 
 Tada pasirinkite, ar norite gauti, ar blokuoti pranešimus iš Lichess.</string>
   <string name="enableAutoplayForSoundsQ">Įgalinti automatinį garso paleidimą?</string>
   <string name="enableAutoplayForSoundsA">Daugelis naršyklių gali neleisti garsui groti ką tik įkeltame puslapyje, kad apsaugotų vartotojus. Įsivaizduokite, kad kiekviena svetainė galėtų jus iš karto bombarduoti garso skelbimais.
 
-Raudona nutildymo piktograma pasirodo, kai naršyklė neleidžia lichess.org leisti garso. Paprastai šis apribojimas panaikinamas, kai kur nors spustelėsite. Kai kuriose mobiliosiose naršyklėse elemento vilkimas jį palietus nelaikomas paspaudimu. Tokiu atveju turite paliesti lentą, kad kiekvieno žaidimo pradžioje būtų leidžiamas garsas.
+Raudona nutildymo piktograma pasirodo, kai naršyklė neleidžia pawn7.com leisti garso. Paprastai šis apribojimas panaikinamas, kai kur nors spustelėsite. Kai kuriose mobiliosiose naršyklėse elemento vilkimas jį palietus nelaikomas paspaudimu. Tokiu atveju turite paliesti lentą, kad kiekvieno žaidimo pradžioje būtų leidžiamas garsas.
 
-Rodome raudoną piktogramą, kad įspėtume jus, kai tai atsitiks. Dažnai galite aiškiai leisti lichess.org skleisti garsą. Čia pateikiamos instrukcijos, kaip tai padaryti naudojant naujausias kai kurių populiarių naršyklių versijas.</string>
+Rodome raudoną piktogramą, kad įspėtume jus, kai tai atsitiks. Dažnai galite aiškiai leisti pawn7.com skleisti garsą. Čia pateikiamos instrukcijos, kaip tai padaryti naudojant naujausias kai kurių populiarių naršyklių versijas.</string>
   <string name="desktop">darbalaukis</string>
-  <string name="enableAutoplayForSoundsFirefox">1. Eikite į lichess.org
+  <string name="enableAutoplayForSoundsFirefox">1. Eikite į pawn7.com
 2. Paspauskite Ctrl-i, jei naudojate „Linux“ ir/arba „Windows“, arba cmd-i, jei naudojate „MacOS“.
 3. Spustelėkite skirtuką Leidimai
-4. Leiskite garso ir vaizdo įrašus svetainėje lichess.org</string>
-  <string name="enableAutoplayForSoundsChrome">1. Eikite į lichess.org
+4. Leiskite garso ir vaizdo įrašus svetainėje pawn7.com</string>
+  <string name="enableAutoplayForSoundsChrome">1. Eikite į pawn7.com
 2. Adreso juostoje spustelėkite užrakto piktogramą
 3. Spustelėkite Svetainės nustatymai
 4. Leiskite garsą</string>
-  <string name="enableAutoplayForSoundsSafari">1. Eikite į lichess.org
+  <string name="enableAutoplayForSoundsSafari">1. Eikite į pawn7.com
 2. Meniu juostoje spustelėkite Safari
 3. Spustelėkite „Lichess.org“ nustatymai ...
 4. Leiskite visus automatinius paleidimus</string>
@@ -164,7 +164,7 @@ Rodome raudoną piktogramą, kad įspėtume jus, kai tai atsitiks. Dažnai galit
 2. Spustelėkite Nustatymai
 3. Spustelėkite Slapukai ir svetainės leidimai
 4. Slinkite žemyn ir spustelėkite Media autoplay
-5. Pridėkite lichess.org prie \"Leisti\"</string>
+5. Pridėkite pawn7.com prie \"Leisti\"</string>
   <string name="stopMyselfFromPlaying">Stabdote savo žaidimą?</string>
   <string name="mentalHealthCondition">savarankiška psichinės sveikatos būklė</string>
   <string name="lichessUserstyles">Lichess vartotojo stiliai</string>

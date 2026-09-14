@@ -42,7 +42,7 @@ Manimenos, los patrones obtienen dreito a presumir d\'o suyo nuevo icono de perf
     <item quantity="one">Patrón de Lichess per un mes</item>
     <item quantity="other">Patrón de Lichess per %s meses</item>
   </plurals>
-  <string name="youSupportWith">Suportas lichess.org con %s a lo mes.</string>
+  <string name="youSupportWith">Suportas pawn7.com con %s a lo mes.</string>
   <string name="tyvm">Muitas gracias per la tuya emparo! Yes chenial!</string>
   <string name="currentStatus">Estau actual</string>
   <string name="nextPayment">Proximo pago</string>

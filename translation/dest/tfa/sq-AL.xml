@@ -13,6 +13,6 @@
   <string name="twoFactorEnabled">Mirëfilltësimi dyfaktorësh u aktivizua</string>
   <string name="twoFactorToDisable">Që të çaktivizoni mirëfilltësim dyfaktorësh, ju duhet fjalëkalimi juaj dhe një kod mirëfilltësimi nga aplikacioni juaj për mirëfilltësime.</string>
   <string name="openTwoFactorApp">Që të shihni kodin tuaj të mirëfilltësimit dhe të verifikoni identitetin tuaj, hapni aplikacionin për mirëfilltësim dyfaktorësh në pajisjen tuaj.</string>
-  <string name="setupReminder">Ju lutemi, aktivizioni mirëfilltësimin dyfaktorësh që ta bëni të siguruar llogarinë tuaj, te https://lichess.org/account/twofactor.
+  <string name="setupReminder">Ju lutemi, aktivizioni mirëfilltësimin dyfaktorësh që ta bëni të siguruar llogarinë tuaj, te https://pawn7.com/account/twofactor.
 Këtë mesazh e morët sepse llogaria juaj ka përgjegjësi të veçanta, bie fjala, drejtues ekipi, trajner, mësues ose transmetues</string>
 </resources>

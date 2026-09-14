@@ -54,16 +54,16 @@
 	<string name="malwareNoSell">Við seldum ekki persónuupplýsingar þínar</string>
 	<string name="malwareNoAbuse">Við notuðum ekki tækið þitt gegn hagsmunum þínum</string>
 	<string name="malwareWarningPrefix" comment="%s is 'be careful'">En aðrar vefsíður gera það, svo %s.</string>
-	<string name="malwareWarningCta" comment="It is a link to https://lichess.org/ads">farðu varlega</string>
+	<string name="malwareWarningCta" comment="It is a link to https://pawn7.com/ads">farðu varlega</string>
 	<string name="lichessGamesPlayedIn" comment="%1$s is the number of games, %2$s is the year">%1$s skákir voru tefldar á Lichess árið %2$s</string>
 	<string name="lichessGamesOfThemYours" comment="%s is the percentage of games that are yours">%s þeirra voru þínar skákir.</string>
 	<string name="thanksTitle">Takk fyrir að tefla á Lichess!</string>
 	<string name="thanksHaveAGreat" comment="%s is the next year">Það er okkur mikil ánægja að hafa þig með í för. Gleðilegt %s!</string>
 	<string name="patronCostsThisYear" comment="%1$s is 'costs'. %2$s is the cost with currency symbol e.g. '$750,000'">%1$s Lichess á þessu ári nam %2$s.</string>
-	<string name="patronCosts" comment="It is a link to lichess.org/costs">Rekstrarkostnaður</string>
+	<string name="patronCosts" comment="It is a link to pawn7.com/costs">Rekstrarkostnaður</string>
 	<string name="patronCharity">Við erum sjálfseignarstofnun sem rekin er eingöngu fyrir tilstilli valfrjálsra framlaga.</string>
 	<string name="patronConsiderDonating" comment="%s is 'supporting us with a donation'">Hafi starf okkar fært þér ánægju í ár, eða teljir þú verkefni okkar eiga rétt á sér, biðjum við þig vinsamlegast að íhuga að %s!</string>
-	<string name="patronMakeDonation" comment="It is a link to https://lichess.org/patron">styrkja okkur með fjárframlagi</string>
+	<string name="patronMakeDonation" comment="It is a link to https://pawn7.com/patron">styrkja okkur með fjárframlagi</string>
 	<string name="shareableTitle" comment="%s is the current year">Útdráttur minn %s</string>
 	<string name="shareableSpentPlaying" comment="subtitle to the translated time they have spent playing">varið í að tefla</string>
 	<string name="shareableMostPlayedOpponent">teflt oftast við</string>

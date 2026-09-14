@@ -56,7 +56,7 @@ Nato za plačilo polno zaposlenega razvijalca: %s, ustanovitelja Lichessa.</stri
     <item quantity="few">Lichess pokrovitelj za %s mesece</item>
     <item quantity="other">Lichess pokrovitelj za %s mesecev</item>
   </plurals>
-  <string name="youSupportWith">Vaša podpora lichess.org z/s %s na mesec.</string>
+  <string name="youSupportWith">Vaša podpora pawn7.com z/s %s na mesec.</string>
   <string name="tyvm">Najlepša hvala za tvojo pomoč. Zažigaš!</string>
   <string name="currentStatus">Trenutno stanje</string>
   <string name="nextPayment">Naslednje plačilo</string>

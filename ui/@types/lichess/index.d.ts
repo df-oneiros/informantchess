@@ -214,7 +214,8 @@ type VariantKey =
   | 'atomic'
   | 'horde'
   | 'racingKings'
-  | 'crazyhouse';
+  | 'crazyhouse'
+  | 'informantChess';
 
 type Speed = 'ultraBullet' | 'bullet' | 'blitz' | 'rapid' | 'classical' | 'correspondence';
 

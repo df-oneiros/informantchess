@@ -37,7 +37,7 @@
 	<string name="malwareNoSell">Vi säljer inte din personliga data</string>
 	<string name="malwareNoAbuse">Vi använder inte din enhet mot dig</string>
 	<string name="malwareWarningPrefix" comment="%s is 'be careful'">Men andra webbplatser gör det, så snälla %s.</string>
-	<string name="malwareWarningCta" comment="It is a link to https://lichess.org/ads">var försiktig</string>
+	<string name="malwareWarningCta" comment="It is a link to https://pawn7.com/ads">var försiktig</string>
 	<string name="lichessGamesPlayedIn" comment="%1$s is the number of games, %2$s is the year">%1$s partier spelade på Lichess under %2$s</string>
 	<string name="lichessGamesOfThemYours" comment="%s is the percentage of games that are yours">%s av dem var dina.</string>
 	<string name="thanksTitle">Tack för att du spelar på Lichess!</string>

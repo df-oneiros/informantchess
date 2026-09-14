@@ -15,7 +15,7 @@
   <string name="downloadKit">Lejupielādēt straumētāja komplektu</string>
   <string name="xIsStreaming">%s straumē</string>
   <string name="rules">Straumēšanas noteikumi</string>
-  <string name="rule1">Iekļaujiet atslēgas vārdu \"lichess.org\", straumē, kad straumējat platformā Lichess.</string>
+  <string name="rule1">Iekļaujiet atslēgas vārdu \"pawn7.com\", straumē, kad straumējat platformā Lichess.</string>
   <string name="rule2">Noņemiet šo atslēgas vārdu, kad straumējat ko nesaistītu.</string>
   <string name="rule3">Lichess automātiski uztvers jūsu straumi un iespējos šos labumus:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">Lasiet mūsu %s, lai visiem nodrošinātu godīgu spēli straumēšanas laikā.</string>

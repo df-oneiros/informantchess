@@ -276,7 +276,7 @@
   <string name="emailCanTakeSomeTime">It can take some time to arrive.</string>
   <string name="refreshInboxAfterFiveMinutes">Wait 5 minutes and refresh your email inbox.</string>
   <string name="checkSpamFolder">Also check your spam folder, it might end up there. If so, mark it as not spam.</string>
-  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">If you do not receive a confirmation email, check your Spam or Junk folder. Be sure to indicate messages from lichess.org as safe and "not spam", so you can stay informed of important communications.</string>
+  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">If you do not receive a confirmation email, check your Spam or Junk folder. Be sure to indicate messages from pawn7.com as safe and "not spam", so you can stay informed of important communications.</string>
   <string name="sendEmailForAccountVerification">If you can't find your confirmation email, send an email to %s and we'll confirm your account for you.</string>
   <string name="accountConfirmed">The user %s is successfully confirmed.</string>
   <string name="accountCanLogin">You can login right now as %s.</string>
@@ -606,7 +606,7 @@ Playing rated games will increase stability.</string>
   <string name="reportCheatBoostHelp">Paste the link to the game(s) and explain what is wrong about this user's behaviour. Don't just say "they cheat", but tell us how you came to this conclusion.</string>
   <string name="reportUsernameHelp">Explain why this username is offensive. Don't just say "it's offensive/inappropriate," but tell us how you came to this conclusion, especially if the offense is obscure, not in English, in slang, or a historical/cultural reference.</string>
   <string name="reportProcessedFasterInEnglish">Your report will be processed faster if written in English.</string>
-  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://lichess.org/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">We can process your report faster if you write in English.</string>
+  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://pawn7.com/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">We can process your report faster if you write in English.</string>
   <string name="error.provideOneCheatedGameLink">Please provide at least one link to a game for review.</string>
   <string name="by">by %s</string>
   <string name="importedByX">Imported by %s</string>
@@ -731,12 +731,12 @@ Playing rated games will increase stability.</string>
   <string name="aboutSimulSettings">Simuls are always casual. Rematches, takebacks and adding time are disabled.</string>
   <string name="create">Create</string>
   <string name="whenCreateSimul">When you create a simul, you get to play several players at once.</string>
-  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://lichess.org/simul/new Replaces old string whenCreateSimul">Creating a simul lets you play against multiple opponents at the same time.</string>
+  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://pawn7.com/simul/new Replaces old string whenCreateSimul">Creating a simul lets you play against multiple opponents at the same time.</string>
   <string name="simulVariantsHint">If you select several variants, each player gets to choose which one to play.</string>
   <string name="simulClockHint">The more players you take on, the more time you may need.</string>
   <string name="simulAddExtraTime">You may add extra initial time to your clock to help you cope with the simul.</string>
   <string name="simulHostExtraTime">Host extra initial clock time</string>
-  <string name="extraClockTimeForHost" comment="Appears on: https://lichess.org/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Extra clock time for the host:</string>
+  <string name="extraClockTimeForHost" comment="Appears on: https://pawn7.com/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Extra clock time for the host:</string>
   <string name="simulAddExtraTimePerPlayer">Add initial time to your clock for each player joining the simul.</string>
   <string name="simulHostExtraTimePerPlayer">Host extra clock time per player</string>
   <string name="lichessTournaments">Lichess tournaments</string>
@@ -933,7 +933,7 @@ Playing rated games will increase stability.</string>
   </plurals>
   <string name="showUnreadLichessMessage">You have received a private message from Lichess.</string>
   <string name="clickHereToReadIt">Click here to read it</string>
-  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://lichess.org/@/Lichess Replaces old string clickHereToReadIt">Read the message</string>
+  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://pawn7.com/@/Lichess Replaces old string clickHereToReadIt">Read the message</string>
   <string name="sorry">Sorry :(</string>
   <string name="weHadToTimeYouOutForAWhile">We had to time you out for a while.</string>
   <string name="why">Why?</string>
@@ -945,7 +945,7 @@ Playing rated games will increase stability.</string>
   <string name="tryToWin">Try to win (or at least draw) every game you play.</string>
   <string name="resignLostGames">Resign lost games (don't let the clock run down).</string>
   <string name="temporaryInconvenience">We apologise for the temporary inconvenience,</string>
-  <string name="wishYouGreatGames">and wish you great games on lichess.org.</string>
+  <string name="wishYouGreatGames">and wish you great games on pawn7.com.</string>
   <string name="thankYouForReading">Thank you for reading!</string>
   <string name="lifetimeScore">Lifetime score</string>
   <string name="currentMatchScore">Current match score</string>

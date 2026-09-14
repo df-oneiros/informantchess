@@ -276,7 +276,7 @@
   <string name="emailCanTakeSomeTime">Xat yetib kelishi uchun biroz vaqt ketishi mumkin.</string>
   <string name="refreshInboxAfterFiveMinutes">5 minut kutib e‑pochta qutingizni yangilang.</string>
   <string name="checkSpamFolder">Shuningdek, spam jildini ham tekshiring, xat u yerga tushib qolgan boʻlishi mumkin. Agar shunday boʻlsa, uni “Spam emas” deb belgilang.</string>
-  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Agar tasdiqlash xatini olmagan boʻlsangiz, spam yoki keraksiz xatlar jildini tekshiring. Muhim xabarlardan xabardor boʻlib turish uchun lichess.org saytidan keladigan xatlarni xavfsiz va \"spam emas\" deb belgilang.</string>
+  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Agar tasdiqlash xatini olmagan boʻlsangiz, spam yoki keraksiz xatlar jildini tekshiring. Muhim xabarlardan xabardor boʻlib turish uchun pawn7.com saytidan keladigan xatlarni xavfsiz va \"spam emas\" deb belgilang.</string>
   <string name="sendEmailForAccountVerification">Agar tasdiqlash xatini topa olmasangiz, %s manziliga xat yuboring va biz hisobingizni tasdiqlab beramiz.</string>
   <string name="accountConfirmed">Foydalanuvchi %s muvaffaqiyatli tasdiqlandi.</string>
   <string name="accountCanLogin">Hozirning oʻzidayoq %s sifatida tizimga kirishingiz mumkin.</string>
@@ -606,7 +606,7 @@ Reytingli oʻyinlar o\'ynasangiz reyting barqarorligi oshadi.</string>
   <string name="reportCheatBoostHelp">Oʻyin(lar) havolasini joylashtiring va bu foydalanuvchining xatti‑harakatlarida nima notoʻgʻri ekanligini tushuntiring. Shunchaki “gʻirromlik qilyapti” deb cheklanib qolmay, qanday qilib bu xulosaga kelganingizni ayting.</string>
   <string name="reportUsernameHelp">Ushbu foydalanuvchi nomi nima uchun haqoratli ekanligini tushuntiring. Shunchaki “bu haqoratomuz/nooʻrin” deb qoʻya qolmasdan, nima sababdan bunday deb oʻylashingizni asoslab bering. Ayniqsa, haqorat yashirin boʻlsa, ingliz tilida boʻlmasa, jargon (sleng) boʻlsa yoki tarixiy/madaniy mazmunga ega boʻlsa.</string>
   <string name="reportProcessedFasterInEnglish">Ingliz tilida shikoyat joʻnatsangiz, tezroq koʻrib chiqiladi.</string>
-  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://lichess.org/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Agar shikoyatingizni ingliz tilida yozsangiz, uni tezroq koʻrib chiqa olamiz.</string>
+  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://pawn7.com/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Agar shikoyatingizni ingliz tilida yozsangiz, uni tezroq koʻrib chiqa olamiz.</string>
   <string name="error.provideOneCheatedGameLink">Iltimos kamida bitta o\'yinga havolani keltiring.</string>
   <string name="by">%s tomonidan yaratildi</string>
   <string name="importedByX">%s tomonidan import qilindi</string>
@@ -731,12 +731,12 @@ Reytingli oʻyinlar o\'ynasangiz reyting barqarorligi oshadi.</string>
   <string name="aboutSimulSettings">Seanslar reytingsiz oʻynaladi. Revanshlar, yurishni ortga qaytarish va vaqt qoʻshib berish imkoniyatlari oʻchirilgan.</string>
   <string name="create">Yaratish</string>
   <string name="whenCreateSimul">Sinxron seans yaratganingizda bir vaqtni oʻzida bir nechta oʻyinchilar bilan oʻynaysiz.</string>
-  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://lichess.org/simul/new Replaces old string whenCreateSimul">Sinxron oʻyin yaratish bir vaqtning oʻzida bir nechta raqiblarga qarshi oʻynash imkonini beradi.</string>
+  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://pawn7.com/simul/new Replaces old string whenCreateSimul">Sinxron oʻyin yaratish bir vaqtning oʻzida bir nechta raqiblarga qarshi oʻynash imkonini beradi.</string>
   <string name="simulVariantsHint">Bir nechta variant tanlasangiz, har bir oʻyinchi qaysi variantda oʻynashni oʻzi tanlaydi.</string>
   <string name="simulClockHint">Fisher soati sozlamalari. Raqiblaringiz qancha koʻp boʻlsa, sizga shuncha koʻp vaqt kerak boʻlishi mumkin.</string>
   <string name="simulAddExtraTime">Seans davomida ulgurishingiz uchun oʻz soatingizga qoʻshimcha boshlangʻich vaqt qoʻshishingiz mumkin.</string>
   <string name="simulHostExtraTime">Seans oʻtkazuvchi uchun qoʻshimcha boshlangʻich vaqt</string>
-  <string name="extraClockTimeForHost" comment="Appears on: https://lichess.org/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Mezbon uchun qoʻshimcha vaqt:</string>
+  <string name="extraClockTimeForHost" comment="Appears on: https://pawn7.com/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Mezbon uchun qoʻshimcha vaqt:</string>
   <string name="simulAddExtraTimePerPlayer">Seansga qoʻshilgan har bir oʻyinchi uchun soatingizga boshlangʻich vaqt qoʻshing.</string>
   <string name="simulHostExtraTimePerPlayer">Har bir oʻyinchi uchun qoʻshimcha vaqt (seans oʻtkazuvchi uchun)</string>
   <string name="lichessTournaments">Lichess turnirlar</string>
@@ -933,7 +933,7 @@ Reytingli oʻyinlar o\'ynasangiz reyting barqarorligi oshadi.</string>
   </plurals>
   <string name="showUnreadLichessMessage">Sizga Lichessdan shaxsiy xabar keldi.</string>
   <string name="clickHereToReadIt">Uni oʻqish uchun shu yerga bosing</string>
-  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://lichess.org/@/Lichess Replaces old string clickHereToReadIt">Xabarni oʻqish</string>
+  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://pawn7.com/@/Lichess Replaces old string clickHereToReadIt">Xabarni oʻqish</string>
   <string name="sorry">Kechirasiz :(</string>
   <string name="weHadToTimeYouOutForAWhile">Biz sizni oʻyinlardan vaqtinchalik chetlashtirishga majbur boʻldik.</string>
   <string name="why">Nima uchun?</string>
@@ -945,7 +945,7 @@ Reytingli oʻyinlar o\'ynasangiz reyting barqarorligi oshadi.</string>
   <string name="tryToWin">Har bir oʻyinda yutishga uchun harakat qiling (yoki hech boʻlmaganda duranga).</string>
   <string name="resignLostGames">Yutqazilgan oʻyinlarda taslim boʻling (vaqtni ataylab tugatmang).</string>
   <string name="temporaryInconvenience">Vaqtinchalik noqulayliklar uchun uzr soʻraymiz</string>
-  <string name="wishYouGreatGames">va lichess.org saytida maroqli oʻyinlar tilaymiz.</string>
+  <string name="wishYouGreatGames">va pawn7.com saytida maroqli oʻyinlar tilaymiz.</string>
   <string name="thankYouForReading">Eʻtiboringiz uchun rahmat!</string>
   <string name="lifetimeScore">Umumiy hisob</string>
   <string name="currentMatchScore">Joriy match hisobi</string>

@@ -168,7 +168,7 @@ final class RelayFormUi(helpers: Helpers, ui: RelayUi, pageMenu: RelayMenuUi):
         url: play.api.mvc.Call,
         nav: FormNavigation
     )(using ctx: Context) =
-      val broadcastEmailContact = a(href := "mailto:broadcast@lichess.org")("broadcast@lichess.org")
+      val broadcastEmailContact = a(href := "mailto:broadcast@pawn7.com")("broadcast@pawn7.com")
       val lccWarning = for
         round <- nav.round
         upstream <- round.sync.upstream
@@ -599,7 +599,7 @@ Hanna Marie ; Kozul, Zdenko"""),
             form3.group(
               form("info.location"),
               trb.tournamentLocation(),
-              help = frag("""e.g. "Paris, France" or "lichess.org"""").some,
+              help = frag("""e.g. "Paris, France" or "pawn7.com"""").some,
               half = true
             )(form3.input(_))
           ),

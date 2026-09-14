@@ -3,7 +3,7 @@
   <string name="activity">活動</string>
   <string name="hostedALiveStream">ライブ配信</string>
   <plurals name="supportedNbMonths">
-    <item quantity="other">%2$s として lichess.org を %1$s か月間支援</item>
+    <item quantity="other">%2$s として pawn7.com を %1$s か月間支援</item>
   </plurals>
   <plurals name="practicedNbPositions">
     <item quantity="other">%1$s 局面を %2$s で練習</item>

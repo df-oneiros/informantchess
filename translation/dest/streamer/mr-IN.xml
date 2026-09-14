@@ -15,7 +15,7 @@
   <string name="downloadKit">प्रसारण साधने डाउनलोड करा</string>
   <string name="xIsStreaming">%s प्रसारण करत आहे</string>
   <string name="rules">प्रसारण नियम</string>
-  <string name="rule1">Lichess वर प्रसारण करताना तुमच्या प्रारणाच्या शीर्षकामध्ये \"lichess.org\" हा किल्लीशब्द समाविष्ट करा आणि \"Chess\" ही श्रेणी वापरा.</string>
+  <string name="rule1">Lichess वर प्रसारण करताना तुमच्या प्रारणाच्या शीर्षकामध्ये \"pawn7.com\" हा किल्लीशब्द समाविष्ट करा आणि \"Chess\" ही श्रेणी वापरा.</string>
   <string name="rule2">जेव्हा तुम्ही Lichess व्यतिरिक्त इतर गोष्टी प्रसारण करता तेव्हा तो किल्लीशब्द काढून टाका.</string>
   <string name="rule3">Lichess तुमचे प्रसरण आपोआप ओळखेल आणि खालील सुविधा सक्षम करेल:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">तुमच्या प्रसारण दरम्यान सर्वांसाठी निष्पक्ष खेळ सुनिश्चित करण्यासाठी आमचे %s वाचा.</string>

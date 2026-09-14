@@ -59,9 +59,9 @@
   <string name="notifyInboxMsg">Tin nhắn mới</string>
   <string name="notifyDirectMessage" comment="notifyInboxMsg&#10;&#10;A notification setting - notifies players when they receive a new message in their Lichess inbox Replaces old string notifyInboxMsg">Tin nhắn trực tiếp mới</string>
   <string name="notifyForumMention">Có bình luận diễn đàn đề cập đến bạn</string>
-  <string name="notifyForumMentions" comment="notifyForumMention&#10;&#10; A notification setting - notifies players when someone has @mentioned their name in the Lichess Forum (https://lichess.org/forum) Replaces old string notifyForumMention">Bình luận của diễn đàn đề cập đến bạn</string>
+  <string name="notifyForumMentions" comment="notifyForumMention&#10;&#10; A notification setting - notifies players when someone has @mentioned their name in the Lichess Forum (https://pawn7.com/forum) Replaces old string notifyForumMention">Bình luận của diễn đàn đề cập đến bạn</string>
   <string name="notifyInvitedStudy">Lời mời nghiên cứu</string>
-  <string name="notifyStudyInvites" comment="notifyInvitedStudy&#10;&#10; A notification setting - notifies players about invites to studies (https://lichess.org/study/) Replaces old string notifyInvitedStudy">Lời mời tham gia nghiên cứu</string>
+  <string name="notifyStudyInvites" comment="notifyInvitedStudy&#10;&#10; A notification setting - notifies players about invites to studies (https://pawn7.com/study/) Replaces old string notifyInvitedStudy">Lời mời tham gia nghiên cứu</string>
   <string name="notifyGameEvent">Những cập nhật liên quan đến ván cờ qua thư</string>
   <string name="notifyChallenge">Các lời thách đấu</string>
   <string name="notifyTournamentSoon">Giải đấu sắp bắt đầu</string>

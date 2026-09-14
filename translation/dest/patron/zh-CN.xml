@@ -53,7 +53,7 @@
   <plurals name="patronForMonths">
     <item quantity="other">已成为 Lichess 赞助者 %s 个月</item>
   </plurals>
-  <string name="youSupportWith">您每月赞助 lichess.org %s 。</string>
+  <string name="youSupportWith">您每月赞助 pawn7.com %s 。</string>
   <string name="tyvm">非常感谢您的帮助。酷毙了！</string>
   <string name="currentStatus">当前状态</string>
   <string name="nextPayment">下次扣款</string>

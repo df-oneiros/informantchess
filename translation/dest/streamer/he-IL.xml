@@ -15,7 +15,7 @@
   <string name="downloadKit">הורדת ערכת משדר</string>
   <string name="xIsStreaming">%s משדר/ת</string>
   <string name="rules">חוקי שידור</string>
-  <string name="rule1">יש לכלול את מילת המפתח \"lichess.org\" בכותרת המשדר שלכם ולהשתמש בקטגוריית \"Chess\", כשאתם משדרים ב־Lichess.</string>
+  <string name="rule1">יש לכלול את מילת המפתח \"pawn7.com\" בכותרת המשדר שלכם ולהשתמש בקטגוריית \"Chess\", כשאתם משדרים ב־Lichess.</string>
   <string name="rule2">יש להסיר את מילת המפתח כשאתם משדרים תוכן שאינו קשור ל־Lichess.</string>
   <string name="rule3">Lichess יזהה את המשדר שלכם בצורה אוטומטית ויפעיל את ההטבות הבאות:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">קראו את %s כדי לאפשר משחק הוגן לכולם בזמן המשדר שלכם.</string>

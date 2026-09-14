@@ -3,7 +3,7 @@
   <string name="lichessCoaches">โค้ช Lichess</string>
   <string name="lichessCoach">โค้ช Lichess</string>
   <string name="areYouCoach">คุณเป็นโค้ชที่เก่งโดยมีตำแหน่ง %s หรือเปล่า?</string>
-  <string name="nmOrFideTitle" comment="nmOrFideTitle&#10;&#10;Part of sentence &quot;Are you a great chess coach with a NM or FIDE title?&quot;&#10;&#10;The text links to our title verification page: https://lichess.org/help/master">NM หรือ ตำแหน่ง FIDE</string>
+  <string name="nmOrFideTitle" comment="nmOrFideTitle&#10;&#10;Part of sentence &quot;Are you a great chess coach with a NM or FIDE title?&quot;&#10;&#10;The text links to our title verification page: https://pawn7.com/help/master">NM หรือ ตำแหน่ง FIDE</string>
   <string name="confirmTitle">ยืนยันตำแหน่งคุณตรงนี้แล้วเราจะตรวจสอบใบสมัครของคุณ</string>
   <string name="sendApplication" comment="sendApplication&#10;&#10;%s is the lichess email address">ส่งอีเมลที่ %s แล้วเราจะตรวจสอบใบสมัครของคุณ</string>
   <string name="location">ที่ตั้ง</string>

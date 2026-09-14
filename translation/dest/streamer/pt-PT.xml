@@ -15,7 +15,7 @@
   <string name="downloadKit">Descarrega o kit de streamer</string>
   <string name="xIsStreaming">%s está a transmitir</string>
   <string name="rules">Regras de streaming</string>
-  <string name="rule1">Incluir a palavra-chave \"lichess.org\" no título da stream e usa a categoria \"chess\", quando transmitires no Lichess.</string>
+  <string name="rule1">Incluir a palavra-chave \"pawn7.com\" no título da stream e usa a categoria \"chess\", quando transmitires no Lichess.</string>
   <string name="rule2">Remove a palavra-chave quando transmitires algo não relacionado com o Lichess.</string>
   <string name="rule3">O Lichess detetará a tua stream automaticamente e ativará as seguintes regalias:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">Lê a nossa %s para garantir fair play para todos durante a tua stream.</string>

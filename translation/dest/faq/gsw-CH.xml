@@ -140,20 +140,20 @@ Es isch am beschte, Wertige als \"relativi\" Wert z\'betrachte (im Gägesatz zu 
   <string name="viewSiteInformationPopUp">Site Informations-Popup azeige</string>
   <string name="lichessCanOptionnalySendPopUps">Lichess chan optional Popup-Benachrichtigunge versände, zum Bischpil wänn du am Zug bisch oder wänn du e privati Nachricht übercho häsch.
 
-Klick uf s\'Schlosssymbol, näbe de lichess.org Adrässe, i de URL-Lischte vu dim Browser.
+Klick uf s\'Schlosssymbol, näbe de pawn7.com Adrässe, i de URL-Lischte vu dim Browser.
 
 Wähl dänn us, ob Benachrichtigunge vo Lichess erlaubt oder blockiert werde sölled.</string>
   <string name="enableAutoplayForSoundsQ">Autoplay für de Ton aktiviere?</string>
   <string name="enableAutoplayForSoundsA">Die meischte Browser chönd - zum de User schütze - d\'Tonwidergab uf ere frisch g\'ladene Site verhindere. Stell dir vor, jedi Website chönnt dich direkt mit Audio-Werbig stresse!
 
-Das roti Stummschaltigssymbol erschint, wänn de Browser verhinderet, dass lichess.org Tön abschpillt. Normal wird die Ischränkig uf g\'hobe, sobald du öppis klicksch. Bi einige mobile Browser gilt s\'Figureziehe, dur Berüherig, nöd als Klick. Isch das so, dänn muesch du bim Beginn vu jedem Schpiel ufs Brätt tippe zum so de Ton aktiviere.
+Das roti Stummschaltigssymbol erschint, wänn de Browser verhinderet, dass pawn7.com Tön abschpillt. Normal wird die Ischränkig uf g\'hobe, sobald du öppis klicksch. Bi einige mobile Browser gilt s\'Figureziehe, dur Berüherig, nöd als Klick. Isch das so, dänn muesch du bim Beginn vu jedem Schpiel ufs Brätt tippe zum so de Ton aktiviere.
 
-s\'rote Symbol macht dich druf ufmerksam, wänn das passiert. Oft chann mer lichess.org usdrücklich erlaube, Tön ab z\'schpille. Da findsch du e Aleitig, wie mer das - ide neuschte Versione, vu einige gängige Browser - ischtelle chann.</string>
+s\'rote Symbol macht dich druf ufmerksam, wänn das passiert. Oft chann mer pawn7.com usdrücklich erlaube, Tön ab z\'schpille. Da findsch du e Aleitig, wie mer das - ide neuschte Versione, vu einige gängige Browser - ischtelle chann.</string>
   <string name="mostBrowsersPreventSoundAutoplay" comment="Replaces old string enableAutoplayForSoundsA">Die meischte Browser chönd - zum de User schütze - d\'Tonwidergab uf ere frisch g\'ladene Site verhindere. 
 
-S\' Stummschaltigssymbol erschint, wänn de Browser verhinderet, dass lichess.org Tön cha abschpille. Normal wird die Ischränkig uf g\'hobe, sobald du öppis klicksch. Bi einige mobile Browser gilt s\'Figureziehe, dur Züche übr de Bildschirm, nid als Klick. Isch das so, dänn muesch du bim Beginn vo jedem Schpiel ufs Brätt tippe zum so de Ton aktiviere.
+S\' Stummschaltigssymbol erschint, wänn de Browser verhinderet, dass pawn7.com Tön cha abschpille. Normal wird die Ischränkig uf g\'hobe, sobald du öppis klicksch. Bi einige mobile Browser gilt s\'Figureziehe, dur Züche übr de Bildschirm, nid als Klick. Isch das so, dänn muesch du bim Beginn vo jedem Schpiel ufs Brätt tippe zum so de Ton aktiviere.
 
-S\'rote Symbol macht dich druf ufmerksam, wänn das passiert. Oft chann mer lichess.org usdrücklich erlaube, Tön ab z\'schpille. Da findsch du e Aleitig, wie mer das - ide neuschte Versione, vu einige gängige Browser - ischtelle chann:</string>
+S\'rote Symbol macht dich druf ufmerksam, wänn das passiert. Oft chann mer pawn7.com usdrücklich erlaube, Tön ab z\'schpille. Da findsch du e Aleitig, wie mer das - ide neuschte Versione, vu einige gängige Browser - ischtelle chann:</string>
   <string name="desktop">Desktop</string>
   <string name="enableAutoplayForSoundsFirefox">1. Gang zu Lichess.org
 2. Taschte Ctrl-i bi Linux / Windos oder cmd-i bi MacOS
@@ -169,7 +169,7 @@ S\'rote Symbol macht dich druf ufmerksam, wänn das passiert. Oft chann mer lich
 4. Erlaub \"Tön\"</string>
   <string name="enableAutoplayForSoundsSafari">1. Gang zu Lichess.org
 2. Klick ide Menuezile uf \"Safari\"
-3. Klick \"Settings für lichess.org\"...
+3. Klick \"Settings für pawn7.com\"...
 4. Erlaub \"All Autoplay\"</string>
   <string name="enableAutoplayForSoundsMicrosoftEdge">1. Klick uf die 3 Pünkt ganz obe, im rächte Egge
 2. Klick \"Settings\"

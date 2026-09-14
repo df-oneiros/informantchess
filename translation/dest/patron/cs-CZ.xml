@@ -59,7 +59,7 @@ Patroni se však blýsknou novou cool ikonou profilu.</string>
     <item quantity="many">Lichess Patron na %s měsíců</item>
     <item quantity="other">Lichess Patron na %s měsíců</item>
   </plurals>
-  <string name="youSupportWith">Podporujete lichess.org %s měsíčně.</string>
+  <string name="youSupportWith">Podporujete pawn7.com %s měsíčně.</string>
   <string name="tyvm">Velice Vám děkujeme za vaši pomoc. Jste skvělí!</string>
   <string name="currentStatus">Aktuální stav</string>
   <string name="nextPayment">Další platba</string>

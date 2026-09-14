@@ -139,32 +139,32 @@ Najbolje je misliti o rejtinzima kao o \"relativnim\" brojkama (u kontrastu prem
   <string name="viewSiteInformationPopUp">Pogledajte iskačući prozor sa informacijama o web lokaciji</string>
   <string name="lichessCanOptionnalySendPopUps">Lichess može dodatno slati iskačuća obavještenja, na primjer kada je vaš red ili kada ste primili privatnu poruku.
 
-Kliknite na ikonu katanca pored adrese lichess.org u URL traci vašeg pretraživača.
+Kliknite na ikonu katanca pored adrese pawn7.com u URL traci vašeg pretraživača.
 
 Zatim odaberite hoćete li dopustiti ili blokirati obavijesti od Lichess-a.</string>
   <string name="enableAutoplayForSoundsQ">Dozvoliti automatsko izvođenje zvukova?</string>
   <string name="enableAutoplayForSoundsA">Većina pretraživača može spriječiti izvođenje zvuka na svježe-otvorenoj stranici u svrhu zaštite korisnika. Zamislite kad bi svaka web-stranica mogla odmah bombardovati Vas sa audio reklamama.
 
-U slučaju kada pretraživač spriječi lichess.org u izvođenju zvuka, prikazat će se crvena ikona za utišenje. Najčešće ova restrikcija će biti uklonjena nakon što kliknete negdje. Na nekim mobilnim pretraživačima, povlačenje dodirom figure se ne računa kao klik. U tom slučaju mora te dodirnuti ploču da bi dozvolili zvuk na početku svakog meča. 
-Prikazat ćemo Vam spomenutu crvenu ikonu kada se ovo desi. Često možete eksplicitno dozvoliti lichess.org-u da reproducira zvukove. Upute kako to uraditi na novijim verzijama od nekih popularnijih pretraživača možete pronaći ovdje.</string>
+U slučaju kada pretraživač spriječi pawn7.com u izvođenju zvuka, prikazat će se crvena ikona za utišenje. Najčešće ova restrikcija će biti uklonjena nakon što kliknete negdje. Na nekim mobilnim pretraživačima, povlačenje dodirom figure se ne računa kao klik. U tom slučaju mora te dodirnuti ploču da bi dozvolili zvuk na početku svakog meča. 
+Prikazat ćemo Vam spomenutu crvenu ikonu kada se ovo desi. Često možete eksplicitno dozvoliti pawn7.com-u da reproducira zvukove. Upute kako to uraditi na novijim verzijama od nekih popularnijih pretraživača možete pronaći ovdje.</string>
   <string name="desktop">Sučelje</string>
-  <string name="enableAutoplayForSoundsFirefox">1. Posjetite lichess.org stranicu
+  <string name="enableAutoplayForSoundsFirefox">1. Posjetite pawn7.com stranicu
 2. Pritisnite CRTL+i dugme na Linux-u/Windows-u ili CMD-i na Mac-OS-u
 3. Kliknite Tab za ovlaštenja
-4. Dozvolite audio i video za lichess.org</string>
-  <string name="enableAutoplayForSoundsChrome">1. Posjetite lichess.org stranicu
+4. Dozvolite audio i video za pawn7.com</string>
+  <string name="enableAutoplayForSoundsChrome">1. Posjetite pawn7.com stranicu
 2. Kliknite katanac ikonu u polju adrese web-stranice
 3. Kliknite na Postavke stranice
 4. Dozvolite zvuk</string>
-  <string name="enableAutoplayForSoundsSafari">1. Posjetite lichess.org stranicu
+  <string name="enableAutoplayForSoundsSafari">1. Posjetite pawn7.com stranicu
 2. Kliknite Safari u izborniku 
-3. Kliknite Postavke za lichess.org ...
+3. Kliknite Postavke za pawn7.com ...
 4. Dopustite Sva automatska izvođenja</string>
   <string name="enableAutoplayForSoundsMicrosoftEdge">1. Kliknite na tri tačke u gornjem desnom uglu
 2. Kliknite na Postavke
 3. Kliknite na Kolačići i ovlaštenja stranice
 4. Spustite se kotačićem miša i kliknite Automatsko izvođenje medija
-5. Dodajte lichess.org u Dozvoli</string>
+5. Dodajte pawn7.com u Dozvoli</string>
   <string name="stopMyselfFromPlaying">Zaustavi se sam od igranja?</string>
   <string name="mentalHealthCondition">zasebno mentalno oboljenje</string>
   <string name="lichessUserstyles">Lichess korisnički stilovi</string>

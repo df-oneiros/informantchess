@@ -31,7 +31,7 @@
     <item quantity="other">%1$s տեղ (%2$s %% լավագույն)՝ %4$s մրցաշարում %3$s խաղերի արդյունքով</item>
   </plurals>
   <string name="rankedInSwissTournament">Վարկանիշը ≥ %1$s %2$s-ում</string>
-  <string name="signedUp">Գրանցում lichess.org-ում</string>
+  <string name="signedUp">Գրանցում pawn7.com-ում</string>
   <plurals name="joinedNbTeams">
     <item quantity="one">Ընդունվել է %s թիմ</item>
     <item quantity="other">Ընդունվել է %s թիմ</item>

@@ -136,7 +136,7 @@
   <string name="interestingMove">Áhugaverður leikur</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Vafasamur leikur</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Eini leikurinn</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Leikþröng</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Leikþröng</string>
   <string name="equalPosition">Jöfn staða</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Óljós staða</string>
   <string name="whiteIsSlightlyBetter">Hvítur er aðeins betri</string>
@@ -180,7 +180,7 @@
   <string name="annotatePositionTitle">Skrifa útskýringu á stöðu</string>
   <string name="annotatePositionText">Smelltu á !? hnappinn, eða hægrismelltu á listann yfir leiki sem er hægra megin.&lt;br&gt;Stafbrigði sem notuð eru við skýringar eru deild og vistuð.</string>
   <string name="conclusionTitle">Takk fyrir tímann þinn</string>
-  <string name="conclusionText">Þú getur fundið &lt;a href=\'/study/mine/hot\'&gt;fyrri stúderingar&lt;/a&gt; þínar á prófílnum þínum.&lt;br&gt;Einnig er til &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;bloggfærsla um stúderingar&lt;/a&gt;.&lt;br&gt;Reyndir notendur gætu viljað ýta á „?“ til að sjá flýtilykla.&lt;br&gt;Góða skemmtun!</string>
+  <string name="conclusionText">Þú getur fundið &lt;a href=\'/study/mine/hot\'&gt;fyrri stúderingar&lt;/a&gt; þínar á prófílnum þínum.&lt;br&gt;Einnig er til &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;bloggfærsla um stúderingar&lt;/a&gt;.&lt;br&gt;Reyndir notendur gætu viljað ýta á „?“ til að sjá flýtilykla.&lt;br&gt;Góða skemmtun!</string>
   <string name="createChapterTitle">Búum nú til stúderingarkafla</string>
   <string name="createChapterText">Ein stúdering getur falið í sér þónokkra kafla.&lt;br&gt;Sérhver kafli hefur sinn leikjalista,&lt;br&gt;og getur verið skapaður á ýmsa vegu.</string>
   <string name="fromInitialPositionTitle">Úr uppahafsstöðu</string>
@@ -188,7 +188,7 @@
   <string name="customPositionTitle">Sérsniðin staða</string>
   <string name="customPositionText">Settu upp borðið á þinn hátt.&lt;br&gt;Vel til þess fallið að kanna endatöfl.</string>
   <string name="loadExistingLichessGameTitle">Hlaða inn tiltækri Lichess-skák</string>
-  <string name="loadExistingLichessGameText">Límdu inn slóð Lichess-skákar&lt;br&gt;(eins og lichess.org/7fHIU0XI)&lt;br&gt;til að hlaða inn leikjum skákar í kaflanum.</string>
+  <string name="loadExistingLichessGameText">Límdu inn slóð Lichess-skákar&lt;br&gt;(eins og pawn7.com/7fHIU0XI)&lt;br&gt;til að hlaða inn leikjum skákar í kaflanum.</string>
   <string name="fromFenStringTitle">Útfrá Fen-streng</string>
   <string name="fromFenStringText">Límdu inn stöðu í formi FEN&lt;br&gt;&lt;i&gt;4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w&lt;/i&gt;&lt;br&gt;til að hefja kaflann útfrá ákveðinni stöðu.</string>
   <string name="fromPgnGameTitle">Úr skák í formi PGN</string>

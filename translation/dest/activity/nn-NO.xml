@@ -3,8 +3,8 @@
   <string name="activity">Aktivitet</string>
   <string name="hostedALiveStream">Starta en direktestraum</string>
   <plurals name="supportedNbMonths">
-    <item quantity="one">Stødde lichess.org for %1$s i månaden som %2$s</item>
-    <item quantity="other">Stødde lichess.org i %1$s månader som %2$s</item>
+    <item quantity="one">Stødde pawn7.com for %1$s i månaden som %2$s</item>
+    <item quantity="other">Stødde pawn7.com i %1$s månader som %2$s</item>
   </plurals>
   <plurals name="practicedNbPositions">
     <item quantity="one">Har øvd på %1$s stillingar i emnet %2$s</item>

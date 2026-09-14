@@ -15,7 +15,7 @@
   <string name="downloadKit">โหลดอุปกรณ์สำหรับถ่ายทอดสด</string>
   <string name="xIsStreaming">%s กำลังสตรีม</string>
   <string name="rules">กฎในการสตรีม</string>
-  <string name="rule1">ใส่คีย์เวิร์ดว่า \"lichess.org\" ในชื่อสตรีมของคุณ และใช้หมวดหมู่ \"หมากรุก\" เมื่อคุณสตรีมบน Lichess</string>
+  <string name="rule1">ใส่คีย์เวิร์ดว่า \"pawn7.com\" ในชื่อสตรีมของคุณ และใช้หมวดหมู่ \"หมากรุก\" เมื่อคุณสตรีมบน Lichess</string>
   <string name="rule2">ลบคีย์เวิร์ดออกเมื่อคุณสตรีมเนื้อหาที่ไม่ใช่ของ Lichess</string>
   <string name="rule3">Lichess จะตรวจจับสตรีมของคุณโดยอัตโนมัติและเปิดใช้งานสิทธิพิเศษต่อไปนี้:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">อ่าน %s ของเราเพื่อการเล่นอย่างยุติธรรมในระหว่างการสตรีมของคุณ</string>

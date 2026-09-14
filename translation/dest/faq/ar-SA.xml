@@ -136,7 +136,7 @@
   <string name="enableDisableNotificationPopUps">تفعيل أو تعطيل الإشعارات المنبثقة؟</string>
   <string name="viewSiteInformationPopUp">عرض معلومات الموقع المنبثقة</string>
   <string name="lichessCanOptionnalySendPopUps">يرسل Lichess بشكل إختياري إشعارات منبثقة، على سبيل المثال عندما تحصل على رسالة خاصة أو عندما يكون دورك في اللعب.
-اضغط على زر القفل بجانب رابط lichess.org في متصفحك.
+اضغط على زر القفل بجانب رابط pawn7.com في متصفحك.
 ثم اختر إما تفعيل أو تعطيل الإشعارات من موقعنا.</string>
   <string name="enableAutoplayForSoundsQ">تمكين التشغيل التلقائي للأصوات؟</string>
   <string name="enableAutoplayForSoundsA">يمكن لمعظم المتصفحات منع تشغيل الصوت على الصفحات المحملة حديثًا وذل لحماية المستخدمين. تخيل لو كان بإمكان كل موقع ويب أن يفاجئك بإعلان صوتي فور دخولك.
@@ -146,35 +146,35 @@
 نعرض الرمز الأحمر لتنبيهك عند حدوث ذلك، في كثير من الأحيان يمكنك السماح لنا بتشغيل الأصوات عن طريق متصفحك، وفيما يلي تعليمات للقيام بذلك على الإصدارات الحديثة من بعض المتصفحات الشائعة.</string>
   <string name="mostBrowsersPreventSoundAutoplay" comment="Replaces old string enableAutoplayForSoundsA">تمنع معظم المتصفحات تشغيل الصوت في الصفحات التي تتم زيارتها حديثًا، وذلك لحماية المستخدمين.
 
-تظهر أيقونة كتم الصوت عندما يمنع متصفحك موقع lichess.org من تشغيل الأصوات. عادةً ما يتم رفع هذا القيد بمجرد أن تضغط على أي شيء في الصفحة.
+تظهر أيقونة كتم الصوت عندما يمنع متصفحك موقع pawn7.com من تشغيل الأصوات. عادةً ما يتم رفع هذا القيد بمجرد أن تضغط على أي شيء في الصفحة.
 
 في بعض متصفحات الهواتف المحمولة، لا تُعتبر عملية سحب القطعة باللمس نقرةً. في هذه الحالة، يجب عليك النقر على الرقعة للسماح بتشغيل الصوت في بداية كل مباراة.
 
-نُظهر أيقونة الكتم الحمراء لتنبيهك عند حدوث ذلك. يمكنك السماح بشكل صريح لموقع lichess.org بتشغيل الأصوات في معظم المتصفحات.
+نُظهر أيقونة الكتم الحمراء لتنبيهك عند حدوث ذلك. يمكنك السماح بشكل صريح لموقع pawn7.com بتشغيل الأصوات في معظم المتصفحات.
 
 فيما يلي تعليمات للسماح للموقع بتشغيل الصوت في الإصدارات الحديثة من بعض المتصفحات الشائعة:</string>
   <string name="desktop">سطح المكتب</string>
-  <string name="enableAutoplayForSoundsFirefox">1. اذهب إلى lichess.org
+  <string name="enableAutoplayForSoundsFirefox">1. اذهب إلى pawn7.com
 2. اضغط Ctrl-i في نظامي Linux/Windows أو cmd-i على MacOS
 3. انقر فوق علامة تبويب الأذونات
-4. اختر السماح للصوت والفيديو على lichess.org</string>
-  <string name="enableAutoplayForSoundsChrome">1. انتقل إلى lichess.org
+4. اختر السماح للصوت والفيديو على pawn7.com</string>
+  <string name="enableAutoplayForSoundsChrome">1. انتقل إلى pawn7.com
 2. انقر على أيقونة القُفْل في شريط العنوان
 3. انقر فوق إعدادات الموقع
 4.اختر السماح بالصوت</string>
-  <string name="enableAutoplayForSoundsChromeSiteInformation" comment="Guidance for Google Chrome users on how to enable audio auto-play if they have sound issues. Replaces old string enableAutoplayForSoundsChrome">1.انتقل إلى موقع lichess.org
+  <string name="enableAutoplayForSoundsChromeSiteInformation" comment="Guidance for Google Chrome users on how to enable audio auto-play if they have sound issues. Replaces old string enableAutoplayForSoundsChrome">1.انتقل إلى موقع pawn7.com
 2.اضغط على أيقونة معلومات الموقع الموجودة في شريط العنوان
 3.اضغط على إعدادات الموقع
 4.اسمح بتشغيل الصوت</string>
-  <string name="enableAutoplayForSoundsSafari">1. انتقل إلى lichess.org
+  <string name="enableAutoplayForSoundsSafari">1. انتقل إلى pawn7.com
 2. انقر على Safari في شريط القوائم
-3. انقر فوق إعدادات lichess.org ...
+3. انقر فوق إعدادات pawn7.com ...
 4. اختر السماح للاجراءات التلقائي</string>
   <string name="enableAutoplayForSoundsMicrosoftEdge">1. انقر فوق النُّقَط الثلاث في الزاوية اليمنى العلوية
 2. اختر الإعدادات
 3. انقر على ملفات تعريف الارتباط و أذونات الموقع
 4. مرر للأسفل وانقر على Media Autoplay
-5. أضف lichess.org للقائمة المسموح بها</string>
+5. أضف pawn7.com للقائمة المسموح بها</string>
   <string name="stopMyselfFromPlaying">كيف أوقف نفسي عن اللعب؟</string>
   <string name="mentalHealthCondition">حالة عقلية مستقلة</string>
   <string name="lichessUserstyles">أنماط المستخدم ليتشيس</string>

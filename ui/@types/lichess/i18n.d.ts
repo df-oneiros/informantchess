@@ -51,11 +51,11 @@ interface I18n {
     rankedInSwissTournament: I18nFormat;
     /** Ranked #%1$s (top %2$s%%) with %3$s games in %4$s */
     rankedInTournament: I18nPlural;
-    /** Signed up to lichess.org */
+    /** Signed up to pawn7.com */
     signedUp: string;
     /** Solved %s training puzzles */
     solvedNbPuzzles: I18nPlural;
-    /** Supported lichess.org for %1$s months as a %2$s */
+    /** Supported pawn7.com for %1$s months as a %2$s */
     supportedNbMonths: I18nPlural;
   };
   app: {
@@ -1127,19 +1127,19 @@ interface I18n {
     emailConfirm_intro: string;
     /** If you did not register with Lichess, you can safely ignore this message. The unconfirmed account and all traces of your email address will be deleted from our system after 48 hours. */
     emailConfirm_justIgnore: string;
-    /** Confirm your lichess.org account, %s */
+    /** Confirm your pawn7.com account, %s */
     emailConfirm_subject: I18nFormat;
-    /** Log in to lichess.org, %s */
+    /** Log in to pawn7.com, %s */
     logInToLichess: I18nFormat;
     /** If you made this request, click the link below. If not, you can ignore this email. */
     passwordReset_clickOrIgnore: string;
     /** We received a request to reset the password for your account. */
     passwordReset_intro: string;
-    /** Reset your lichess.org password, %s */
+    /** Reset your pawn7.com password, %s */
     passwordReset_subject: I18nFormat;
-    /** Welcome to lichess.org, %s */
+    /** Welcome to pawn7.com, %s */
     welcome_subject: I18nFormat;
-    /** You have successfully created your account on https://lichess.org. */
+    /** You have successfully created your account on https://pawn7.com. */
     welcome_text: I18nFormat;
   };
   faq: {
@@ -1183,17 +1183,17 @@ interface I18n {
     eightVariants: string;
     /** Most browsers can prevent sound from playing on a freshly loaded page to protect users. Imagine if every website could immediately bombard you with audio ads. */
     enableAutoplayForSoundsA: string;
-    /** 1. Go to lichess.org */
+    /** 1. Go to pawn7.com */
     enableAutoplayForSoundsChrome: string;
-    /** 1. Go to lichess.org */
+    /** 1. Go to pawn7.com */
     enableAutoplayForSoundsChromeSiteInformation: string;
-    /** 1. Go to lichess.org */
+    /** 1. Go to pawn7.com */
     enableAutoplayForSoundsFirefox: string;
     /** 1. Click the three dots in the top right corner */
     enableAutoplayForSoundsMicrosoftEdge: string;
     /** Enable autoplay for sounds? */
     enableAutoplayForSoundsQ: string;
-    /** 1. Go to lichess.org */
+    /** 1. Go to pawn7.com */
     enableAutoplayForSoundsSafari: string;
     /** Enable or disable notification popups? */
     enableDisableNotificationPopUps: string;
@@ -2285,7 +2285,7 @@ interface I18n {
     xOrY: I18nFormat;
     /** You have a Lifetime Patron account. That's pretty awesome! */
     youHaveLifetime: string;
-    /** You support lichess.org with %s per month. */
+    /** You support pawn7.com with %s per month. */
     youSupportWith: I18nFormat;
     /** You will be charged %1$s on %2$s. */
     youWillBeChargedXOnY: I18nFormat;
@@ -3425,7 +3425,7 @@ interface I18n {
     checkmate: string;
     /** Also check your spam folder, it might end up there. If so, mark it as not spam. */
     checkSpamFolder: string;
-    /** If you do not receive a confirmation email, check your Spam or Junk folder. Be sure to indicate messages from lichess.org as safe and "not spam", so you can stay informed of important communications. */
+    /** If you do not receive a confirmation email, check your Spam or Junk folder. Be sure to indicate messages from pawn7.com as safe and "not spam", so you can stay informed of important communications. */
     checkSpamOrJunkFolder: string;
     /** Check your Email */
     checkYourEmail: string;
@@ -4935,7 +4935,7 @@ interface I18n {
     winRate: string;
     /** Wins */
     wins: string;
-    /** and wish you great games on lichess.org. */
+    /** and wish you great games on pawn7.com. */
     wishYouGreatGames: string;
     /** Withdraw */
     withdraw: string;
@@ -5213,7 +5213,7 @@ interface I18n {
     pleaseAllow: string;
     /** Please fill in your streamer information, and upload a picture. */
     pleaseFillIn: string;
-    /** Include the keyword "lichess.org" in your stream title and use the category "Chess" when you stream on Lichess. */
+    /** Include the keyword "pawn7.com" in your stream title and use the category "Chess" when you stream on Lichess. */
     rule1: string;
     /** Remove the keyword when you stream non-Lichess stuff. */
     rule2: string;
@@ -5315,7 +5315,7 @@ interface I18n {
     commentThisMove: string;
     /** Comment on this position */
     commentThisPosition: string;
-    /** You can find your <a href='/study/mine/hot'>previous studies</a> on your profile page.<br>There is also a <a href='//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way'>blog post about studies</a>.<br>Power users might want to press "?" to see keyboard shortcuts.<br>Have fun! */
+    /** You can find your <a href='/study/mine/hot'>previous studies</a> on your profile page.<br>There is also a <a href='//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way'>blog post about studies</a>.<br>Power users might want to press "?" to see keyboard shortcuts.<br>Have fun! */
     conclusionText: string;
     /** Thanks for your time */
     conclusionTitle: string;
@@ -5427,11 +5427,11 @@ interface I18n {
     loadAGameFromPgn: string;
     /** Load a position from FEN */
     loadAPositionFromFen: string;
-    /** Paste a lichess game URL<br>(like lichess.org/7fHIU0XI)<br>to load the game moves in the chapter. */
+    /** Paste a lichess game URL<br>(like pawn7.com/7fHIU0XI)<br>to load the game moves in the chapter. */
     loadExistingLichessGameText: string;
     /** Load an existing lichess game */
     loadExistingLichessGameTitle: string;
-    /** Paste a game URL<br>(like lichess.org/7fHIU0XI)<br>to load game moves in the chapter. */
+    /** Paste a game URL<br>(like pawn7.com/7fHIU0XI)<br>to load game moves in the chapter. */
     loadGameFromTheWebText: string;
     /** Load a game from the web */
     loadGameFromTheWebTitle: string;
@@ -5941,7 +5941,7 @@ interface I18n {
     openTwoFactorApp: string;
     /** Scan the QR code with the app. */
     scanTheCode: string;
-    /** Please enable two-factor authentication to secure your account at https://lichess.org/account/twofactor. */
+    /** Please enable two-factor authentication to secure your account at https://pawn7.com/account/twofactor. */
     setupReminder: string;
     /** Get an app for two-factor authentication. We recommend the following apps: */
     twoFactorAppRecommend: string;

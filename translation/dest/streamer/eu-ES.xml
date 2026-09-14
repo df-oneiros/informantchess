@@ -15,7 +15,7 @@
   <string name="downloadKit">Esatari-kita deskargatu</string>
   <string name="xIsStreaming">%s zuzenean ematen ari da</string>
   <string name="rules">Zuzenekoetarako arauak</string>
-  <string name="rule1">Gehitu lichess.org hitz gakoa zure emanaldiaren izenburuan Lichessen emanaldia egiten ari zarenean.</string>
+  <string name="rule1">Gehitu pawn7.com hitz gakoa zure emanaldiaren izenburuan Lichessen emanaldia egiten ari zarenean.</string>
   <string name="rule2">Ezabatu hitz-gakoa Lichessekoa ez den zerbait ematen ari zarenean.</string>
   <string name="rule3">Lichessek zure emanaldia automatikoki detektatuko du eta zera aktibatuko du:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">Irakurri gure %s guztion joko garbia bermatzeko.</string>

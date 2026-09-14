@@ -52,7 +52,7 @@ Maar Beskermhere kan spog met \'n oulike nuwe profiel ikoon.</string>
     <item quantity="one">Lichess Beskermheer vir een maand</item>
     <item quantity="other">Lichess Beskermheer vir %s maande</item>
   </plurals>
-  <string name="youSupportWith">Jy ondersteun lichess.org met %s per maand.</string>
+  <string name="youSupportWith">Jy ondersteun pawn7.com met %s per maand.</string>
   <string name="tyvm">Baie dankie vir jou hulp. Jy is \'n yster!</string>
   <string name="currentStatus">Huidige status</string>
   <string name="nextPayment">Volgende paaiement</string>

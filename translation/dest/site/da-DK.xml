@@ -273,7 +273,7 @@
   <string name="emailCanTakeSomeTime">Det kan tage lidt tid for den at ankomme.</string>
   <string name="refreshInboxAfterFiveMinutes">Vent 5 minutter og opdater din e-mails indbakke.</string>
   <string name="checkSpamFolder">Tjek også din spam-mappe, det kan være, at den havner der. Hvis det er tilfældet, skal du markere den som ikke-spam.</string>
-  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Modtager du ikke en bekræftelses-e-mail, skal du tjekke din spam- eller junk-mappe. Sørg for at markere beskeder fra lichess.org som sikre og \"ikke spam\", så du kan holde dig opdateret om vigtige meddelelser.</string>
+  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Modtager du ikke en bekræftelses-e-mail, skal du tjekke din spam- eller junk-mappe. Sørg for at markere beskeder fra pawn7.com som sikre og \"ikke spam\", så du kan holde dig opdateret om vigtige meddelelser.</string>
   <string name="sendEmailForAccountVerification">Hvis du ikke kan finde din bekræftelsesmail, kan du sende en e-mail til %s, så bekræfter vi din konto for dig.</string>
   <string name="accountConfirmed">Brugeren %s er blevet bekræftet.</string>
   <string name="accountCanLogin">Du kan nu logge ind som %s.</string>
@@ -603,7 +603,7 @@ At spille ratede partier vil øge stabiliteten.</string>
   <string name="reportCheatBoostHelp">Indsæt linket til partiet (eller partierne) og forklar hvad der er i vejen med brugerens opførsel. Sig ikke blot \"de snyder\", men fortæl os, hvordan du nåede frem til den konklusion.</string>
   <string name="reportUsernameHelp">Forklar, hvad der er stødende ved dette brugernavn. Sig ikke blot \"det er stødende/upassende\", men fortæl os, hvordan du nåede frem til denne konklusion, især hvis fornærmelsen er sløret, ikke er på engelsk, er slang eller er en historisk/kulturel reference.</string>
   <string name="reportProcessedFasterInEnglish">Din indberetning vil blive behandlet hurtigere, hvis den er skrevet på engelsk.</string>
-  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://lichess.org/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Vi kan behandle din anmeldelse hurtigere, hvis du skriver på engelsk.</string>
+  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://pawn7.com/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Vi kan behandle din anmeldelse hurtigere, hvis du skriver på engelsk.</string>
   <string name="error.provideOneCheatedGameLink">Angiv mindst ét link til et parti med snyd.</string>
   <string name="by">Af %s</string>
   <string name="importedByX">Importeret af %s</string>
@@ -728,12 +728,12 @@ At spille ratede partier vil øge stabiliteten.</string>
   <string name="aboutSimulSettings">Simultanspil er altid \"uformelle\". Revanche, omtræk og \"ekstra tid\" er deaktiverede.</string>
   <string name="create">Opret</string>
   <string name="whenCreateSimul">Når du opretter et simultanspil, spiller du mod adskillige modstandere på én gang.</string>
-  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://lichess.org/simul/new Replaces old string whenCreateSimul">Når du opretter en simul, kan du spille mod flere modstandere på samme tid.</string>
+  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://pawn7.com/simul/new Replaces old string whenCreateSimul">Når du opretter en simul, kan du spille mod flere modstandere på samme tid.</string>
   <string name="simulVariantsHint">Hvis du vælger flere varianter, kan hver enkelt spiller vælge, hvilken der skal spilles.</string>
   <string name="simulClockHint">Fischer Clock opsætning. Jo flere spillere du udfordrer, jo mere tid kan være nødvendig.</string>
   <string name="simulAddExtraTime">Du kan tilføje ekstra tid til dit ur for at hjælpe med at klare simultanspillet.</string>
   <string name="simulHostExtraTime">Ekstra tid til værtsuret</string>
-  <string name="extraClockTimeForHost" comment="Appears on: https://lichess.org/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Ekstra tid på uret for værten:</string>
+  <string name="extraClockTimeForHost" comment="Appears on: https://pawn7.com/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Ekstra tid på uret for værten:</string>
   <string name="simulAddExtraTimePerPlayer">Læg den indledende tid til dit ur igen for hver spiller, der melder sig til simultanspillet.</string>
   <string name="simulHostExtraTimePerPlayer">Ekstra tid på arrangørens ur pr. spiller</string>
   <string name="lichessTournaments">Lichess-turneringer</string>
@@ -928,7 +928,7 @@ At spille ratede partier vil øge stabiliteten.</string>
   </plurals>
   <string name="showUnreadLichessMessage">Du har modtaget en privat besked fra Lichess.</string>
   <string name="clickHereToReadIt">Klik her for at læse den</string>
-  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://lichess.org/@/Lichess Replaces old string clickHereToReadIt">Læs beskeden</string>
+  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://pawn7.com/@/Lichess Replaces old string clickHereToReadIt">Læs beskeden</string>
   <string name="sorry">Beklager :(</string>
   <string name="weHadToTimeYouOutForAWhile">Vi måtte give dig en timeout.</string>
   <string name="why">Hvorfor?</string>
@@ -940,7 +940,7 @@ At spille ratede partier vil øge stabiliteten.</string>
   <string name="tryToWin">Forsøg at vinde (eller i det mindre opnå remis) alle partier du spiller.</string>
   <string name="resignLostGames">Kapituler ved tabende position (lad ikke tiden løbe ud).</string>
   <string name="temporaryInconvenience">Vi undskylder for den midlertidige ulejlighed,</string>
-  <string name="wishYouGreatGames">og ønsker dig gode kampe på lichess.org.</string>
+  <string name="wishYouGreatGames">og ønsker dig gode kampe på pawn7.com.</string>
   <string name="thankYouForReading">Tak for at læse!</string>
   <string name="lifetimeScore">Livstidsscore</string>
   <string name="currentMatchScore">Nuværende kampscore</string>

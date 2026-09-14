@@ -59,9 +59,9 @@
   <string name="notifyInboxMsg">Nieuw postvakbericht</string>
   <string name="notifyDirectMessage" comment="notifyInboxMsg&#10;&#10;A notification setting - notifies players when they receive a new message in their Lichess inbox Replaces old string notifyInboxMsg">Nieuw privébericht</string>
   <string name="notifyForumMention">Opmerking op het forum noemt u</string>
-  <string name="notifyForumMentions" comment="notifyForumMention&#10;&#10; A notification setting - notifies players when someone has @mentioned their name in the Lichess Forum (https://lichess.org/forum) Replaces old string notifyForumMention">Forumvermeldingen</string>
+  <string name="notifyForumMentions" comment="notifyForumMention&#10;&#10; A notification setting - notifies players when someone has @mentioned their name in the Lichess Forum (https://pawn7.com/forum) Replaces old string notifyForumMention">Forumvermeldingen</string>
   <string name="notifyInvitedStudy">Studie uitnodiging</string>
-  <string name="notifyStudyInvites" comment="notifyInvitedStudy&#10;&#10; A notification setting - notifies players about invites to studies (https://lichess.org/study/) Replaces old string notifyInvitedStudy">Studie-uitnodigingen</string>
+  <string name="notifyStudyInvites" comment="notifyInvitedStudy&#10;&#10; A notification setting - notifies players about invites to studies (https://pawn7.com/study/) Replaces old string notifyInvitedStudy">Studie-uitnodigingen</string>
   <string name="notifyGameEvent">Spelupdates voor correspondentiepartijen</string>
   <string name="notifyChallenge">Uitdagingen</string>
   <string name="notifyTournamentSoon">Toernooi begint binnenkort</string>

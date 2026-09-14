@@ -13,5 +13,5 @@
   <string name="twoFactorEnabled">Tofaktorautentisering skrudd på</string>
   <string name="twoFactorToDisable">Du trenger passordet ditt og en autentiseringskode fra autentiseringsappen din for å deaktivere tofaktorautentisering.</string>
   <string name="openTwoFactorApp">Åpne tofaktorautentiseringsappen på enheten din for å vise autentiseringskoden og bekrefte identiteten din.</string>
-  <string name="setupReminder">Sikre kontoen din ved å skru på tofaktorautentisering på https://lichess.org/account/twofactor. Du mottar denne meldingen fordi kontoen din har særskilte ansvarsområder, slik som lagleder, trener, lærer eller strømmer.</string>
+  <string name="setupReminder">Sikre kontoen din ved å skru på tofaktorautentisering på https://pawn7.com/account/twofactor. Du mottar denne meldingen fordi kontoen din har særskilte ansvarsområder, slik som lagleder, trener, lærer eller strømmer.</string>
 </resources>

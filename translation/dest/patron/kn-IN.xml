@@ -53,7 +53,7 @@
     <item quantity="one">ಒಂದು ತಿಂಗಳ ಕಾಲ ಲಿಚೆಸ್ ಪೋಷಕ</item>
     <item quantity="other">%s ತಿಂಗಳವರೆಗೆ ಲಿಚೆಸ್ ಪೋಷಕ</item>
   </plurals>
-  <string name="youSupportWith">ನೀವು ತಿಂಗಳಿಗೆ %s ನೊಂದಿಗೆ lichess.org ಅನ್ನು ಬೆಂಬಲಿಸುತ್ತೀರಿ.</string>
+  <string name="youSupportWith">ನೀವು ತಿಂಗಳಿಗೆ %s ನೊಂದಿಗೆ pawn7.com ಅನ್ನು ಬೆಂಬಲಿಸುತ್ತೀರಿ.</string>
   <string name="tyvm">ನಿಮ್ಮ ಸಹಾಯಕ್ಕಾಗಿ ತುಂಬಾ ಧನ್ಯವಾದಗಳು. ನೀವು ರಾಕ್!</string>
   <string name="currentStatus">ಪ್ರಸ್ತುತ ಸ್ಥಿತಿ</string>
   <string name="nextPayment">ಮುಂದಿನ ಪಾವತಿ</string>

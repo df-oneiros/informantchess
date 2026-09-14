@@ -3,7 +3,7 @@
   <string name="activity">活動</string>
   <string name="hostedALiveStream">主持一個現場直播</string>
   <plurals name="supportedNbMonths">
-    <item quantity="other">以 %2$s 身分贊助 lichess.org %1$s 個月</item>
+    <item quantity="other">以 %2$s 身分贊助 pawn7.com %1$s 個月</item>
   </plurals>
   <plurals name="practicedNbPositions">
     <item quantity="other">在 %2$s 練習了 %1$s 個棋局</item>
@@ -54,7 +54,7 @@
     <item quantity="other">參與過 %s 場瑞士制錦標賽</item>
   </plurals>
   <string name="rankedInSwissTournament">在%2$s中排名 %1$s</string>
-  <string name="signedUp">在 lichess.org 中註冊</string>
+  <string name="signedUp">在 pawn7.com 中註冊</string>
   <plurals name="joinedNbTeams">
     <item quantity="other">加入 %s 團隊</item>
   </plurals>

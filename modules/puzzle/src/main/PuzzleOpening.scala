@@ -138,7 +138,7 @@ final class PuzzleOpeningApi(
         OpeningDb.search(game.sans).map(_.opening).flatMap(SimpleOpening.apply) match
           case None =>
             fuccess:
-              logger.warn(s"No opening for https://lichess.org/training/${puzzle.id}")
+              logger.warn(s"No opening for https://pawn7.com/training/${puzzle.id}")
           case Some(o) =>
             val keys = List(o.family.key.value, o.key.value)
             colls.puzzle:

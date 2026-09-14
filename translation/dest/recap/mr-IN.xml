@@ -54,16 +54,16 @@
 	<string name="malwareNoSell">आम्ही तुमचे वैयक्तिक गोष्टी विकल्या नाहीत</string>
 	<string name="malwareNoAbuse">आम्ही तुमचं साधन तुमच्या विरुद्ध वापरले नाही</string>
 	<string name="malwareWarningPrefix" comment="%s is 'be careful'">पण इतर वेबसाइट करतात, तर कृपया %s</string>
-	<string name="malwareWarningCta" comment="It is a link to https://lichess.org/ads">सावध राहा</string>
+	<string name="malwareWarningCta" comment="It is a link to https://pawn7.com/ads">सावध राहा</string>
 	<string name="lichessGamesPlayedIn" comment="%1$s is the number of games, %2$s is the year">Lichess वर %1$s खेळ खेळले गेले %2$s मध्ये</string>
 	<string name="lichessGamesOfThemYours" comment="%s is the percentage of games that are yours">%s तुमचे होते.</string>
 	<string name="thanksTitle">Lichess मध्ये खेळण्यास धन्यवाद!</string>
 	<string name="thanksHaveAGreat" comment="%s is the next year">तुम्हाला बघून आम्ही प्रसन्न झालो, तुमचे %s सुखमय हो!</string>
 	<string name="patronCostsThisYear" comment="%1$s is 'costs'. %2$s is the cost with currency symbol e.g. '$750,000'">Lichess चे %1$s ह्या वर्षी %2$s होते</string>
-	<string name="patronCosts" comment="It is a link to lichess.org/costs">खर्च</string>
+	<string name="patronCosts" comment="It is a link to pawn7.com/costs">खर्च</string>
 	<string name="patronCharity">आम्ही एक धर्मादाय संस्था आहोत, जी पूर्णपणे देणग्यांवर चालते.</string>
 	<string name="patronConsiderDonating" comment="%s is 'supporting us with a donation'">जर आम्ही या वर्षी तुमचे मनोरंजन करण्यास मदत केली असेल, किंवा तुम्हाला आमच्या कामावर विश्वास असेल, तर कृपया %s!</string>
-	<string name="patronMakeDonation" comment="It is a link to https://lichess.org/patron">आम्हाला देणग्यांसोबत मदत करा</string>
+	<string name="patronMakeDonation" comment="It is a link to https://pawn7.com/patron">आम्हाला देणग्यांसोबत मदत करा</string>
 	<string name="shareableTitle" comment="%s is the current year">माझे %s संक्षेप</string>
 	<string name="shareableSpentPlaying" comment="subtitle to the translated time they have spent playing">खेळण्यात घालवले</string>
 	<string name="shareableMostPlayedOpponent">सर्वात जास्त खेळलेला प्रतिस्पर्धी  </string>

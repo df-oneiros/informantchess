@@ -289,7 +289,7 @@ final class Api(env: Env, gameC: => Game) extends LilaController(env):
   val eventStream =
     Scoped(_.Bot.Play, _.Board.Play, _.Challenge.Read) { _ ?=> me ?=>
       def limited = rateLimited:
-        "Please don't poll this endpoint, it is intended to be streamed. See https://lichess.org/api#tag/board/GET/api/board/game/stream/{gameId}."
+        "Please don't poll this endpoint, it is intended to be streamed. See https://pawn7.com/api#tag/board/GET/api/board/game/stream/{gameId}."
       HTTPRequest.bearer.so: (bearer, _) =>
         limit.eventStream(bearer, limited, msg = s"${me.username} ${HTTPRequest.printClient(req)}"):
           for

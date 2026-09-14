@@ -746,7 +746,7 @@
   <string name="tryToWin">Тоглолт бүрээ ялахын төлөө (ядаж тэнцэхийн төлөө) тоглоорой.</string>
   <string name="resignLostGames">Ялагдсан нь тодорхой тоглолтууд дээр бууж өгж байгаарай (цагыг дуустал хүлээж өрсөлдөгчийнхөө цагийг бас үрэхээ больё).</string>
   <string name="temporaryInconvenience">Түр зуурын асуудалд уучлал хүсье,</string>
-  <string name="wishYouGreatGames">та lichess.org дээр олон сайхан тоглолтуудыг тоглоно гэж найдъя.</string>
+  <string name="wishYouGreatGames">та pawn7.com дээр олон сайхан тоглолтуудыг тоглоно гэж найдъя.</string>
   <string name="thankYouForReading">Уншсанд баярлалаа</string>
   <string name="lifetimeScore">Амьдралын оноо</string>
   <string name="edit">Засаж янзлах</string>

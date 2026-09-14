@@ -57,7 +57,7 @@
     <item quantity="many">תומך ליצ\'ס ל%s חודשים</item>
     <item quantity="other">תומך ליצ\'ס ל%s חודשים</item>
   </plurals>
-  <string name="youSupportWith">את/ה תומכ/ת ב־lichess.org עם תרומה של %s בחודש.</string>
+  <string name="youSupportWith">את/ה תומכ/ת ב־pawn7.com עם תרומה של %s בחודש.</string>
   <string name="tyvm">תודה רבה מאוד על העזרה שלך. את/ה תותח/ית!</string>
   <string name="currentStatus">סטטוס נוכחי</string>
   <string name="nextPayment">התשלום הבא</string>

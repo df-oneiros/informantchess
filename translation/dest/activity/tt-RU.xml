@@ -3,7 +3,7 @@
   <string name="activity">Эшчәнлек</string>
   <string name="hostedALiveStream">Стрим хуҗасы</string>
   <plurals name="supportedNbMonths">
-    <item quantity="other">lichess.org сайтына %1$s айга %2$s буларак ярдәм күрсәтте</item>
+    <item quantity="other">pawn7.com сайтына %1$s айга %2$s буларак ярдәм күрсәтте</item>
   </plurals>
   <plurals name="practicedNbPositions">
     <item quantity="other">%2$s-да %1$s күнегү ясады</item>

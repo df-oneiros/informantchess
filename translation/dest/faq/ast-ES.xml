@@ -139,33 +139,33 @@ Ye meyor pensar nes puntuaciones como figures \"relatives\" (a diferencia de les
   <string name="viewSiteInformationPopUp">Ver notificación emerxente d\'información del sitiu</string>
   <string name="lichessCanOptionnalySendPopUps">Opcionalmente, Lichess puede unviar notificaciones emerxentes, por casu cuando sía la to vez o recibieres un mensaxe priváu.
 
-Fai clic nel iconu de bloquéu al pie de la dirección de lichess.org, na barra d\'enllaces del to navegador.
+Fai clic nel iconu de bloquéu al pie de la dirección de pawn7.com, na barra d\'enllaces del to navegador.
 
 llueu escueye si dexar o bloquiar notificaciones de Lichess.</string>
   <string name="enableAutoplayForSoundsQ">¿Habilitar la reproducción automática de soníos?</string>
   <string name="enableAutoplayForSoundsA">La mayoría de los navegadores pueden evitar que se reproduza soníu nuna páxina recién cargada pa protexer a los usuarios. Imaxínate si tolos sitios web pudieren bombardearte darréu con anuncios d\'audiu.
 
-L\'iconu coloráu de silenciu apaez cuando el to navegador impide que lichess.org reproduza un soníu. Polo xeneral, esta restricción eliminase una vegada que fexes clic en daqué. En dellos navegadores móviles, tocar y arrastrar una pieza nun cunta como un clic. Nesi casu tienes que tocar el tableru pa dexar el soníu al entamu de cada xuegu.
+L\'iconu coloráu de silenciu apaez cuando el to navegador impide que pawn7.com reproduza un soníu. Polo xeneral, esta restricción eliminase una vegada que fexes clic en daqué. En dellos navegadores móviles, tocar y arrastrar una pieza nun cunta como un clic. Nesi casu tienes que tocar el tableru pa dexar el soníu al entamu de cada xuegu.
 
-Amosemos l\'iconu coloráu p\'avisate cuando esto asoceda. A menudo, pues dexar explícitamente que lichess.org reproduza soníos. Equí vas atopar instrucciones pa faelo en versiones recién de dellos navegadores populares.</string>
+Amosemos l\'iconu coloráu p\'avisate cuando esto asoceda. A menudo, pues dexar explícitamente que pawn7.com reproduza soníos. Equí vas atopar instrucciones pa faelo en versiones recién de dellos navegadores populares.</string>
   <string name="desktop">escritoriu</string>
-  <string name="enableAutoplayForSoundsFirefox">1. Ve a lichess.org
+  <string name="enableAutoplayForSoundsFirefox">1. Ve a pawn7.com
 2. Pulsia Ctrl-i en Linux/Windows o cmd-i en MacOS
 3. Fai clic na pestaña Permisos
-4. Dexar audiu y video en lichess.org</string>
-  <string name="enableAutoplayForSoundsChrome">1. Ve a lichess.org
+4. Dexar audiu y video en pawn7.com</string>
+  <string name="enableAutoplayForSoundsChrome">1. Ve a pawn7.com
 2. Fai clic nel iconu de bloquéu de la barra de direcciones
 3. Fai clic en Configuración del sitiu
 4. Habilitar soníu</string>
-  <string name="enableAutoplayForSoundsSafari">1. Ve a lichess.org
+  <string name="enableAutoplayForSoundsSafari">1. Ve a pawn7.com
 2. Fai clic en Safari de la barra de menú
-3. Fai clic en Configuración de lichess.org ...
+3. Fai clic en Configuración de pawn7.com ...
 4. Habilitar la reproducción automática</string>
   <string name="enableAutoplayForSoundsMicrosoftEdge">1. Fai clic nos trés puntos de la esquina cimera derecha
 2. Fai clic en Axustes
 3. Fai clic en Cookies y permisos del sitiu
 4. Muévite escontra baxo y fai clic en Reproducción automática
-5. Añede a lichess.org en Habilitar</string>
+5. Añede a pawn7.com en Habilitar</string>
   <string name="stopMyselfFromPlaying">¿Parar de xugar?</string>
   <string name="mentalHealthCondition">condición de salú mental independiente</string>
   <string name="lichessUserstyles">Estilos d\'usuariu de Lichess</string>

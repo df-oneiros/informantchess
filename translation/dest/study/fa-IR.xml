@@ -137,7 +137,7 @@
   <string name="interestingMove">حرکت جالب</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">حرکت مشکوک</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">تک‌حرکت</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">اکراهی</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">اکراهی</string>
   <string name="equalPosition">وضعیت برابر</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">وضعیت ناروشن</string>
   <string name="whiteIsSlightlyBetter">سفید کمی بهتر است</string>
@@ -181,7 +181,7 @@
   <string name="annotatePositionTitle">یادداشت‌گذاری روی یک وضعیت</string>
   <string name="annotatePositionText">روی دکمهٔ !؟ بتِلیکید، یا روی فهرستِ حرکاتِ سمت راست، راست-تِلیکید.&lt;br&gt;علائمِ حرکت‌نویسی ذخیره و همرسانیده می‌شوند.</string>
   <string name="conclusionTitle">ممنون از وقتی که گذاشتید</string>
-  <string name="conclusionText">شما می‌توانید &lt;a href=\'/study/mine/hot\'&gt;مطالعه‌های پیشین‌تان&lt;/a&gt; از صفحهٔ رُخ‌نمای‌تان بیابید.&lt;br&gt;همچنین یک &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;وبنوشته دربارهٔ مطالعه‌ها&lt;/a&gt; وجود دارد.&lt;br&gt;کاربران حرفه‌ای می‌توانند کلید «؟» را برای دیدن میان‌برهای صفحه‌کلید بِفِشارند.&lt;br&gt;خوش بگذرد!</string>
+  <string name="conclusionText">شما می‌توانید &lt;a href=\'/study/mine/hot\'&gt;مطالعه‌های پیشین‌تان&lt;/a&gt; از صفحهٔ رُخ‌نمای‌تان بیابید.&lt;br&gt;همچنین یک &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;وبنوشته دربارهٔ مطالعه‌ها&lt;/a&gt; وجود دارد.&lt;br&gt;کاربران حرفه‌ای می‌توانند کلید «؟» را برای دیدن میان‌برهای صفحه‌کلید بِفِشارند.&lt;br&gt;خوش بگذرد!</string>
   <string name="createChapterTitle">بیایید یک فصل مطالعه بسازیم</string>
   <string name="createChapterText">یک مطالعه می‌تواند چندین فصل داشته باشد. هر فصل درخت حرکات متمایزی دارد و می‌تواند به روش‌های مختلفی ایجاد شود.</string>
   <string name="fromInitialPositionTitle">از وضعیت اولیه</string>
@@ -190,8 +190,8 @@
   <string name="customPositionText">صفحه را به روش خود بچینید. مناسب برای بررسی آخر بازی‌ها.</string>
   <string name="loadExistingLichessGameTitle">بازی قبلی در لیچس را بارگذاری کن</string>
   <string name="loadGameFromTheWebTitle" comment="Replaces old string loadExistingLichessGameTitle">بار کردنِ یک بازی از وب</string>
-  <string name="loadExistingLichessGameText">یک آدرس بازی از لیچس (مانند lichess.org/7fHIU0XI) جای‌گذاری کنید تا حرکات بازی در این فصل بارگذاری شود.</string>
-  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">برای بار کردنِ حرکت‌های بازی درونِ بخش، وب‌نشانیِ بازی &lt;br&gt;(مثل lichess.org/7fHIU0XI)&lt;br&gt; را جایگذارید.</string>
+  <string name="loadExistingLichessGameText">یک آدرس بازی از لیچس (مانند pawn7.com/7fHIU0XI) جای‌گذاری کنید تا حرکات بازی در این فصل بارگذاری شود.</string>
+  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">برای بار کردنِ حرکت‌های بازی درونِ بخش، وب‌نشانیِ بازی &lt;br&gt;(مثل pawn7.com/7fHIU0XI)&lt;br&gt; را جایگذارید.</string>
   <string name="fromFenStringTitle">از یک رشتهٔ FEN</string>
   <string name="fromFenStringText">یک وضعیت با فرمت FEN مانند r1b2rk1/pp3ppp/1qnbpn2/3p4/3P1B2/2PB1N2/PP1N1PPP/R2Q1RK1 w - - 1 10 جای‌گذاری کنید تا فصل از آن وضعیت شروع شود.</string>
   <string name="fromPgnGameTitle">از بازی یک فایل PGN</string>

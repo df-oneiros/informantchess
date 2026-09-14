@@ -137,7 +137,7 @@
   <string name="interestingMove">Jokaldi interesgarria</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Zalantzazko jokaldia</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Jokaldi bakarra</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Zugzwang</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Zugzwang</string>
   <string name="equalPosition">Berdindutako posizioa</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Posizioa ez da argia</string>
   <string name="whiteIsSlightlyBetter">Zuria hobetoxeago</string>
@@ -181,7 +181,7 @@
   <string name="annotatePositionTitle">Iruzkindu posizioa</string>
   <string name="annotatePositionText">Egin klik !? botoian, edo jokaldi zerrendan.&lt;br&gt;Iruzkinen ikonoak partekatu eta gorde egiten dira.</string>
   <string name="conclusionTitle">Eskerrik asko zure denboragatik</string>
-  <string name="conclusionText">Zure &lt;a href=\'/study/mine/hot\'&gt;aurreko azterlanak&lt;/a&gt; zure profilean ikusi ditzakezu.&lt;br&gt;Gainera &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;azterlanei buruzko blogeko artikulu bat&lt;/a&gt; ere badago.&lt;br&gt;Erabiltzaile ahaltsuek \"?\" sakatu dezakete beste lasterbide batzuk ikusteko.</string>
+  <string name="conclusionText">Zure &lt;a href=\'/study/mine/hot\'&gt;aurreko azterlanak&lt;/a&gt; zure profilean ikusi ditzakezu.&lt;br&gt;Gainera &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;azterlanei buruzko blogeko artikulu bat&lt;/a&gt; ere badago.&lt;br&gt;Erabiltzaile ahaltsuek \"?\" sakatu dezakete beste lasterbide batzuk ikusteko.</string>
   <string name="createChapterTitle">Azterlan kapitulu berri bat sortu dezagun</string>
   <string name="createChapterText">Azterlan batek hainbat kapitulu izan ditzake.&lt;br&gt;Kapitulu bakoitzak bere jokaldi zuhaitza du,&lt;br&gt;eta hainbat eratan sortu daiteke.</string>
   <string name="fromInitialPositionTitle">Hasierako posiziotik aurrera</string>
@@ -190,8 +190,8 @@
   <string name="customPositionText">Konfiguratu taula zuk nahi duzun moduan.&lt;br&gt;Adibidez finalak aztertzeko.</string>
   <string name="loadExistingLichessGameTitle">Kargatu Lichess-en dagoen partida bat</string>
   <string name="loadGameFromTheWebTitle" comment="Replaces old string loadExistingLichessGameTitle">Kargatu partida bat webetik</string>
-  <string name="loadExistingLichessGameText">Itsatsi lichesseko partida batn URLa&lt;br&gt;(adibidez lichess.org/7fHIU0XI)&lt;br&gt;partidaren jokaldiak kapituluan kargatzeko.</string>
-  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">Itsatsi partidaren URLa &lt;br&gt;(adb.: lichess.org/7fHIU0XI)&lt;br&gt; partidaren jokaldiak kapituluan kargatzeko.</string>
+  <string name="loadExistingLichessGameText">Itsatsi lichesseko partida batn URLa&lt;br&gt;(adibidez pawn7.com/7fHIU0XI)&lt;br&gt;partidaren jokaldiak kapituluan kargatzeko.</string>
+  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">Itsatsi partidaren URLa &lt;br&gt;(adb.: pawn7.com/7fHIU0XI)&lt;br&gt; partidaren jokaldiak kapituluan kargatzeko.</string>
   <string name="fromFenStringTitle">FEN kate batetik</string>
   <string name="fromFenStringText">Itsatsu FEN formatuko posizio bat&lt;i&gt;4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w&lt;/i&gt;&lt;br&gt;kapitulua posizio batetik hasteko.</string>
   <string name="fromPgnGameTitle">PGN partida batetik</string>

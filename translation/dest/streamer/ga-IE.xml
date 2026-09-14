@@ -15,7 +15,7 @@
   <string name="downloadKit">Íoslódáil trealamh sruthú</string>
   <string name="xIsStreaming">%s ag sruthlú</string>
   <string name="rules">Rialacha sruthlú</string>
-  <string name="rule1">Cuir an eochairfhocal \"lichess.org\" san áireamh i do theideal srutha agus bain úsáid as an gcatagóir \"Ficheall\" nuair a dhéanann tú sruth ar Lichess.</string>
+  <string name="rule1">Cuir an eochairfhocal \"pawn7.com\" san áireamh i do theideal srutha agus bain úsáid as an gcatagóir \"Ficheall\" nuair a dhéanann tú sruth ar Lichess.</string>
   <string name="rule2">Bain an eochair-fhocal nuair atá tú ag sruthlú stuif neamh-Lichess.</string>
   <string name="rule3">Braithfidh Lichess do shruth go huathoibríoch agus ligfidh sé na buntáistí seo a leanas:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">Léigh ár %s chun cothrom na Féinne a chinntiú do gach duine le linn do shruth.</string>

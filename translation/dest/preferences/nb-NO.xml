@@ -59,9 +59,9 @@
   <string name="notifyInboxMsg">Ny melding i innboksen</string>
   <string name="notifyDirectMessage" comment="notifyInboxMsg&#10;&#10;A notification setting - notifies players when they receive a new message in their Lichess inbox Replaces old string notifyInboxMsg">Ny direktemelding</string>
   <string name="notifyForumMention">Forumkommentar nevner deg</string>
-  <string name="notifyForumMentions" comment="notifyForumMention&#10;&#10; A notification setting - notifies players when someone has @mentioned their name in the Lichess Forum (https://lichess.org/forum) Replaces old string notifyForumMention">Omtaler i forumet</string>
+  <string name="notifyForumMentions" comment="notifyForumMention&#10;&#10; A notification setting - notifies players when someone has @mentioned their name in the Lichess Forum (https://pawn7.com/forum) Replaces old string notifyForumMention">Omtaler i forumet</string>
   <string name="notifyInvitedStudy">Invitasjon til studie</string>
-  <string name="notifyStudyInvites" comment="notifyInvitedStudy&#10;&#10; A notification setting - notifies players about invites to studies (https://lichess.org/study/) Replaces old string notifyInvitedStudy">Invitasjoner til studier</string>
+  <string name="notifyStudyInvites" comment="notifyInvitedStudy&#10;&#10; A notification setting - notifies players about invites to studies (https://pawn7.com/study/) Replaces old string notifyInvitedStudy">Invitasjoner til studier</string>
   <string name="notifyGameEvent">Oppdateringer for fjernsjakkpartier</string>
   <string name="notifyChallenge">Utfordringer</string>
   <string name="notifyTournamentSoon">Turnering starter snart</string>

@@ -15,7 +15,7 @@
   <string name="downloadKit">Yayımçı dəstini endir</string>
   <string name="xIsStreaming">%s yayımdadır</string>
   <string name="rules">Yayım qaydaları</string>
-  <string name="rule1">Lichessdə yayım qoşarkən, yayım başlığına \"lichess.org\" açar sözünü daxil edin və Şahmat kateqoriyasını seçin.</string>
+  <string name="rule1">Lichessdə yayım qoşarkən, yayım başlığına \"pawn7.com\" açar sözünü daxil edin və Şahmat kateqoriyasını seçin.</string>
   <string name="rule2">Lichess ilə əlaqəsi olmayan bir yayım edərkən bu açar sözü çıxardın.</string>
   <string name="rule3">Lichess, yayımınızı avtomatik aşkarlayacaq və bu üstünlükləri aktivləşdirəcək:</string>
   <string name="perks">Açar söz ilə yayım aparmağın üstünlükləri</string>

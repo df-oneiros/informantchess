@@ -140,43 +140,43 @@ Reyting — bu shunchaki \"nisbiy\" koʻrsatkich. U faqat bir guruh oʻyinchilar
   <string name="viewSiteInformationPopUp">Sayt haqida maʼlumot olish oynasini koʻrish</string>
   <string name="lichessCanOptionnalySendPopUps">Lichess ixtiyoriy ravishda qalqib chiquvchi bildirishnomalarni yuborishi mumkin. Masalan, sizning galingiz kelganida yoki shaxsiy xabar olganingizda.
 
-Buning uchun brauzeringizning manzillar satridagi lichess.org manzili yonidagi joylashgan qulf belgisini bosing.
+Buning uchun brauzeringizning manzillar satridagi pawn7.com manzili yonidagi joylashgan qulf belgisini bosing.
 
 Soʻngra, Lichessʼdan keladigan bildirishnomalarga ruxsat berish yoki ularni bloklashni tanlang.</string>
   <string name="enableAutoplayForSoundsQ">Ovozlar avtomatik ijro etilsinmi?</string>
   <string name="enableAutoplayForSoundsA">Koʻpgina brauzerlar foydalanuvchilarni himoya qilish maqsadida yangi ochilgan sahifada ovozlarni oʻz‑oʻzidan yangrashini cheklab qoʻyadi. Tasavvur qiling, agar har bir sayt ochilishi bilan sizga birdaniga audio‑reklamalar bilan \"hujum\" qilsa, qanchalik noqulay boʻlardi.
 
-Brauzeringiz lichess.org saytiga ovoz chiqarishga ruxsat bermasa, ekranda qizil rangli ovozsiz (mute) belgisi paydo boʻladi. Odatda, biror tugmani bosishingiz bilan bu cheklov olib tashlanadi. Ayrim mobil brauzerlarida donani surish \"bosish\" hisobiga oʻtmaydi. Bunday holda, har bir oʻyin boshida ovozlar ishlashi uchun shunchaki taxta ustiga bir marta tegib qoʻyish kifoya.
+Brauzeringiz pawn7.com saytiga ovoz chiqarishga ruxsat bermasa, ekranda qizil rangli ovozsiz (mute) belgisi paydo boʻladi. Odatda, biror tugmani bosishingiz bilan bu cheklov olib tashlanadi. Ayrim mobil brauzerlarida donani surish \"bosish\" hisobiga oʻtmaydi. Bunday holda, har bir oʻyin boshida ovozlar ishlashi uchun shunchaki taxta ustiga bir marta tegib qoʻyish kifoya.
 
-Bunday holat yuz berganda sizni ogohlantirish uchun biz oʻsha qizil belgini koʻrsatamiz. Brauzer sozlamalarida lichess.org saytiga ovoz chiqarishga ruxsat berib qoʻyishingiz mumkin. Quyida eng ommabop brauzerlarning soʻnggi versiyalarida buni amalga oshirish boʻyicha koʻrsatmalar berilgan.</string>
+Bunday holat yuz berganda sizni ogohlantirish uchun biz oʻsha qizil belgini koʻrsatamiz. Brauzer sozlamalarida pawn7.com saytiga ovoz chiqarishga ruxsat berib qoʻyishingiz mumkin. Quyida eng ommabop brauzerlarning soʻnggi versiyalarida buni amalga oshirish boʻyicha koʻrsatmalar berilgan.</string>
   <string name="mostBrowsersPreventSoundAutoplay" comment="Replaces old string enableAutoplayForSoundsA">Brauzerlar foydalanuvchilarni himoya qilish uchun yangi tashrif buyurilgan sahifalarda ovozni avtomatik ijro etilishini taqiqlaydi.
 
-Brauzeringiz lichess.org saytiga ovoz chiqarishga ruxsat bermasa, ovozsiz belgisi paydo boʻladi. Bu cheklov odatda biror narsani bosganingizdan soʻng olib tashlanadi.
+Brauzeringiz pawn7.com saytiga ovoz chiqarishga ruxsat bermasa, ovozsiz belgisi paydo boʻladi. Bu cheklov odatda biror narsani bosganingizdan soʻng olib tashlanadi.
 Baʼzi mobil brauzerlarda donani surish bosish deb hisoblanmaydi. Bunday holda, har bir oʻyin boshida ovozga ruxsat berish uchun taxtaga tegishingiz kerak.
 
-Bu sodir boʻlganda sizni ogohlantirish uchun qizil ovozsiz belgisini koʻrsatamiz. Aksariyat brauzerlarda lichess.org uchun ovozlarni aniq belgilab ruxsat berishingiz mumkin. Baʼzi ommabop brauzerlarning soʻnggi versiyalarida veb‑saytga audio ijro etishga ruxsat berish boʻyicha koʻrsatmalar:</string>
+Bu sodir boʻlganda sizni ogohlantirish uchun qizil ovozsiz belgisini koʻrsatamiz. Aksariyat brauzerlarda pawn7.com uchun ovozlarni aniq belgilab ruxsat berishingiz mumkin. Baʼzi ommabop brauzerlarning soʻnggi versiyalarida veb‑saytga audio ijro etishga ruxsat berish boʻyicha koʻrsatmalar:</string>
   <string name="desktop">kompyuter versiyasi</string>
-  <string name="enableAutoplayForSoundsFirefox">1. lichess.org saytiga kiring.
+  <string name="enableAutoplayForSoundsFirefox">1. pawn7.com saytiga kiring.
 2. Linux/Windowsʼda Ctrl‑i yoki MacOSʼda cmd‑i tugmalarini bosing.
 3. Ruxsatlar (Permissions) boʻlimiga oʻting
-4. lichess.org uchun Audio va Video uzatishga ruxsat bering</string>
-  <string name="enableAutoplayForSoundsChrome">1. lichess.org saytiga kiring
+4. pawn7.com uchun Audio va Video uzatishga ruxsat bering</string>
+  <string name="enableAutoplayForSoundsChrome">1. pawn7.com saytiga kiring
 2. Manzillar satridagi qulf belgisini bosing
 3. Sayt sozlamalari (Site Settings) boʻlimiga kiring
 4. Ovoz chiqarishga ruxsat bering</string>
-  <string name="enableAutoplayForSoundsChromeSiteInformation" comment="Guidance for Google Chrome users on how to enable audio auto-play if they have sound issues. Replaces old string enableAutoplayForSoundsChrome">1. lichess.org saytiga oʻting
+  <string name="enableAutoplayForSoundsChromeSiteInformation" comment="Guidance for Google Chrome users on how to enable audio auto-play if they have sound issues. Replaces old string enableAutoplayForSoundsChrome">1. pawn7.com saytiga oʻting
 2. Manzil satridagi sayt maʼlumotlari belgisini bosing
 3. Sayt sozlamalarini bosing
 4. Tovushga ruxsat bering</string>
-  <string name="enableAutoplayForSoundsSafari">1. lichess.org saytiga kiring
+  <string name="enableAutoplayForSoundsSafari">1. pawn7.com saytiga kiring
 2. Menyular satridagi Safari tugmasini bosing
-3. lichess.org uchun sozlamalar... (Settings for lichess.org) boʻlimini tanlang
+3. pawn7.com uchun sozlamalar... (Settings for pawn7.com) boʻlimini tanlang
 4. Barchasini avtomatik ijro etish (Allow All Auto‑Play) bandiga ruxsat bering</string>
   <string name="enableAutoplayForSoundsMicrosoftEdge">1. Yuqori oʻng burchakdagi uch nuqtani bosing
 2. Sozlamalar boʻlimiga kiring
 3. Cookie-fayllar va sayt ruxsatlari (Cookies and Site Permissions) bandini tanlang
 4. Pastga tushib, Media kontentni avtomatik ijro etish (Media autoplay) qismini bosing
-5. Ruxsat berish (Allow) roʻyxatiga lichess.org saytini qoʻshing</string>
+5. Ruxsat berish (Allow) roʻyxatiga pawn7.com saytini qoʻshing</string>
   <string name="stopMyselfFromPlaying">Oʻyinni bas qila olmayapman, nima qilsam boʻladi?</string>
   <string name="mentalHealthCondition">alohida ruhiy kasallik</string>
   <string name="lichessUserstyles">foydalanuvchi Lichess CSS stillari</string>

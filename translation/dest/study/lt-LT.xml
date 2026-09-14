@@ -141,7 +141,7 @@
   <string name="interestingMove">Įdomus ėjimas</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Abejotinas ėjimas</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Vienintelis ėjimas</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Cugcvangas</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Cugcvangas</string>
   <string name="equalPosition">Lygi pozicija</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Neaiški pozicija</string>
   <string name="whiteIsSlightlyBetter">Šiek tiek geriau baltiesiems</string>

@@ -242,7 +242,7 @@ final class FaqUi(helpers: Helpers, sitePages: SitePages)(
             trf.whatUsernameCanIchoose.txt(),
             p(
               trf.usernamesNotOffensive(
-                a(href := "https://lichess.org/page/username-policy")(trf.guidelines())
+                a(href := "https://pawn7.com/page/username-policy")(trf.guidelines())
               )
             )
           ),
@@ -257,7 +257,7 @@ final class FaqUi(helpers: Helpers, sitePages: SitePages)(
             h4("The Golden Zee"),
             p(
               trf.ownerUniqueTrophies(
-                a(href := "https://lichess.org/@/ZugAddict")("ZugAddict")
+                a(href := "https://pawn7.com/@/ZugAddict")("ZugAddict")
               )
             ),
             p(
@@ -375,9 +375,9 @@ final class FaqUi(helpers: Helpers, sitePages: SitePages)(
             "Make a Lichess bot?",
             p(
               "To learn how to create a ",
-              a(href := "https://lichess.org/blog/WvDNticAAMu_mHKP/welcome-lichess-bots")("Lichess bot"),
+              a(href := "https://pawn7.com/blog/WvDNticAAMu_mHKP/welcome-lichess-bots")("Lichess bot"),
               ", please read ",
-              a(href := "https://lichess.org/@/thibault/blog/how-to-create-a-lichess-bot/FuKyvDuB")(
+              a(href := "https://pawn7.com/@/thibault/blog/how-to-create-a-lichess-bot/FuKyvDuB")(
                 "this blog post"
               ),
               "."
@@ -391,7 +391,7 @@ final class FaqUi(helpers: Helpers, sitePages: SitePages)(
                 a(href := "https://getcoldturkey.com")("ColdTurkey"),
                 a(href := "https://freedom.to")("Freedom"),
                 a(href := "https://www.proginosko.com/leechblock")("LeechBlock"),
-                a(href := "https://lichess.org/page/userstyles")(trf.lichessUserstyles()),
+                a(href := "https://pawn7.com/page/userstyles")(trf.lichessUserstyles()),
                 a(href := "https://github.com/ornicar/userstyles/blob/master/lichess.fewer-pools.user.css")(
                   trf.fewerLobbyPools()
                 ),

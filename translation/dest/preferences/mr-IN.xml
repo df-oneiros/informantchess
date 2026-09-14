@@ -59,9 +59,9 @@
   <string name="notifyInboxMsg">नवीन इनबॉक्स संदेश</string>
   <string name="notifyDirectMessage" comment="notifyInboxMsg&#10;&#10;A notification setting - notifies players when they receive a new message in their Lichess inbox Replaces old string notifyInboxMsg">नवीन थेट संदेश</string>
   <string name="notifyForumMention">मंच टिप्पणीमध्ये तुमचा उल्लेख</string>
-  <string name="notifyForumMentions" comment="notifyForumMention&#10;&#10; A notification setting - notifies players when someone has @mentioned their name in the Lichess Forum (https://lichess.org/forum) Replaces old string notifyForumMention">चर्चामंडळ उल्लेख</string>
+  <string name="notifyForumMentions" comment="notifyForumMention&#10;&#10; A notification setting - notifies players when someone has @mentioned their name in the Lichess Forum (https://pawn7.com/forum) Replaces old string notifyForumMention">चर्चामंडळ उल्लेख</string>
   <string name="notifyInvitedStudy">अभ्यासाचे आमंत्रण</string>
-  <string name="notifyStudyInvites" comment="notifyInvitedStudy&#10;&#10; A notification setting - notifies players about invites to studies (https://lichess.org/study/) Replaces old string notifyInvitedStudy">अभ्यासिकांसाठी आमंत्रण</string>
+  <string name="notifyStudyInvites" comment="notifyInvitedStudy&#10;&#10; A notification setting - notifies players about invites to studies (https://pawn7.com/study/) Replaces old string notifyInvitedStudy">अभ्यासिकांसाठी आमंत्रण</string>
   <string name="notifyGameEvent">पत्रव्यवहार खेळ अद्यतने</string>
   <string name="notifyChallenge">आव्हाने</string>
   <string name="notifyTournamentSoon">लवकरच सुरू होणारी स्पर्धा</string>

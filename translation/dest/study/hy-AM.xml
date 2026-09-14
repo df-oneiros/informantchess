@@ -132,7 +132,7 @@
   <string name="interestingMove">Հետաքրքիր քայլ է</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Կասկածելի քայլ</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Միակ քայլ</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Ցուգցվանգ</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Ցուգցվանգ</string>
   <string name="equalPosition">Հավասար դիրք</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Անորոշ դիրք</string>
   <string name="whiteIsSlightlyBetter">Սպիտակները մի քիչ լավ են</string>

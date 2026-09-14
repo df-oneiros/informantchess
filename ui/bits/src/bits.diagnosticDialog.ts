@@ -84,7 +84,7 @@ const storageProxy: Record<string, { storageKey: string; validate: (val?: string
   },
   wsHost: {
     storageKey: 'socket.host',
-    validate: (val?: string) => val?.endsWith('.lichess.org') ?? false,
+    validate: (val?: string) => val?.endsWith('.pawn7.com') ?? false,
   },
   logWindow: {
     storageKey: 'log.window',

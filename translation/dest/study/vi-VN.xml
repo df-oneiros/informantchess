@@ -133,7 +133,7 @@
   <string name="interestingMove">Nước đi hay</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Nước đi mơ hồ</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Nước duy nhất</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Zugzwang</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Zugzwang</string>
   <string name="equalPosition">Thế trận cân bằng</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Thế cờ không rõ ràng</string>
   <string name="whiteIsSlightlyBetter">Bên trắng có một chút lợi thế</string>
@@ -177,7 +177,7 @@
   <string name="annotatePositionTitle">Chú thích một thế cờ</string>
   <string name="annotatePositionText">Nhấp vào nút !? hoặc nhấp chuột phải vào danh sách nước đi ở bên phải.&lt;br&gt;Dấu chú thích được chia sẻ và lưu.</string>
   <string name="conclusionTitle">Cảm ơn bạn đã dành thời gian</string>
-  <string name="conclusionText">Bạn có thể tìm &lt;a href=\'/study/mine/hot\'&gt;nghiên cứu trước đó&lt;/a&gt;từ trang hồ sơ của bạn.&lt;br&gt;Ngoài ra còn có một &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;bài blog về các nghiên cứu&lt;/a&gt;.&lt;br&gt;Những người thành thạo có thể nhập \"?\" để xem các phím tắt.&lt;br&gt;Chúc vui vẻ!</string>
+  <string name="conclusionText">Bạn có thể tìm &lt;a href=\'/study/mine/hot\'&gt;nghiên cứu trước đó&lt;/a&gt;từ trang hồ sơ của bạn.&lt;br&gt;Ngoài ra còn có một &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;bài blog về các nghiên cứu&lt;/a&gt;.&lt;br&gt;Những người thành thạo có thể nhập \"?\" để xem các phím tắt.&lt;br&gt;Chúc vui vẻ!</string>
   <string name="createChapterTitle">Hãy tạo một chương nghiên cứu</string>
   <string name="createChapterText">Một nghiên cứu có thể có vài chương.&lt;br&gt;Mỗi chương có một cây nước cờ riêng biệt,&lt;br&gt;và có thể được tạo ra theo nhiều cách khác nhau.</string>
   <string name="fromInitialPositionTitle">Từ thế cờ ban đầu</string>
@@ -186,8 +186,8 @@
   <string name="customPositionText">Thiết lập bàn cờ theo cách của bạn.&lt;br&gt;phù hợp để khám phá cờ tàn, tàn cuộc.</string>
   <string name="loadExistingLichessGameTitle">Tải một ván cờ Lichess hiện có</string>
   <string name="loadGameFromTheWebTitle" comment="Replaces old string loadExistingLichessGameTitle">Tải ván đấu từ trang web</string>
-  <string name="loadExistingLichessGameText">Dán URL một ván cờ trên lichess&lt;br&gt;(kiểu như lichess.org/7fhiu0xi)&lt;br&gt;để tải các nước cờ trong chương.</string>
-  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">Dán URL ván cờ&lt;br&gt;(ví dụ: lichess.org/7fHIU0XI)&lt;br&gt;để tải các nước cờ trong chương.</string>
+  <string name="loadExistingLichessGameText">Dán URL một ván cờ trên lichess&lt;br&gt;(kiểu như pawn7.com/7fhiu0xi)&lt;br&gt;để tải các nước cờ trong chương.</string>
+  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">Dán URL ván cờ&lt;br&gt;(ví dụ: pawn7.com/7fHIU0XI)&lt;br&gt;để tải các nước cờ trong chương.</string>
   <string name="fromFenStringTitle">Từ một chuỗi FEN</string>
   <string name="fromFenStringText">Dán một thế cờ ở định dạng FEN&lt;br&gt;&lt;i&gt;4K3/4RB2/8/7P/8/5Q2/1PP5/1K6 W&lt;/i&gt;&lt;br&gt;để bắt đầu chương từ một thế cờ.</string>
   <string name="fromPgnGameTitle">Từ một PGN của ván cờ</string>

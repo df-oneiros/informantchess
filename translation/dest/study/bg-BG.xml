@@ -136,7 +136,7 @@
   <string name="interestingMove">Интересен ход</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Съмнителен ход</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Единствен ход</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Цугцванг</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Цугцванг</string>
   <string name="equalPosition">Равна позиция</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Неясна позиция</string>
   <string name="whiteIsSlightlyBetter">Белите са малко по-добре</string>
@@ -180,7 +180,7 @@
   <string name="annotatePositionTitle">Анотирай позиция</string>
   <string name="annotatePositionText">Кликни върху бутона !? или кликни с десен бутон върху списъка с ходове вдясно.&lt;br&gt;Анотационните символи се споделят и запазват.</string>
   <string name="conclusionTitle">Благодарим за отделеното време</string>
-  <string name="conclusionText">Можеш да намериш своите &lt;a href=\'/study/mine/hot\'&gt;предишни студии&lt;/a&gt; в страницата на профила си.&lt;br&gt;Има също и &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;блог публикация за студиите&lt;/a&gt;.&lt;br&gt;Напредналите потребители може да натиснат „?“ за преглед на клавишните комбинации.&lt;br&gt;Приятно забавление!</string>
+  <string name="conclusionText">Можеш да намериш своите &lt;a href=\'/study/mine/hot\'&gt;предишни студии&lt;/a&gt; в страницата на профила си.&lt;br&gt;Има също и &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;блог публикация за студиите&lt;/a&gt;.&lt;br&gt;Напредналите потребители може да натиснат „?“ за преглед на клавишните комбинации.&lt;br&gt;Приятно забавление!</string>
   <string name="createChapterTitle">Нека създадем глава към студията</string>
   <string name="createChapterText">Една студия може да има няколко глави.&lt;br&gt;Всяка глава има различно дърво с ходове&lt;br&gt;и може да бъде създадена по различни начини.</string>
   <string name="fromInitialPositionTitle">От начална позиция</string>
@@ -188,7 +188,7 @@
   <string name="customPositionTitle">От позиция</string>
   <string name="customPositionText">Подреди дъската по свой начин.&lt;br&gt;Подходящо за изследване на ендшпили.</string>
   <string name="loadExistingLichessGameTitle">Зареди съществуваща партия от Lichess</string>
-  <string name="loadExistingLichessGameText">Постави URL адрес на партия от Lichess&lt;br&gt;(например lichess.org/7fHIU0XI)&lt;br&gt;за да заредиш ходовете на партията в главата.</string>
+  <string name="loadExistingLichessGameText">Постави URL адрес на партия от Lichess&lt;br&gt;(например pawn7.com/7fHIU0XI)&lt;br&gt;за да заредиш ходовете на партията в главата.</string>
   <string name="fromFenStringTitle">От FEN нотация</string>
   <string name="fromFenStringText">Постави позиция във FEN формат&lt;br&gt;&lt;i&gt;4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w&lt;/i&gt;&lt;br&gt;за да започнеш главата от конкретна позиция.</string>
   <string name="fromPgnGameTitle">От PGN нотация</string>

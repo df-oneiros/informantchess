@@ -15,7 +15,7 @@
   <string name="downloadKit">Stiahnite si streamerskú súpravu</string>
   <string name="xIsStreaming">%s vysiela</string>
   <string name="rules">Pravidlá streamovania</string>
-  <string name="rule1">Zahrňte kľúčové slovo \"lichess.org\" v názve Vášho streamu a požite kategóriu \"Šach\" keď streamujete na Lichessi.</string>
+  <string name="rule1">Zahrňte kľúčové slovo \"pawn7.com\" v názve Vášho streamu a požite kategóriu \"Šach\" keď streamujete na Lichessi.</string>
   <string name="rule2">Odstráňte kľúčové slovo keď nestreamujete z Lichessu.</string>
   <string name="rule3">Lichess automaticky rozozná tvoj stream a poskytne ti nasledujúce výhody:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">Aby sme počas Vášho streamu zabezpečili fair play pre všetkých, prečítajte so naše %s.</string>

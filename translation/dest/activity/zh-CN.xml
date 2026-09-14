@@ -3,7 +3,7 @@
   <string name="activity">动态</string>
   <string name="hostedALiveStream">主持了直播</string>
   <plurals name="supportedNbMonths">
-    <item quantity="other">该用户作为 %2$s 已赞助 lichess.org 共 %1$s 个月</item>
+    <item quantity="other">该用户作为 %2$s 已赞助 pawn7.com 共 %1$s 个月</item>
   </plurals>
   <plurals name="practicedNbPositions">
     <item quantity="other">在 %2$s 中解决了 %1$s 道习题</item>
@@ -54,7 +54,7 @@
     <item quantity="other">参加了 %s 场瑞士制锦标赛</item>
   </plurals>
   <string name="rankedInSwissTournament">在 %2$s 中排名第 #%1$s 位</string>
-  <string name="signedUp">注册了 lichess.org 账户</string>
+  <string name="signedUp">注册了 pawn7.com 账户</string>
   <plurals name="joinedNbTeams">
     <item quantity="other">加入了 %s 支团队</item>
   </plurals>

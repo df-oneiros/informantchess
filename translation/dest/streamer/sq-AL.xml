@@ -15,7 +15,7 @@
   <string name="downloadKit">Shkarkoni mjetet e transmetimit</string>
   <string name="xIsStreaming">%s po transmeton</string>
   <string name="rules">Rregulla transmetimi</string>
-  <string name="rule1">Përfshini fjalëkyçen “lichess.org” në titullin e transmetimit dhe përdorni kategorinë “Shah”, kur transmetoni në Lichess.</string>
+  <string name="rule1">Përfshini fjalëkyçen “pawn7.com” në titullin e transmetimit dhe përdorni kategorinë “Shah”, kur transmetoni në Lichess.</string>
   <string name="rule2">Hiqeni fjalëkyçen kur transmetoni gjëra që s’kanë të bëjnë me Lichess-in.</string>
   <string name="rule3">Lichess-i do ta pikasë automatikisht transmetimin tuaj dhe do të aktivizojë anët vijuese:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">Lexoni %s për të garantuar lojë të drejtë për këdo gjatë transmetimit tuaj</string>

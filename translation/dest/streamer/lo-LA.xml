@@ -15,7 +15,7 @@
   <string name="downloadKit">ດາວໂຫຼດຊຸດເຄື່ອງມືຜູ້ສຕຣີມເມີ</string>
   <string name="xIsStreaming">%s ກຳລັງສຕຣີມ</string>
   <string name="rules">ກົດລະບຽບການສຕຣີມ</string>
-  <string name="rule1">ໃສ່ຄຳສຳຄັນ \"lichess.org\" ໃນຊື່ຫົວຂໍ້ການສຕຣີມຂອງເຈົ້າ ແລະ ໃຊ້ໝວດໝູ່ \"Chess\" ເວລາເຈົ້າສຕຣີມໃນ Lichess.</string>
+  <string name="rule1">ໃສ່ຄຳສຳຄັນ \"pawn7.com\" ໃນຊື່ຫົວຂໍ້ການສຕຣີມຂອງເຈົ້າ ແລະ ໃຊ້ໝວດໝູ່ \"Chess\" ເວລາເຈົ້າສຕຣີມໃນ Lichess.</string>
   <string name="rule2">ລຶບຄຳສຳຄັນອອກ ເມື່ອເຈົ້າສຕຣີມເນື້ອຫາອື່ນທີ່ບໍ່ແມ່ນ Lichess.</string>
   <string name="rule3">Lichess ຈະກວດຫາການສຕຣີມຂອງເຈົ້າໂດຍອັດຕະໂນມັດ ແລະ ເປີດໃຊ້ສິດທິພິເສດດັ່ງຕໍ່ໄປນີ້:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">ອ່ານ %s ຂອງພວກເຮົາ ເພື່ອຮັບປະກັນການຫຼິ້ນທີ່ຍຸດຕິທຳສຳລັບທຸກຄົນໃນລະຫວ່າງການສຕຣີມຂອງທ່ານ.</string>

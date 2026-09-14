@@ -41,7 +41,7 @@
   <plurals name="patronForMonths">
     <item quantity="other">Lichess Иганәче %s ай өчен</item>
   </plurals>
-  <string name="youSupportWith">Сез lichess.org аена %s белән ярдәм итәсез.</string>
+  <string name="youSupportWith">Сез pawn7.com аена %s белән ярдәм итәсез.</string>
   <string name="tyvm">Ярдәмегез өчен бик зур рәхмәт. Син нык!</string>
   <string name="currentStatus">Хәзерге торышы</string>
   <string name="nextPayment">Киләсе түләү</string>

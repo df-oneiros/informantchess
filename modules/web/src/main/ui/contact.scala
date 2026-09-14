@@ -282,7 +282,7 @@ object contact:
                 p(ifYouWantToBroadcastClause1()),
                 p(
                   ifYouWantToBroadcastClause2(
-                    contactEmailLink("broadcast@lichess.org"),
+                    contactEmailLink("broadcast@pawn7.com"),
                     a(href := "https://discord.gg/Syx9CbN8Jv")(ourDiscordServer())
                   )
                 )

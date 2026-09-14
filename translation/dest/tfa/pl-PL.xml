@@ -13,6 +13,6 @@
   <string name="twoFactorEnabled">Włączono uwierzytelnianie dwuskładnikowe</string>
   <string name="twoFactorToDisable">Aby wyłączyć uwierzytelnianie dwuskładnikowe, należy podać swoje hasło oraz kod uwierzytelniający z aplikacji uwierzytelniającej.</string>
   <string name="openTwoFactorApp">Otwórz aplikację do uwierzytelniania dwuskładnikowego na swoim urządzeniu, aby wyświetlić kod uwierzytelniający i zweryfikować swoją tożsamość.</string>
-  <string name="setupReminder">Włącz uwierzytelnianie dwuskładnikowe, aby zabezpieczyć swoje konto na stronie https://lichess.org/account/twofactor.
+  <string name="setupReminder">Włącz uwierzytelnianie dwuskładnikowe, aby zabezpieczyć swoje konto na stronie https://pawn7.com/account/twofactor.
 Otrzymałeś tę wiadomość, ponieważ Twoje konto posiada specjalne uprawnienia, takie jak gracz z tytułem, lider klubu, trener, nauczyciel lub streamer.</string>
 </resources>

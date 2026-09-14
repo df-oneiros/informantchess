@@ -58,7 +58,7 @@ Mar sin féin, faigheann Pátrúin cearta bragála le deilbhín próifíl nua fi
     <item quantity="many">Pátrún Lichess ar feadh %s mí</item>
     <item quantity="other">Pátrún Lichess ar feadh %s mí</item>
   </plurals>
-  <string name="youSupportWith">Tacaíonn tú le lichess.org le %s in aghaidh na míosa.</string>
+  <string name="youSupportWith">Tacaíonn tú le pawn7.com le %s in aghaidh na míosa.</string>
   <string name="tyvm">Go raibh míle maith agat as do chuidiú. Tú thar cionn!</string>
   <string name="currentStatus">Stádás laithreach</string>
   <string name="nextPayment">An chéad íocaíocht eile</string>

@@ -6,7 +6,7 @@ const xhrUrl = new URL('../src/xhr.ts', import.meta.url).href;
 
 test('self report', async () => {
   const textMock = mock.fn(async (url: string) => {
-    assert.equal(url, '/jslog/lichess.org/?n=spam');
+    assert.equal(url, '/jslog/pawn7.com/?n=spam');
     return 'ok';
   });
 

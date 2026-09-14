@@ -15,7 +15,7 @@
   <string name="downloadKit">Unduh streamer kit</string>
   <string name="xIsStreaming">%s sedang streaming</string>
   <string name="rules">Aturan streaming</string>
-  <string name="rule1">Sertakan kata kunci \"lichess.org\" dalam judul stream Anda saat Anda streaming di Lichess.</string>
+  <string name="rule1">Sertakan kata kunci \"pawn7.com\" dalam judul stream Anda saat Anda streaming di Lichess.</string>
   <string name="rule2">Hapus kata kunci saat Anda streaming hal-hal yang bukan Lichess.</string>
   <string name="rule3">Lichess akan mendeteksi stream Anda secara otomatis dan mengaktifkan fasilitas berikut:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">Baca %s untuk menjaga sportivitas untuk semua orang saat anda streaming.</string>

@@ -67,7 +67,7 @@
     <item quantity="other">Võistles %s šveitsi turniiril</item>
   </plurals>
   <string name="rankedInSwissTournament">Saavutas %1$s. koha mängus %2$s</string>
-  <string name="signedUp">Registreerus lehel lichess.org</string>
+  <string name="signedUp">Registreerus lehel pawn7.com</string>
   <plurals name="joinedNbTeams">
     <item quantity="one">Liitus %s rühmaga</item>
     <item quantity="other">Liitus %s rühmaga</item>

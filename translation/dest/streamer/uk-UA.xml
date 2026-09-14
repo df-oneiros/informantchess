@@ -15,7 +15,7 @@
   <string name="downloadKit">Завантажити набір інструментів стримера</string>
   <string name="xIsStreaming">%s транслює</string>
   <string name="rules">Правила трансляцій</string>
-  <string name="rule1">Додайте ключове слово \"lichess.org\" у заголовку вашої трансляції і використовуйте категорію \"Chess\" під час трансляції на Lichess.</string>
+  <string name="rule1">Додайте ключове слово \"pawn7.com\" у заголовку вашої трансляції і використовуйте категорію \"Chess\" під час трансляції на Lichess.</string>
   <string name="rule2">Видаліть ключове слово, коли транслюєте щось не пов\'язане з Lichess.</string>
   <string name="rule3">Lichess буде автоматично виявляти вашу трансляцію і включати наступні переваги:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">Прочитайте наші %s для забезпечення справедливої гри для всіх протягом вашої трансляції.</string>

@@ -15,7 +15,7 @@
   <string name="downloadKit">Lataa striimaajan tarvikkeet</string>
   <string name="xIsStreaming">%s striimaa</string>
   <string name="rules">Striimaussäännöt</string>
-  <string name="rule1">Sisällytä avainsana \"lichess.org\" striimisi otsikkoon kun striimaat Lichess-sisältöä.</string>
+  <string name="rule1">Sisällytä avainsana \"pawn7.com\" striimisi otsikkoon kun striimaat Lichess-sisältöä.</string>
   <string name="rule2">Poista avainsana, kun striimaat Lichessiin liittymätöntä sisältöä.</string>
   <string name="rule3">Lichess havaitsee striimisi automaattisesti ja tarjoaa etuja:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">Lue meidän %s:mme taataksesi striimisi aikana reilun pelin kaikille.</string>

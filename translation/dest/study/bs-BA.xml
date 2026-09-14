@@ -140,7 +140,7 @@
   <string name="interestingMove">Zanimljiv potez</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Sumnjiv potez</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Jedini potez</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Iznudica</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Iznudica</string>
   <string name="equalPosition">Jednaka pozicija</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Nejasna pozicija</string>
   <string name="whiteIsSlightlyBetter">Bijeli je u blagoj prednosti</string>
@@ -184,7 +184,7 @@
   <string name="annotatePositionTitle">Označi poziciju</string>
   <string name="annotatePositionText">Kliknite na dugme !? ili kliknite desnim tasterom miša na listu za premeštanje sa desne strane.&lt;br&gt;Glifovi anotacija se dele i čuvaju.</string>
   <string name="conclusionTitle">Hvala na vašem vremenu</string>
-  <string name="conclusionText">Svoje &lt;a href=\'/study/mine/hot\'&gt;prethodne studije&lt;/a&gt; možete pronaći na stranici svog profila.&lt;br&gt;Postoji i &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;blog objava na blogu o studijama&lt;/a&gt;.&lt;br&gt;Napredni korisnici možda žele pritisnuti \"?\" da bi vidjeli prečice na tastaturi.&lt;br&gt;Zabavite se!</string>
+  <string name="conclusionText">Svoje &lt;a href=\'/study/mine/hot\'&gt;prethodne studije&lt;/a&gt; možete pronaći na stranici svog profila.&lt;br&gt;Postoji i &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;blog objava na blogu o studijama&lt;/a&gt;.&lt;br&gt;Napredni korisnici možda žele pritisnuti \"?\" da bi vidjeli prečice na tastaturi.&lt;br&gt;Zabavite se!</string>
   <string name="createChapterTitle">Hajde da kreiramo poglavlje za učenje</string>
   <string name="createChapterText">Studija može imati nekoliko poglavlja.&lt;br&gt;Svako poglavlje ima zasebno stablo premještanja,&lt;br&gt;i može se kreirati na različite načine.</string>
   <string name="fromInitialPositionTitle">Iz početne pozicije</string>
@@ -192,7 +192,7 @@
   <string name="customPositionTitle">Prilagođena pozicija</string>
   <string name="customPositionText">Postavite ploču na svoj način.&lt;br&gt;Pogodno za istraživanje završnica.</string>
   <string name="loadExistingLichessGameTitle">Učitaj postojeću lichess igru</string>
-  <string name="loadExistingLichessGameText">Zalijepite URL lichess igre&lt;br&gt;(kao što je lichess.org/7fHIU0XI)&lt;br&gt;da biste učitali poteze igre u poglavlju.</string>
+  <string name="loadExistingLichessGameText">Zalijepite URL lichess igre&lt;br&gt;(kao što je pawn7.com/7fHIU0XI)&lt;br&gt;da biste učitali poteze igre u poglavlju.</string>
   <string name="fromFenStringTitle">Iz FEN niza</string>
   <string name="fromFenStringText">Zalijepite poziciju u FEN formatu&lt;br&gt;&lt;i&gt;4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w&lt;/i&gt;&lt;br&gt;da biste započeli poglavlje od određene pozicije.</string>
   <string name="fromPgnGameTitle">Iz PGN igre</string>

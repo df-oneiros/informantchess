@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="emailConfirm_subject">Kgonthišiša lichess.org account ya gago,%s</string>
+  <string name="emailConfirm_subject">Kgonthišiša pawn7.com account ya gago,%s</string>
   <string name="emailConfirm_click" comment="emailConfirm_click&#10;&#10;Part of the confirmation email upon registering for a Lichess account.&#10;&#10;The unique reset link is presented just after this string.">Kgotla link go bula account ya gago ya Lichess:</string>
   <string name="passwordReset_subject">Ngwadiša password e mpsha, %s</string>
   <string name="passwordReset_intro">Re humane kgopela ya go mpshafatša password ya gago.</string>
@@ -8,8 +8,8 @@
   <string name="emailChange_subject">Kgonthišiša aterese ya email e mpsha, %s</string>
   <string name="emailChange_intro">O kgopetše go fetola aterese ya gago ya email.</string>
   <string name="emailChange_click">Go kgonthišiša gore email ke ya gago, kgotla link ya ka tlase:</string>
-  <string name="welcome_subject">O amogetšwe go lichess.org, %s</string>
-  <string name="welcome_text">O kgonne go bula account mo go https://lichess.org.
+  <string name="welcome_subject">O amogetšwe go pawn7.com, %s</string>
+  <string name="welcome_text">O kgonne go bula account mo go https://pawn7.com.
 
 Letlakala la boitsebišo ke le: %1$s. O ka le kgabisa mo %2$s.
 

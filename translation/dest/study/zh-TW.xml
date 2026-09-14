@@ -131,7 +131,7 @@
   <string name="interestingMove">有趣的一着</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">值得商榷的一着</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">唯一著法</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">等著</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">等著</string>
   <string name="equalPosition">勢均力敵</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">局勢不明</string>
   <string name="whiteIsSlightlyBetter">白方稍占優勢</string>

@@ -137,7 +137,7 @@
   <string name="interestingMove">Jogada interessante</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Lance questionável</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Única jogada</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Zugzwang</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Zugzwang</string>
   <string name="equalPosition">Posição igual</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Posição incerta</string>
   <string name="whiteIsSlightlyBetter">Brancas estão um pouco melhor</string>
@@ -181,7 +181,7 @@
   <string name="annotatePositionTitle">Fazer anotações</string>
   <string name="annotatePositionText">Clique com o botão direito na lista de jogadas, ou no botão !?.&lt;br&gt;As anotações são compartilhadas e salvas.</string>
   <string name="conclusionTitle">Agradecemos seu tempo</string>
-  <string name="conclusionText">Você pode ver seus &lt;a href=\'/study/mine/hot\'&gt;estudos antigos&lt;/a&gt; no seu perfil.&lt;br&gt;Há também um &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;post sobre os estudos&lt;/a&gt;.&lt;br&gt;Usuários avançados podem apertar \"?\" para ver atalhos de teclado.&lt;br&gt;Divirta-se!</string>
+  <string name="conclusionText">Você pode ver seus &lt;a href=\'/study/mine/hot\'&gt;estudos antigos&lt;/a&gt; no seu perfil.&lt;br&gt;Há também um &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;post sobre os estudos&lt;/a&gt;.&lt;br&gt;Usuários avançados podem apertar \"?\" para ver atalhos de teclado.&lt;br&gt;Divirta-se!</string>
   <string name="createChapterTitle">Vamos criar um capítulo</string>
   <string name="createChapterText">Um estudo pode ter vários capítulos.&lt;br&gt;Cada um tem uma árvore de jogadas&lt;br&gt;e pode ser criado de muitas formas.</string>
   <string name="fromInitialPositionTitle">A partir da posição inicial</string>
@@ -190,8 +190,8 @@
   <string name="customPositionText">Monte do seu jeito.&lt;br&gt;Bom para estudar finais.</string>
   <string name="loadExistingLichessGameTitle">Carregar um jogo de lichess existente</string>
   <string name="loadGameFromTheWebTitle" comment="Replaces old string loadExistingLichessGameTitle">Carregar uma partida da web</string>
-  <string name="loadExistingLichessGameText">Cole a URL de um jogo&lt;br&gt;(como lichess.org/7fHIU0XI)&lt;br&gt;para inserir as jogadas no capítulo.</string>
-  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">Cole a URL de uma partida&lt;br&gt;(como lichess.org/7fHIU0XI)&lt;br&gt;para carregar os lances no capítulo.</string>
+  <string name="loadExistingLichessGameText">Cole a URL de um jogo&lt;br&gt;(como pawn7.com/7fHIU0XI)&lt;br&gt;para inserir as jogadas no capítulo.</string>
+  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">Cole a URL de uma partida&lt;br&gt;(como pawn7.com/7fHIU0XI)&lt;br&gt;para carregar os lances no capítulo.</string>
   <string name="fromFenStringTitle">De uma sequência FEN</string>
   <string name="fromFenStringText">Cole uma posição FEN&lt;br&gt;&lt;i&gt;4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w&lt;/i&gt;&lt;br&gt;para iniciar o capítulo a partir dela.</string>
   <string name="fromPgnGameTitle">A partir de um jogo PGN</string>

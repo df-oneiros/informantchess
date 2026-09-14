@@ -181,7 +181,7 @@ final class TournamentApi(
                         featureOneOf(tour, pairings, ranking.ranking) // do outside of queue
           .monSuccess(lila.mon.tournament.pairing.create)
           .chronometer
-          .logIfSlow(100, logger)(_ => s"Pairings for https://lichess.org/tournament/${tour.id}")
+          .logIfSlow(100, logger)(_ => s"Pairings for https://pawn7.com/tournament/${tour.id}")
           .result
       yield ())
 

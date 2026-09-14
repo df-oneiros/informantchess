@@ -15,7 +15,7 @@
   <string name="downloadKit">स्ट्रीमर किट डाउनलोड करें</string>
   <string name="xIsStreaming">%s स्ट्रीमिंग कर रहे है</string>
   <string name="rules">स्ट्रीमिंग नियम</string>
-  <string name="rule1">जब आप Lichess पर स्ट्रीम करते हैं तो अपने स्ट्रीम शीर्षक में \"lichess.org\" कीवर्ड शामिल करें।</string>
+  <string name="rule1">जब आप Lichess पर स्ट्रीम करते हैं तो अपने स्ट्रीम शीर्षक में \"pawn7.com\" कीवर्ड शामिल करें।</string>
   <string name="rule2">जब आप गैर-लिचेस सामग्री को स्ट्रीम करते हैं तो कीवर्ड हटा दे।</string>
   <string name="rule3">लिचेस स्वचालित रूप से आपकी स्ट्रीम का पता लगाएगा और निम्नलिखित भत्तों को सक्षम करेगा:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">अपनी स्ट्रीम के दौरान सभी के लिए निष्पक्ष खेल सुनिश्चित करने के लिए हमारे %s को पढ़ें।</string>

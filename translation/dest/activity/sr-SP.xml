@@ -3,9 +3,9 @@
   <string name="activity">Активност</string>
   <string name="hostedALiveStream">Одржао/ла пренос уживо</string>
   <plurals name="supportedNbMonths">
-    <item quantity="one">Подржаo/ла lichess.org на %1$s месец као %2$s</item>
-    <item quantity="few">Подржаo/ла lichess.org на %1$s месеца као %2$s</item>
-    <item quantity="other">Подржаo/ла lichess.org на %1$s месеци као %2$s</item>
+    <item quantity="one">Подржаo/ла pawn7.com на %1$s месец као %2$s</item>
+    <item quantity="few">Подржаo/ла pawn7.com на %1$s месеца као %2$s</item>
+    <item quantity="other">Подржаo/ла pawn7.com на %1$s месеци као %2$s</item>
   </plurals>
   <plurals name="practicedNbPositions">
     <item quantity="one">Вежбаo/ла %1$s позицију на %2$s</item>
@@ -83,7 +83,7 @@
     <item quantity="other">Такмичио/ла се у %s Швајцарских турнира</item>
   </plurals>
   <string name="rankedInSwissTournament">Рангиран/а #%1$s у %2$s</string>
-  <string name="signedUp">Пријавио/ла се за lichess.org</string>
+  <string name="signedUp">Пријавио/ла се за pawn7.com</string>
   <plurals name="joinedNbTeams">
     <item quantity="one">Придружио/ла се %s тиму</item>
     <item quantity="few">Придружио/ла се %s тима</item>

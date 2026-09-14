@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="lichobileNewAppAvailable">新しい Lichess モバイルアプリができました！</string>
-  <string name="lichobileNewAppDownload" comment="The parameter links to https://lichess.org/app">新しい Lichess 公式アプリを %s からダウンロードしよう。</string>
+  <string name="lichobileNewAppDownload" comment="The parameter links to https://pawn7.com/app">新しい Lichess 公式アプリを %s からダウンロードしよう。</string>
   <string name="modActionFeedback">こんにちは、
 
 先日のあなたの通報内容を検討して対応しました。対応の内容は明かせませんが通報に感謝します。

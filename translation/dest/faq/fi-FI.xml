@@ -139,30 +139,30 @@ Katso %3$ssta tämä siirto ja harjoittele sen käyttöä.</string>
   <string name="viewSiteInformationPopUp">Näytä sivuston informaatio-ponnahdusikkuna</string>
   <string name="lichessCanOptionnalySendPopUps">Lichess voi halutessasi lähettää ilmoituksia ponnahdusikkunoilla, esimerkiksi kun on sinun siirtovuorosi tai kun olet saanut henkilökohtaisen viestin.
 
- Napsauta selaimesi osoitepalkissa lichess.org-osoitteen vieressä olevaa lukkokuvaketta.
+ Napsauta selaimesi osoitepalkissa pawn7.com-osoitteen vieressä olevaa lukkokuvaketta.
 
  Valitse sitten, haluatko ottaa käyttöön vai poistaa käytöstä Lichessin ilmoitukset.</string>
   <string name="enableAutoplayForSoundsQ">Ottaa käyttöön äänten automaattisen toiston?</string>
   <string name="enableAutoplayForSoundsA">Useimmissa selaimissa on mahdollista estää äänten toisto juuri ladatulla sivulla, jotta käyttäjä ei häiriinny. Kuvittele, miltä tuntuu, jos jokainen nettisivu alkaa välittömästi pommittaa mainosten äänillä.
 
-Kun selaimesi estää lichess.org-sivun äänten toiston, näytetään punainen mykistyskuvake. Tavallisesti rajoitus poistuu, kun klikkaat jotain. Joissakin mobiiliselaimissa nappulan siirtoa vetämällä ei lasketa klikkaukseksi. Tässä tapauksessa voit pelin alkaessa napauttaa lautaa salliaksesi äänet.
+Kun selaimesi estää pawn7.com-sivun äänten toiston, näytetään punainen mykistyskuvake. Tavallisesti rajoitus poistuu, kun klikkaat jotain. Joissakin mobiiliselaimissa nappulan siirtoa vetämällä ei lasketa klikkaukseksi. Tässä tapauksessa voit pelin alkaessa napauttaa lautaa salliaksesi äänet.
 
-Tällöin sinulle ilmoitetaan asiasta näyttämällä punainen kuvake. Usein voit nimenomaisesti sallia sen, että lichess.org toistaa äänet. Ohessa ovat ohjeet äänten sallimiseksi joidenkin suosituimpien selainten viimeaikaisia versioita varten.</string>
+Tällöin sinulle ilmoitetaan asiasta näyttämällä punainen kuvake. Usein voit nimenomaisesti sallia sen, että pawn7.com toistaa äänet. Ohessa ovat ohjeet äänten sallimiseksi joidenkin suosituimpien selainten viimeaikaisia versioita varten.</string>
   <string name="mostBrowsersPreventSoundAutoplay" comment="Replaces old string enableAutoplayForSoundsA">Useimmat selaimet estävät äänentoiston juuri ladatulla sivulla suojellakseen käyttäjiä.
 
-Kun selaimesi estää lichess.org-sivun äänentoiston, näet mykistyskuvakkeen. Yleensä rajoitus poistuu, kun klikkaat jotain. Joissakin mobiiliselaimissa nappulan siirtoa vetämällä ei lasketa klikkaukseksi. Tässä tapauksessa voit pelin alkaessa napauttaa lautaa salliaksesi äänet.
+Kun selaimesi estää pawn7.com-sivun äänentoiston, näet mykistyskuvakkeen. Yleensä rajoitus poistuu, kun klikkaat jotain. Joissakin mobiiliselaimissa nappulan siirtoa vetämällä ei lasketa klikkaukseksi. Tässä tapauksessa voit pelin alkaessa napauttaa lautaa salliaksesi äänet.
 
-Jos näin tapahtuu, huomautamme sinulle siitä näyttämällä punaisen mykistyskuvakkeen. Usein voit nimenomaisesti sallia sen, että lichess.org toistaa äänet. Ohessa ovat eräiden suosituimpien selainten viimeaikaisin versioihin pohjautuvat ohjeet siihen, miten sallit sivuston toistaa ääntä:</string>
+Jos näin tapahtuu, huomautamme sinulle siitä näyttämällä punaisen mykistyskuvakkeen. Usein voit nimenomaisesti sallia sen, että pawn7.com toistaa äänet. Ohessa ovat eräiden suosituimpien selainten viimeaikaisin versioihin pohjautuvat ohjeet siihen, miten sallit sivuston toistaa ääntä:</string>
   <string name="desktop">tietokone</string>
-  <string name="enableAutoplayForSoundsFirefox">1. Mene osoitteeseen lichess.org
+  <string name="enableAutoplayForSoundsFirefox">1. Mene osoitteeseen pawn7.com
 2. Paina Ctrl-i Linuxissa/Windowsissa tai cmd-i MacOS:ssa
 3. Klikkaa käyttöoikeusvälilehteä
-4. Salli ääni ja video lichess.org:issa</string>
-  <string name="enableAutoplayForSoundsChrome">1. Mene osoitteeseen lichess.org
+4. Salli ääni ja video pawn7.com:issa</string>
+  <string name="enableAutoplayForSoundsChrome">1. Mene osoitteeseen pawn7.com
 2. Klikkaa lukituskuvaketta osoitepalkissa
 3. Valitse Sivuston asetukset
 4. Salli ääni</string>
-  <string name="enableAutoplayForSoundsChromeSiteInformation" comment="Guidance for Google Chrome users on how to enable audio auto-play if they have sound issues. Replaces old string enableAutoplayForSoundsChrome">1. Mene osoitteeseen lichess.org
+  <string name="enableAutoplayForSoundsChromeSiteInformation" comment="Guidance for Google Chrome users on how to enable audio auto-play if they have sound issues. Replaces old string enableAutoplayForSoundsChrome">1. Mene osoitteeseen pawn7.com
 2. Klikkaa sivustotietokuvaketta osoitepalkissa
 3. Valitse Sivuston asetukset
 4. Salli ääni</string>
@@ -170,7 +170,7 @@ Jos näin tapahtuu, huomautamme sinulle siitä näyttämällä punaisen mykistys
 2. Valitse Asetukset
 3. Valitse Evästeet ja sivuston käyttöoikeudet
 4. Vieritä alas ja valitse Median automaattinen toisto
-4. Lisää lichess.org listalle \"Salli\"</string>
+4. Lisää pawn7.com listalle \"Salli\"</string>
   <string name="stopMyselfFromPlaying">Estää itseäni pelaamasta?</string>
   <string name="mentalHealthCondition">erilliseksi mielenterveyshäiriöksi</string>
   <string name="lichessUserstyles">Lichessin käyttäjäkohtaiset tyylit</string>

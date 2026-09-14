@@ -54,16 +54,16 @@
 	<string name="malwareNoSell">Non abbiamo venduto i tuoi dati personali</string>
 	<string name="malwareNoAbuse">Non abbiamo usato il tuo dispositivo contro di te</string>
 	<string name="malwareWarningPrefix" comment="%s is 'be careful'">Ma altri siti lo fanno, quindi %s.</string>
-	<string name="malwareWarningCta" comment="It is a link to https://lichess.org/ads">fa\' attenzione</string>
+	<string name="malwareWarningCta" comment="It is a link to https://pawn7.com/ads">fa\' attenzione</string>
 	<string name="lichessGamesPlayedIn" comment="%1$s is the number of games, %2$s is the year">%1$s partite giocate su Lichess nel %2$s</string>
 	<string name="lichessGamesOfThemYours" comment="%s is the percentage of games that are yours">Il %s di partite erano tue.</string>
 	<string name="thanksTitle">Grazie per aver giocato su Lichess!</string>
 	<string name="thanksHaveAGreat" comment="%s is the next year">Siamo contenti che tu sia qui. Ti auguriamo un buon %s!</string>
 	<string name="patronCostsThisYear" comment="%1$s is 'costs'. %2$s is the cost with currency symbol e.g. '$750,000'">I %1$s di Lichess quest\'anno sono stati di %2$s.</string>
-	<string name="patronCosts" comment="It is a link to lichess.org/costs">costi</string>
+	<string name="patronCosts" comment="It is a link to pawn7.com/costs">costi</string>
 	<string name="patronCharity">Siamo un ente di beneficenza, in esecuzione solamente su donazioni.</string>
 	<string name="patronConsiderDonating" comment="%s is 'supporting us with a donation'">Se ti abbiamo intrattenuto quest\'anno, o credi nel nostro lavoro, per favore %s!</string>
-	<string name="patronMakeDonation" comment="It is a link to https://lichess.org/patron">aiutaci con una donazione</string>
+	<string name="patronMakeDonation" comment="It is a link to https://pawn7.com/patron">aiutaci con una donazione</string>
 	<string name="shareableTitle" comment="%s is the current year">Il riassunto del mio %s</string>
 	<string name="shareableSpentPlaying" comment="subtitle to the translated time they have spent playing">passate a giocare</string>
 	<string name="shareableMostPlayedOpponent">avversario sfidato più volte</string>

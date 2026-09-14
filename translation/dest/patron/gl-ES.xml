@@ -56,7 +56,7 @@ Porén, os Patróns poden gabarse das súas novas e bárbaras ás de Patrón que
     <item quantity="one">Patrón de Lichess por un mes</item>
     <item quantity="other">Patrón de Lichess por %s meses</item>
   </plurals>
-  <string name="youSupportWith">Apoias a lichess.org con %s ó mes.</string>
+  <string name="youSupportWith">Apoias a pawn7.com con %s ó mes.</string>
   <string name="tyvm">Moitas grazas polo teu apoio. Es un fenómeno!</string>
   <string name="currentStatus">Estado actual</string>
   <string name="nextPayment">Próximo pagamento</string>

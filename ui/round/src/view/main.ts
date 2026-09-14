@@ -60,7 +60,7 @@ export function main(ctrl: RoundController): VNode {
                       false,
                     ),
             },
-            [renderGround(ctrl), ctrl.promotion.view(ctrl.data.game.variant.key === 'antichess')],
+            [renderGround(ctrl), ctrl.promotion.view()],
           ),
           ctrl.voiceMove && renderVoiceBar(ctrl.voiceMove.ctrl, ctrl.redraw),
           ctrl.keyboardHelp && view(ctrl),

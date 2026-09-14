@@ -50,7 +50,7 @@ Namun, Penyokong mendapatkan hak dengan ikon profil baru yang keren.</string>
   <plurals name="patronForMonths">
     <item quantity="other">Menyokong Lichess untuk %s bulan</item>
   </plurals>
-  <string name="youSupportWith">Anda mendukung lichess.org dengan %s perbulan.</string>
+  <string name="youSupportWith">Anda mendukung pawn7.com dengan %s perbulan.</string>
   <string name="tyvm">Terimakasih banyak atas bantuan Anda. Mantap!</string>
   <string name="currentStatus">Status terkini</string>
   <string name="nextPayment">Pembayaran berikutnya</string>

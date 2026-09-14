@@ -145,7 +145,7 @@
   <string name="interestingMove">Zanimiva poteza</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Dvomljiva poteza</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Edina poteza</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Nujnica</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Nujnica</string>
   <string name="equalPosition">Enaka pozicija</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Nejasna pozicija</string>
   <string name="whiteIsSlightlyBetter">Beli je nekoliko boljši</string>
@@ -189,7 +189,7 @@
   <string name="annotatePositionTitle">Označite položaj</string>
   <string name="annotatePositionText">Kliknite !? gumb ali desni klik na seznam za premikanje na desni.&lt;br&gt;Glifi pripisov so v skupni rabi in shranjeni.</string>
   <string name="conclusionTitle">Hvala za vaš čas</string>
-  <string name="conclusionText">Najdete lahko svoje &lt;a href=\'/study/mine/hot\'&gt;prejšnje študije&lt;/a&gt; na strani vašega profila.&lt;br&gt;Obstaja tudi &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;objava v spletnem dnevniku o študiju&lt;/a&gt;.&lt;br&gt;Izkušeni uporabniki bodo morda želeli pritisniti \"?\" za ogled bližnjic na tipkovnici.&lt;br&gt;Zabavajte se!</string>
+  <string name="conclusionText">Najdete lahko svoje &lt;a href=\'/study/mine/hot\'&gt;prejšnje študije&lt;/a&gt; na strani vašega profila.&lt;br&gt;Obstaja tudi &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;objava v spletnem dnevniku o študiju&lt;/a&gt;.&lt;br&gt;Izkušeni uporabniki bodo morda želeli pritisniti \"?\" za ogled bližnjic na tipkovnici.&lt;br&gt;Zabavajte se!</string>
   <string name="createChapterTitle">Ustvarimo študijsko poglavje</string>
   <string name="createChapterText">Študija ima lahko več poglavij.&lt;br&gt;Vsako poglavje ima ločeno drevo premikov&lt;br&gt;in ga je mogoče ustvariti na različne načine.</string>
   <string name="fromInitialPositionTitle">Iz začetnega položaja</string>
@@ -198,8 +198,8 @@
   <string name="customPositionText">Nastavite desko po svoje.&lt;br&gt;Primerno za raziskovanje končnic.</string>
   <string name="loadExistingLichessGameTitle">Naloži obstoječo lichess igro</string>
   <string name="loadGameFromTheWebTitle" comment="Replaces old string loadExistingLichessGameTitle">Naložite igro s spleta</string>
-  <string name="loadExistingLichessGameText">Prilepite URL igre lichess&lt;br&gt;(na primer lichess.org/7fHIU0XI)&lt;br&gt;da naložite poteze igre v poglavju.</string>
-  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">Prilepite URL igre &lt;br&amp;gt (kot je lichess.org/7fHIU0XI)&lt;br&amp;gt, da naložite poteze igre v poglavju.</string>
+  <string name="loadExistingLichessGameText">Prilepite URL igre lichess&lt;br&gt;(na primer pawn7.com/7fHIU0XI)&lt;br&gt;da naložite poteze igre v poglavju.</string>
+  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">Prilepite URL igre &lt;br&amp;gt (kot je pawn7.com/7fHIU0XI)&lt;br&amp;gt, da naložite poteze igre v poglavju.</string>
   <string name="fromFenStringTitle">Iz niza FEN</string>
   <string name="fromFenStringText">Prilepite položaj v obliki zapisa FEN&lt;br&gt;&lt;i&gt;4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w&lt;/i&gt;&lt;br&gt; da začnete poglavje s položaja.</string>
   <string name="fromPgnGameTitle">Iz PGN igre</string>

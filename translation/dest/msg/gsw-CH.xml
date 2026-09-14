@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="lichobileNewAppAvailable">Hesch gwüsst, Es git e neui Lichess mobile App!</string>
-  <string name="lichobileNewAppDownload" comment="The parameter links to https://lichess.org/app">Bitte lad dr d\'neui Lichess app da abbe: %s.</string>
+  <string name="lichobileNewAppDownload" comment="The parameter links to https://pawn7.com/app">Bitte lad dr d\'neui Lichess app da abbe: %s.</string>
   <string name="modActionFeedback">Hoi,
 
 Mir hend dini Meldig agluegt, und öppis unternoh. Leidr chönd mir chei Details teilä, abr mir sind würkli dankbar.

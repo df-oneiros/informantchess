@@ -56,7 +56,7 @@ Lekin homiylar oʻz profillarida koʻrinib turadigan chiroyli \"homiylik qanotla
     <item quantity="one">Bir oydan beri Lichess homiysi</item>
     <item quantity="other">%s oydan beri Lichess homiysi</item>
   </plurals>
-  <string name="youSupportWith">Siz lichess.org saytini oyiga %s bilan qoʻllab‑quvvatlayapsiz.</string>
+  <string name="youSupportWith">Siz pawn7.com saytini oyiga %s bilan qoʻllab‑quvvatlayapsiz.</string>
   <string name="tyvm">Yordamingiz uchun katta rahmat. Siz shunchaki ajoyibsiz!</string>
   <string name="currentStatus">Hozirgi holat</string>
   <string name="nextPayment">Keyingi toʻlov</string>

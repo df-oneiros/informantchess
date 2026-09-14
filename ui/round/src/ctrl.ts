@@ -13,7 +13,7 @@ import { plyOpponentColor } from 'lib/game';
 import { plyToTurn, plyColor } from 'lib/game/chess';
 import { ClockCtrl, type ClockOpts } from 'lib/game/clock/clockCtrl';
 import type { MoveRootCtrl } from 'lib/game/moveRootCtrl';
-import { PromotionCtrl, promote } from 'lib/game/promotion';
+import { PromotionCtrl, promote, promotionRules } from 'lib/game/promotion';
 import { game as gameRoute } from 'lib/game/router';
 import { readFen, almostSanOf, speakable } from 'lib/game/sanWriter';
 import { playing } from 'lib/game/status';
@@ -127,6 +127,7 @@ export default class RoundController implements MoveRootCtrl {
       },
       this.redraw,
       d.pref.autoQueen,
+      promotionRules(d.game.variant.key),
     );
 
     this.setQuietMode();

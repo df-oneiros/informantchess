@@ -15,7 +15,7 @@
   <string name="downloadKit">Preuzmite paket alata za emitere</string>
   <string name="xIsStreaming">%s emituje</string>
   <string name="rules">Pravila emitovanja</string>
-  <string name="rule1">Uključite ključnu riječ \"lichess.org\" u naslov i koristite kategoriju \"Chess\", što znači šah, kada emitujete na Lichess-u.</string>
+  <string name="rule1">Uključite ključnu riječ \"pawn7.com\" u naslov i koristite kategoriju \"Chess\", što znači šah, kada emitujete na Lichess-u.</string>
   <string name="rule2">Uklonite ključnu riječ kada emitujete sadržaj koji nije vezan za Lichess.</string>
   <string name="rule3">Lichess će automatski otkriti Vaše emitovanje i omogućiti sljedeće prednosti:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">Pročitajte naša %s kako biste osigurali korektnu igru za svakoga tokom Vašeg emitovanja uživo.</string>

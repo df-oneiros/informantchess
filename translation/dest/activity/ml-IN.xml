@@ -3,8 +3,8 @@
   <string name="activity">പ്രവര്‍ത്തനം</string>
   <string name="hostedALiveStream">ലൈവ് സംപ്രക്ഷണം ആരംഭിച്ചിരിക്കുന്നു</string>
   <plurals name="supportedNbMonths">
-    <item quantity="one">lichess.orgനെ %1$s മാസം %2$s ആയി പിന്തുണച്ചു</item>
-    <item quantity="other">lichess.orgനെ %1$s മാസം %2$s ആയി പിന്തുണച്ചു</item>
+    <item quantity="one">pawn7.comനെ %1$s മാസം %2$s ആയി പിന്തുണച്ചു</item>
+    <item quantity="other">pawn7.comനെ %1$s മാസം %2$s ആയി പിന്തുണച്ചു</item>
   </plurals>
   <plurals name="practicedNbPositions">
     <item quantity="one">%1$s position %2$s -ൽ അഭ്യസിച്ചു</item>

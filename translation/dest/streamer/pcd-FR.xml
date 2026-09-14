@@ -15,7 +15,7 @@
   <string name="downloadKit">Téléchargez le kit streamer</string>
   <string name="xIsStreaming">%s est en train de streamer</string>
   <string name="rules">Règles de streaming</string>
-  <string name="rule1">Incluez \"lichess.org\" dans votre titre de streaming lorsque vous streamez sur Lichess.</string>
+  <string name="rule1">Incluez \"pawn7.com\" dans votre titre de streaming lorsque vous streamez sur Lichess.</string>
   <string name="rule2">Retirez le mot-clé lorsque vous ne streamez pas à propos de Lichess.</string>
   <string name="rule3">Lichess détectera automatiquement votre stream et activera les avantages suivants :</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">Lisez la %s pour assurer l\'esprit sportif pour tous pendant la diffusion.</string>

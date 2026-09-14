@@ -43,7 +43,7 @@
     <item quantity="other">%s турниралда къец бана</item>
   </plurals>
   <string name="rankedInSwissTournament">%2$s-алда %1$s-абилев ккана</string>
-  <string name="signedUp">lichess.org-алда хӀисабалде восана</string>
+  <string name="signedUp">pawn7.com-алда хӀисабалде восана</string>
   <plurals name="joinedNbTeams">
     <item quantity="one">%s къокъаялде жувана</item>
     <item quantity="other">%s къокъоялде жувана</item>

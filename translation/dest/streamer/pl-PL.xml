@@ -15,7 +15,7 @@
   <string name="downloadKit">Pobierz zestaw streamera</string>
   <string name="xIsStreaming">%s streamuje</string>
   <string name="rules">Zasady streamowania</string>
-  <string name="rule1">Dołącz słowo kluczowe \"lichess.org\" w tytule emisji podczas strumieniowania Lichess.</string>
+  <string name="rule1">Dołącz słowo kluczowe \"pawn7.com\" w tytule emisji podczas strumieniowania Lichess.</string>
   <string name="rule2">Usuń słowo kluczowe, gdy strumieniujesz coś spoza Lichess.</string>
   <string name="rule3">Lichess automatycznie wykryje Twoją emisję i aktywuje poniższe korzyści:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">Przeczytaj %s, aby zapewnić wszystkim uczciwą grę.</string>

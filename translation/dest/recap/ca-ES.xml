@@ -54,16 +54,16 @@
 	<string name="malwareNoSell">Nosaltres no venem les teves dades personals</string>
 	<string name="malwareNoAbuse">No utilitzem el teu dispositiu en contra teu</string>
 	<string name="malwareWarningPrefix" comment="%s is 'be careful'">Però hi ha altres llocs que si que ho fan. Així que, siusplau %s.</string>
-	<string name="malwareWarningCta" comment="It is a link to https://lichess.org/ads">sigues curós</string>
+	<string name="malwareWarningCta" comment="It is a link to https://pawn7.com/ads">sigues curós</string>
 	<string name="lichessGamesPlayedIn" comment="%1$s is the number of games, %2$s is the year">%1$s partides jugades al Lliches al %2$s</string>
 	<string name="lichessGamesOfThemYours" comment="%s is the percentage of games that are yours">%s d\'elles han estat teves.</string>
 	<string name="thanksTitle">Gràcies per jugar a Lichess!</string>
 	<string name="thanksHaveAGreat" comment="%s is the next year">Un plaer que hagis estat aquí. Que tinguis un feliç %s!</string>
 	<string name="patronCostsThisYear" comment="%1$s is 'costs'. %2$s is the cost with currency symbol e.g. '$750,000'">Els %1$s del Lichess d\'aquest any han estat de %2$s.</string>
-	<string name="patronCosts" comment="It is a link to lichess.org/costs">costos</string>
+	<string name="patronCosts" comment="It is a link to pawn7.com/costs">costos</string>
 	<string name="patronCharity">Som una caritat, funcionem totalment amb donacions.</string>
 	<string name="patronConsiderDonating" comment="%s is 'supporting us with a donation'">Si t\'hem ajudat a entretenir-te aquest any o creus en el nostre treball, si us plau considera %s!</string>
-	<string name="patronMakeDonation" comment="It is a link to https://lichess.org/patron">ajuda\'ns amb una donació</string>
+	<string name="patronMakeDonation" comment="It is a link to https://pawn7.com/patron">ajuda\'ns amb una donació</string>
 	<string name="shareableTitle" comment="%s is the current year">El meu recap del %s</string>
 	<string name="shareableSpentPlaying" comment="subtitle to the translated time they have spent playing">dedicat a jugar</string>
 	<string name="shareableMostPlayedOpponent">oponent més jugat</string>

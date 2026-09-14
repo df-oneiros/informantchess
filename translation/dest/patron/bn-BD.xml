@@ -30,7 +30,7 @@
     <item quantity="one">1 মাসের জন্য একজন লিচেস অভিভাবক৷</item>
     <item quantity="other">%s মাসের জন্য একজন লিচেস অভিভাবক৷</item>
   </plurals>
-  <string name="youSupportWith">আপনি lichess.org কে প্রতিমাসে %s দিয়ে সহায়তা করছেন।</string>
+  <string name="youSupportWith">আপনি pawn7.com কে প্রতিমাসে %s দিয়ে সহায়তা করছেন।</string>
   <string name="tyvm">আপনার সাহায্যের জন্য আপনাকে অনেক ধন্যবাদ। আপনি অসাধারণ!</string>
   <string name="nextPayment">পরবর্তী পেমেন্ট</string>
   <string name="date">তারিখ</string>

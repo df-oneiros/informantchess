@@ -287,7 +287,7 @@
   <string name="emailCanTakeSomeTime">Poate dura ceva timp să ajungă.</string>
   <string name="refreshInboxAfterFiveMinutes">Așteptați 5 minute și reîncărcați emailurile primite.</string>
   <string name="checkSpamFolder">De asemenea, verificați folderul de spam, ar putea ajunge acolo. În acel caz, marcați-l ca nefiind spam.</string>
-  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Dacă nu primiți un e-mail de confirmare, verificați folderul Spam sau Junk. Asigurați-vă că marcați mesajele de la lichess.org ca sigure și \"nu spam\", pentru a rămâne informat cu privire la comunicări importante.</string>
+  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Dacă nu primiți un e-mail de confirmare, verificați folderul Spam sau Junk. Asigurați-vă că marcați mesajele de la pawn7.com ca sigure și \"nu spam\", pentru a rămâne informat cu privire la comunicări importante.</string>
   <string name="sendEmailForAccountVerification">Dacă nu găsești e-mailul de confirmare, trimite un e-mail la %s și îți vom confirma contul.</string>
   <string name="accountConfirmed">Utilizatorul %s a fost confirmat cu succes.</string>
   <string name="accountCanLogin">Vă puteți autentifica chiar acum ca %s.</string>
@@ -638,7 +638,7 @@ Jucarea de jocuri oficiale va crește stabilitatea.</string>
   <string name="reportCheatBoostHelp">Adaugă link-ul de la joc(uri) și arată ce este greșit cu privire la comportamentul acestui utilizator. Nu preciza doar \"trișează\", ci spune-ne cum ai ajuns la această concluzie.</string>
   <string name="reportUsernameHelp">Explică de ce acest nume de utilizator este jignitor. Nu spune doar \"jignește/e inadecvat\", ci spune-ne cum ai ajuns la această concluzie, mai ales în cazul în care insulta este obscură, nu este în engleză, este jargon sau este o referință istorică/culturală.</string>
   <string name="reportProcessedFasterInEnglish">Raportul tău va fi procesat mai rapid dacă este scris în engleză.</string>
-  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://lichess.org/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Îți putem procesa raportul mai rapid dacă scrii în engleză.</string>
+  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://pawn7.com/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Îți putem procesa raportul mai rapid dacă scrii în engleză.</string>
   <string name="error.provideOneCheatedGameLink">Te rugăm să furnizezi cel puțin un link către un joc în care s-a trișat.</string>
   <string name="by">de %s</string>
   <string name="importedByX">Importat de %s</string>
@@ -766,12 +766,12 @@ Jucarea de jocuri oficiale va crește stabilitatea.</string>
   <string name="aboutSimulSettings">Simultanele sunt tot timpul amicale. Revanșele, mutările înapoi și opțiunea \"mai mult timp\" sunt dezactivate.</string>
   <string name="create">Creează</string>
   <string name="whenCreateSimul">Când creezi un simultan, vei juca cu mai mulți jucători în același timp.</string>
-  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://lichess.org/simul/new Replaces old string whenCreateSimul">Crearea unui simul vă permite să jucați împotriva mai multor adversari în același timp.</string>
+  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://pawn7.com/simul/new Replaces old string whenCreateSimul">Crearea unui simul vă permite să jucați împotriva mai multor adversari în același timp.</string>
   <string name="simulVariantsHint">Dacă alegi mai multe variante, fiecare jucător va avea de ales ce variantă va juca.</string>
   <string name="simulClockHint">Cu cât joci împotriva mai multor jucători, cu atât mai mult vei avea nevoie de timp.</string>
   <string name="simulAddExtraTime">Poți adăuga timp în plus pe ceasul tău pentru a te ajuta să faci față simultanului.</string>
   <string name="simulHostExtraTime">Timp suplimentar pe ceasul gazdei</string>
-  <string name="extraClockTimeForHost" comment="Appears on: https://lichess.org/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Timp suplimentar pentru gazdă:</string>
+  <string name="extraClockTimeForHost" comment="Appears on: https://pawn7.com/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Timp suplimentar pentru gazdă:</string>
   <string name="simulAddExtraTimePerPlayer">Adaugă timp inițial la ceasul tău pentru fiecare jucător care se alătură jocului simultan.</string>
   <string name="simulHostExtraTimePerPlayer">Timp suplimentar pentru ceasul gazdei, pentru fiecare jucător</string>
   <string name="lichessTournaments">Turnee Lichess</string>
@@ -972,7 +972,7 @@ Jucarea de jocuri oficiale va crește stabilitatea.</string>
   </plurals>
   <string name="showUnreadLichessMessage">Ați primit un mesaj privat de la Lichess.</string>
   <string name="clickHereToReadIt">Click aici pentru a-l citi</string>
-  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://lichess.org/@/Lichess Replaces old string clickHereToReadIt">Citește mesajul</string>
+  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://pawn7.com/@/Lichess Replaces old string clickHereToReadIt">Citește mesajul</string>
   <string name="sorry">Scuze :(</string>
   <string name="weHadToTimeYouOutForAWhile">Am fost nevoiți să suspendăm activitatea pentru puțin timp.</string>
   <string name="why">De ce?</string>

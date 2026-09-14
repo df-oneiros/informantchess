@@ -61,16 +61,16 @@
 	<string name="malwareNoSell">Nismo prodali vaše lične podatke</string>
 	<string name="malwareNoAbuse">Nismo koristili vaš uređaj protiv vas</string>
 	<string name="malwareWarningPrefix" comment="%s is 'be careful'">Ali druge web stranice to rade, zato vas molimo %s.</string>
-	<string name="malwareWarningCta" comment="It is a link to https://lichess.org/ads">budi oprezan</string>
+	<string name="malwareWarningCta" comment="It is a link to https://pawn7.com/ads">budi oprezan</string>
 	<string name="lichessGamesPlayedIn" comment="%1$s is the number of games, %2$s is the year">%1$s odigranih utakmica na Lichessu u %2$s</string>
 	<string name="lichessGamesOfThemYours" comment="%s is the percentage of games that are yours">%s od njih su bili vaši.</string>
 	<string name="thanksTitle">Hvala vam što igrate na Lichess-u!</string>
 	<string name="thanksHaveAGreat" comment="%s is the next year">Drago nam je što ste ovdje. Želimo vam odličan %s!</string>
 	<string name="patronCostsThisYear" comment="%1$s is 'costs'. %2$s is the cost with currency symbol e.g. '$750,000'">Lichessovi %1$s ove godine su bili %2$s.</string>
-	<string name="patronCosts" comment="It is a link to lichess.org/costs">troškovi</string>
+	<string name="patronCosts" comment="It is a link to pawn7.com/costs">troškovi</string>
 	<string name="patronCharity">Mi smo dobrotvorna organizacija koja funkcioniše isključivo na donacijama.</string>
 	<string name="patronConsiderDonating" comment="%s is 'supporting us with a donation'">Ako smo vam ove godine pomogli da se zabavite ili vjerujete u naš rad, molimo vas da razmislite o %s!</string>
-	<string name="patronMakeDonation" comment="It is a link to https://lichess.org/patron">podržavate nas donacijom</string>
+	<string name="patronMakeDonation" comment="It is a link to https://pawn7.com/patron">podržavate nas donacijom</string>
 	<string name="shareableTitle" comment="%s is the current year">Moj sažetak za %s</string>
 	<string name="shareableSpentPlaying" comment="subtitle to the translated time they have spent playing">proveo igrajući</string>
 	<string name="shareableMostPlayedOpponent">najigraniji protivnik</string>

@@ -59,9 +59,9 @@
   <string name="notifyInboxMsg">Nová zpráva</string>
   <string name="notifyDirectMessage" comment="notifyInboxMsg&#10;&#10;A notification setting - notifies players when they receive a new message in their Lichess inbox Replaces old string notifyInboxMsg">Nová zpráva</string>
   <string name="notifyForumMention">Komentář ve fóru Vás zmiňuje</string>
-  <string name="notifyForumMentions" comment="notifyForumMention&#10;&#10; A notification setting - notifies players when someone has @mentioned their name in the Lichess Forum (https://lichess.org/forum) Replaces old string notifyForumMention">Zmínka ve fóru</string>
+  <string name="notifyForumMentions" comment="notifyForumMention&#10;&#10; A notification setting - notifies players when someone has @mentioned their name in the Lichess Forum (https://pawn7.com/forum) Replaces old string notifyForumMention">Zmínka ve fóru</string>
   <string name="notifyInvitedStudy">Pozvánka do studie</string>
-  <string name="notifyStudyInvites" comment="notifyInvitedStudy&#10;&#10; A notification setting - notifies players about invites to studies (https://lichess.org/study/) Replaces old string notifyInvitedStudy">Pozvánky do studie</string>
+  <string name="notifyStudyInvites" comment="notifyInvitedStudy&#10;&#10; A notification setting - notifies players about invites to studies (https://pawn7.com/study/) Replaces old string notifyInvitedStudy">Pozvánky do studie</string>
   <string name="notifyGameEvent">Aktualizace korespondenční hry</string>
   <string name="notifyChallenge">Výzvy</string>
   <string name="notifyTournamentSoon">Turnaj brzy začne</string>

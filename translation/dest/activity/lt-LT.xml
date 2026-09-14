@@ -3,10 +3,10 @@
   <string name="activity">Veikla</string>
   <string name="hostedALiveStream">Organizavo transliaciją</string>
   <plurals name="supportedNbMonths">
-    <item quantity="one">Remia lichess.org %1$s mėn. kaip „%2$s“</item>
-    <item quantity="few">Remia lichess.org %1$s mėn. kaip „%2$s“</item>
-    <item quantity="many">Remia lichess.org %1$s mėn. kaip „%2$s“</item>
-    <item quantity="other">Remia lichess.org %1$s mėn. kaip „%2$s“</item>
+    <item quantity="one">Remia pawn7.com %1$s mėn. kaip „%2$s“</item>
+    <item quantity="few">Remia pawn7.com %1$s mėn. kaip „%2$s“</item>
+    <item quantity="many">Remia pawn7.com %1$s mėn. kaip „%2$s“</item>
+    <item quantity="other">Remia pawn7.com %1$s mėn. kaip „%2$s“</item>
   </plurals>
   <plurals name="practicedNbPositions">
     <item quantity="one">Praktikavosi %1$s poziciją per „%2$s“</item>

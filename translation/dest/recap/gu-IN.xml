@@ -54,16 +54,16 @@
 	<string name="malwareNoSell">અમે તમારો વ્યક્તિગત ડેટા વેચ્યો નથી</string>
 	<string name="malwareNoAbuse">અમે તમારા ઉપકરણનો ઉપયોગ તમારી વિરુદ્ધ કર્યો નથી</string>
 	<string name="malwareWarningPrefix" comment="%s is 'be careful'">પરંતુ અન્ય વેબસાઇટ્સ કરે છે, તેથી કૃપા %s</string>
-	<string name="malwareWarningCta" comment="It is a link to https://lichess.org/ads">સાવચેત રહો</string>
+	<string name="malwareWarningCta" comment="It is a link to https://pawn7.com/ads">સાવચેત રહો</string>
 	<string name="lichessGamesPlayedIn" comment="%1$s is the number of games, %2$s is the year">%2$s માં Lichess પર %1$s રમતો રમાઈ</string>
 	<string name="lichessGamesOfThemYours" comment="%s is the percentage of games that are yours">તેમાંથી %s તમારી હતી.</string>
 	<string name="thanksTitle">Lichess પર રમવા બદલ આભાર!</string>
 	<string name="thanksHaveAGreat" comment="%s is the next year">તમે અહીં છો તે જાણીને અમને આનંદ છે. તમારું %s મહાન રહે!</string>
 	<string name="patronCostsThisYear" comment="%1$s is 'costs'. %2$s is the cost with currency symbol e.g. '$750,000'">આ વર્ષે Lichess નો %1$s %2$s હતો.</string>
-	<string name="patronCosts" comment="It is a link to lichess.org/costs">ખર્ચ</string>
+	<string name="patronCosts" comment="It is a link to pawn7.com/costs">ખર્ચ</string>
 	<string name="patronCharity">અમે એક ધર્માદા સંસ્થા છીએ, જે માત્ર દાન પર ચાલે છે.</string>
 	<string name="patronConsiderDonating" comment="%s is 'supporting us with a donation'">જો અમે તમને આ વર્ષે મનોરંજનમાં મદદ કરી હોય, અથવા તમે અમારા કાર્યમાં વિશ્વાસ કરો છો, તો કૃપા કરીને %s નો વિચાર કરો!</string>
-	<string name="patronMakeDonation" comment="It is a link to https://lichess.org/patron">દાન સાથે અમને ટેકો આપો</string>
+	<string name="patronMakeDonation" comment="It is a link to https://pawn7.com/patron">દાન સાથે અમને ટેકો આપો</string>
 	<string name="shareableTitle" comment="%s is the current year">મારો %s રીકેપ</string>
 	<string name="shareableSpentPlaying" comment="subtitle to the translated time they have spent playing">રમવામાં વીતાવ્યો</string>
 	<string name="shareableMostPlayedOpponent">સૌથી વધુ રમાયેલ પ્રતિસ્પર્ધી</string>

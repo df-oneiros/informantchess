@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="lichobileNewAppAvailable">Există o nouă aplicație mobilă Lichess disponibilă!</string>
-  <string name="lichobileNewAppDownload" comment="The parameter links to https://lichess.org/app">Vă rugăm să descărcați noua aplicație oficială Lichess la %s.</string>
+  <string name="lichobileNewAppDownload" comment="The parameter links to https://pawn7.com/app">Vă rugăm să descărcați noua aplicație oficială Lichess la %s.</string>
   <string name="modActionFeedback">Salut,
 
 Am analizat raportul tău recent și am luat măsuri. Deși nu putem împărtăși detalii cu privire la acțiunile întreprinse, apreciem raportul tău.

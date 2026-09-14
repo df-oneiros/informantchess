@@ -149,7 +149,7 @@ final private class RoundAsyncActor(
           has <- gameRepo.hasHoldAlert(pov)
           _ <- has.not.so:
             logger.info:
-              s"hold alert $ip https://lichess.org/${pov.gameId}/${pov.color.name}#${pov.game.ply} ${pov.player.userId | "anon"} mean: $mean SD: $sd"
+              s"hold alert $ip https://pawn7.com/${pov.gameId}/${pov.color.name}#${pov.game.ply} ${pov.player.userId | "anon"} mean: $mean SD: $sd"
             lila.mon.cheat.holdAlert.increment()
             gameRepo.setHoldAlert(pov, GamePlayer.HoldAlert(ply = pov.game.ply, mean = mean, sd = sd)).void
         yield Nil

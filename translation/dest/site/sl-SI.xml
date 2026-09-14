@@ -803,7 +803,7 @@ Igranje rangiranih iger bo povečalo stabilnost.</string>
   <string name="simulClockHint">Fischerjeva nastavitev ure. Več igralcev kot sprejmeš, več časa boš morda potreboval.</string>
   <string name="simulAddExtraTime">Uri lahko dodaš več časa v pomoč pri igranju simultanke.</string>
   <string name="simulHostExtraTime">Dodaten čas za gostitelja</string>
-  <string name="extraClockTimeForHost" comment="Appears on: https://lichess.org/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Dodaten čas za gostitelja:</string>
+  <string name="extraClockTimeForHost" comment="Appears on: https://pawn7.com/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Dodaten čas za gostitelja:</string>
   <string name="simulAddExtraTimePerPlayer">Dodajte začetni čas svoji uri za vsakega igralca, ki se pridruži simultanki.</string>
   <string name="simulHostExtraTimePerPlayer">Gostite dodatni čas na igralca</string>
   <string name="lichessTournaments">Lichess turnirji</string>
@@ -1001,7 +1001,7 @@ Igranje rangiranih iger bo povečalo stabilnost.</string>
   </plurals>
   <string name="showUnreadLichessMessage">Prejeli ste zasebno sporočilo od Lichess.</string>
   <string name="clickHereToReadIt">Kliknite tukaj, če ga želite prebrati</string>
-  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://lichess.org/@/Lichess Replaces old string clickHereToReadIt">Preberite sporočilo</string>
+  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://pawn7.com/@/Lichess Replaces old string clickHereToReadIt">Preberite sporočilo</string>
   <string name="sorry">Oprostite :(</string>
   <string name="weHadToTimeYouOutForAWhile">Morali smo vas za nekaj časa onemogočiti.</string>
   <string name="why">Zakaj?</string>
@@ -1013,7 +1013,7 @@ Igranje rangiranih iger bo povečalo stabilnost.</string>
   <string name="tryToWin">Poskusite zmagati (ali vsaj remizirati) vsako igro, ki jo igrate.</string>
   <string name="resignLostGames">Predajte izgubljene partije (ne čakajte, da se šahovska ura izteče).</string>
   <string name="temporaryInconvenience">Opravičujemo se vam za začasno neprijetnost,</string>
-  <string name="wishYouGreatGames">in vam želimo prijetno igranje na lichess.org.</string>
+  <string name="wishYouGreatGames">in vam želimo prijetno igranje na pawn7.com.</string>
   <string name="thankYouForReading">Hvala vam za branje!</string>
   <string name="lifetimeScore">Dosedanji rezultat</string>
   <string name="currentMatchScore">Rezultat trenutne tekme</string>

@@ -15,7 +15,7 @@
   <string name="downloadKit">Descargar kit de presentador</string>
   <string name="xIsStreaming">%s ye emitindo</string>
   <string name="rules">Reglas d\'emisión</string>
-  <string name="rule1">Incluye la parola clau \"lichess.org\" en o titol d\'a tuya emisión quan emitas en Lichess.</string>
+  <string name="rule1">Incluye la parola clau \"pawn7.com\" en o titol d\'a tuya emisión quan emitas en Lichess.</string>
   <string name="rule2">Elimina la parola clau quan transmitas cosas que no son relativas a Lichess.</string>
   <string name="rule3">Lichess detectará la tuya emisión automaticament y activará los siguients incentivos:</string>
   <string name="perks">Beneficios de emitindo con a parola clau</string>

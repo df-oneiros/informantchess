@@ -286,7 +286,7 @@
   <string name="emailCanTakeSomeTime">Može potrajati neko vrijeme dok stigne.</string>
   <string name="refreshInboxAfterFiveMinutes">Pričekajte pet minuta i osvježite pristiglu poštu.</string>
   <string name="checkSpamFolder">Također provjerite neželjenu poštu, možda je poruka završila tamo. Ako jest, označite da nije neželjena.</string>
-  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Ako ne primite email potvrde, provjerite neželjenu poštu. Obavezno označite poruke sa lichess.org kao sigurne i \"nije neželjena pošta\", kako biste mogli ostati obaviješteni o važnim porukama.</string>
+  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Ako ne primite email potvrde, provjerite neželjenu poštu. Obavezno označite poruke sa pawn7.com kao sigurne i \"nije neželjena pošta\", kako biste mogli ostati obaviješteni o važnim porukama.</string>
   <string name="sendEmailForAccountVerification">Ako ne možete pronaći konfirmacijski email, pošaljite email na %s i mi ćemo potvrditi vaš račun za vas.</string>
   <string name="accountConfirmed">Korisnik %s uspješno je potvrđen.</string>
   <string name="accountCanLogin">Možete se prijaviti odmah kao %s.</string>
@@ -637,7 +637,7 @@ računarsku analizu, mogućnost dopisivanja i link za slanje drugima.</string>
   <string name="reportCheatBoostHelp">Zalijepite link do igre(a) i objasnite šta nije u redu s ponašanjem ovog korisnika. Nemojte samo reći \"varaju\", već nam recite kako ste došli do ovog zaključka.</string>
   <string name="reportUsernameHelp">Objasnite šta je uvredljivo u vezi s ovim korisničkim imenom. Nemojte samo reći \"uvredljivo je/neprikladno\", već nam recite kako ste došli do ovog zaključka, posebno ako je uvreda nejasna, nije na engleskom, napisana je slengom ili je historijska/kulturna referenca.</string>
   <string name="reportProcessedFasterInEnglish">Vaš izvještaj će biti brže obrađen ako je napisan na engleskom jeziku.</string>
-  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://lichess.org/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Možemo procesirati vaš izvještaj brže ako ga napišete na engleskom.</string>
+  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://pawn7.com/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Možemo procesirati vaš izvještaj brže ako ga napišete na engleskom.</string>
   <string name="error.provideOneCheatedGameLink">Molimo navedite barem jedan link na partiju u kojoj je igrač varao.</string>
   <string name="by">od %s</string>
   <string name="importedByX">Uvezao %s</string>
@@ -765,12 +765,12 @@ računarsku analizu, mogućnost dopisivanja i link za slanje drugima.</string>
   <string name="aboutSimulSettings">Simultanke su uvijek prijateljske. Opcije za revanš, vraćanje poteza i dodavanje vremena su isključene.</string>
   <string name="create">Kreiraj</string>
   <string name="whenCreateSimul">Kada kreirate simultanku, igrate protiv više igrača istovremeno.</string>
-  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://lichess.org/simul/new Replaces old string whenCreateSimul">Kreiranje simultanke dozvoljava vam igranje protiv više protivnik istovremeno.</string>
+  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://pawn7.com/simul/new Replaces old string whenCreateSimul">Kreiranje simultanke dozvoljava vam igranje protiv više protivnik istovremeno.</string>
   <string name="simulVariantsHint">Ako izaberete nekoliko varijanti, svaki igrač može da odabere koju varijantu želi da igra.</string>
   <string name="simulClockHint">Fischer podešavanje sata. Što više igrača primite, više će Vam vremena trebati.</string>
   <string name="simulAddExtraTime">Možete dodati više vremena na svoj sat kako bi Vam to pomoglo tokom igranja simultanke.</string>
   <string name="simulHostExtraTime">Dodatno vrijeme domaćina</string>
-  <string name="extraClockTimeForHost" comment="Appears on: https://lichess.org/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Dodatno vrijeme za domaćina:</string>
+  <string name="extraClockTimeForHost" comment="Appears on: https://pawn7.com/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Dodatno vrijeme za domaćina:</string>
   <string name="simulAddExtraTimePerPlayer">Dodajte početno vrijeme na Vaš sat za svakog igrača koji se pridruži simultanci.</string>
   <string name="simulHostExtraTimePerPlayer">Dodatno vrijeme po igraču za domaćina simultanke</string>
   <string name="lichessTournaments">Lichess turniri</string>
@@ -971,7 +971,7 @@ računarsku analizu, mogućnost dopisivanja i link za slanje drugima.</string>
   </plurals>
   <string name="showUnreadLichessMessage">Primili ste privatnu poruku od Lichess-a.</string>
   <string name="clickHereToReadIt">Kliknite ovdje da pročitate</string>
-  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://lichess.org/@/Lichess Replaces old string clickHereToReadIt">Pročitaj poruku</string>
+  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://pawn7.com/@/Lichess Replaces old string clickHereToReadIt">Pročitaj poruku</string>
   <string name="sorry">Izvinjavamo se :(</string>
   <string name="weHadToTimeYouOutForAWhile">Morali smo Vam staviti privremenu zabranu na igranje.</string>
   <string name="why">Zašto?</string>
@@ -983,7 +983,7 @@ računarsku analizu, mogućnost dopisivanja i link za slanje drugima.</string>
   <string name="tryToWin">Pokušajte pobijediti (ili barem izboriti neriješen rezultat) svaku partiju ​​koju igrate.</string>
   <string name="resignLostGames">Predajte izgubljenu partiju (ne čekajte da vrijeme istekne).</string>
   <string name="temporaryInconvenience">Izvinjavamo se zbog privremene neugodnosti,</string>
-  <string name="wishYouGreatGames">i želimo Vam odlične partije na lichess.org.</string>
+  <string name="wishYouGreatGames">i želimo Vam odlične partije na pawn7.com.</string>
   <string name="thankYouForReading">Hvala Vam na čitanju!</string>
   <string name="lifetimeScore">Ukupni rezultat</string>
   <string name="currentMatchScore">Rezultat sadašnjeg meča</string>

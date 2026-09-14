@@ -13,7 +13,7 @@
   <string name="editPage">I-edit ang streamer page</string>
   <string name="yourPage">Ang iyong streamer page</string>
   <string name="rules">Mga batas sa pag-iistream</string>
-  <string name="rule1">Isama ang keyword na \"lichess.org\" sa titulo ng iyong stream at gamitin ang kategoryang \"Chess\" habang ikaw ay nag-iistream sa Lichess.</string>
+  <string name="rule1">Isama ang keyword na \"pawn7.com\" sa titulo ng iyong stream at gamitin ang kategoryang \"Chess\" habang ikaw ay nag-iistream sa Lichess.</string>
   <string name="rule3">Made-detect ni Lichess ang iyong stream nang kusa at i-enable ang nakalistang mga perk:</string>
   <string name="perk3">I-notify ang iyong mga follower sa Lichess.</string>
   <string name="approved">Inaprubahan ang iyong stream.</string>

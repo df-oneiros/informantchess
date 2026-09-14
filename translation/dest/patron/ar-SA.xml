@@ -65,7 +65,7 @@
     <item quantity="many">راعي لموقع ليشيس لمدة %s شهرًا</item>
     <item quantity="other">داعم ل Lichess ل%s من الشهور</item>
   </plurals>
-  <string name="youSupportWith">انت تدعم lichess.org ب%s شهرياً.</string>
+  <string name="youSupportWith">انت تدعم pawn7.com ب%s شهرياً.</string>
   <string name="tyvm">شكرا جزيلاً على مساعدتك. أنت رائع!</string>
   <string name="currentStatus">الوضع الحالي</string>
   <string name="nextPayment">الدفعة القادمة</string>

@@ -57,7 +57,7 @@ Tačiau Rėmėjai gauna pagyrų teises ir šaunią naują profilio piktogramą.<
     <item quantity="many">Lichess Rėmėjas %s mėnesio</item>
     <item quantity="other">Lichess rėmėjas %s mėnesių</item>
   </plurals>
-  <string name="youSupportWith">Jūs remiate lichess.org %s per mėnesį.</string>
+  <string name="youSupportWith">Jūs remiate pawn7.com %s per mėnesį.</string>
   <string name="tyvm">Dekojame už pagalbą. Jūs šauniausias!</string>
   <string name="currentStatus">Dabartinė būsena</string>
   <string name="nextPayment">Kitas mokėjimas</string>

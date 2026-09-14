@@ -15,7 +15,7 @@
   <string name="downloadKit">Descarcă kitul de streamer</string>
   <string name="xIsStreaming">%s face stream</string>
   <string name="rules">Regulament pentru streaming</string>
-  <string name="rule1">Include cuvântul cheie „lichess.org” în titlul streamului tău când faci stream pe Lichess.</string>
+  <string name="rule1">Include cuvântul cheie „pawn7.com” în titlul streamului tău când faci stream pe Lichess.</string>
   <string name="rule2">Șterge cuvântul cheie atunci când faci stream legat de lucruri ce nu aparțin de Lichess.</string>
   <string name="rule3">Lichess îți va detecta streamul în mod automat și va activa următoarele beneficii:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">Citește %s pentru a asigura un joc corect pentru toată lumea în streamul tău.</string>

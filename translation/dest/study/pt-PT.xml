@@ -136,7 +136,7 @@
   <string name="interestingMove">Lance interessante</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Lance duvidoso</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Lance único</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Zugzwang</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Zugzwang</string>
   <string name="equalPosition">Posição igual</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Posição não clara</string>
   <string name="whiteIsSlightlyBetter">As brancas estão ligeiramente melhor</string>
@@ -180,7 +180,7 @@
   <string name="annotatePositionTitle">Anota uma posição</string>
   <string name="annotatePositionText">Clica no botão !?, ou faz um clique no lado direito do rato sobre a lista de movimentos à direita.&lt;br&gt; Glifos de anotação são partilhados e salvos.</string>
   <string name="conclusionTitle">Obrigado pelo seu tempo</string>
-  <string name="conclusionText">Podes encontrar os teus &lt;a href=\'/study/mine/hot\'&gt; estudos prévios&lt;/a&gt; a partir da tua página de perfil.&lt;br&gt; Também há uma &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt; publicação no blog sobre estudos&lt;/a&gt;.&lt;br&gt; Utilizadores avançados podem querer pressionar \"?\" para ver os atalhos do teclado.&lt;br&gt; Divirta-te!</string>
+  <string name="conclusionText">Podes encontrar os teus &lt;a href=\'/study/mine/hot\'&gt; estudos prévios&lt;/a&gt; a partir da tua página de perfil.&lt;br&gt; Também há uma &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt; publicação no blog sobre estudos&lt;/a&gt;.&lt;br&gt; Utilizadores avançados podem querer pressionar \"?\" para ver os atalhos do teclado.&lt;br&gt; Divirta-te!</string>
   <string name="createChapterTitle">Vamos criar um capítulo de estudo</string>
   <string name="createChapterText">Um estudo pode ter vários capítulos.&lt;br&gt; Cada capítulo tem uma árvore de movimentos distinta,&lt;br&gt; e pode ser criado de diversas formas.</string>
   <string name="fromInitialPositionTitle">A partir da posição inicial</string>
@@ -188,7 +188,7 @@
   <string name="customPositionTitle">Posição personalizada</string>
   <string name="customPositionText">Configura o tabuleiro à tua maneira.&lt;br&gt; Adequado para explorar finais de jogos.</string>
   <string name="loadExistingLichessGameTitle">Carregar um jogo lichess existente</string>
-  <string name="loadExistingLichessGameText">Copia um URL de um jogo de lichess&lt;br&gt;(como lichess.org/7fHIU0XI)&lt;br&gt;para carregar os movimentos do jogo no capítulo.</string>
+  <string name="loadExistingLichessGameText">Copia um URL de um jogo de lichess&lt;br&gt;(como pawn7.com/7fHIU0XI)&lt;br&gt;para carregar os movimentos do jogo no capítulo.</string>
   <string name="fromFenStringTitle">A partir de uma string FEN</string>
   <string name="fromFenStringText">Cola uma posição em formato FEN&lt;br&gt;&lt;i&gt;4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w&lt;/i&gt;&lt;br&gt;para começar o capítulo a partir de uma posição.</string>
   <string name="fromPgnGameTitle">De um jogo em PGN</string>

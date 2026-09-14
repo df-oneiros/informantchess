@@ -302,7 +302,7 @@
   <string name="emailCanTakeSomeTime">Může to chvíli trvat.</string>
   <string name="refreshInboxAfterFiveMinutes">Počkejte 5 minut a obnovte vaši e-mailovou schránku.</string>
   <string name="checkSpamFolder">Také zkontrolujte složku nevyžádané pošty. Pokud ano, označte mail jako vyžádaný.</string>
-  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Pokud neobdržíte potvrzovací e-mail, zkontrolujte složku Nevyžádaná pošta nebo Spam. Nezapomeňte označit zprávy z lichess.org jako bezpečné a \"ne spam\", abyste byli informováni o důležitých informacích i v budoucnu.</string>
+  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Pokud neobdržíte potvrzovací e-mail, zkontrolujte složku Nevyžádaná pošta nebo Spam. Nezapomeňte označit zprávy z pawn7.com jako bezpečné a \"ne spam\", abyste byli informováni o důležitých informacích i v budoucnu.</string>
   <string name="sendEmailForAccountVerification">Pokud nemůžete najít svůj potvrzovací e-mail, pošlete nám e-mail na adresu %s a potvrdíme vám váš účet.</string>
   <string name="accountConfirmed">Uživatel %s byl úspěšně potvrzen.</string>
   <string name="accountCanLogin">Nyní se můžete přihlásit jako %s.</string>
@@ -670,7 +670,7 @@
   <string name="reportCheatBoostHelp">Zde vlož odkaz na hru(hry) a napiš co dělal tento uživatel. Nepiš pouze \"on podváděl\", ale napiš proč si myslíš že podváděl.</string>
   <string name="reportUsernameHelp">Vysvětli co je urážlivého na jeho u6ivatelském jménu. Nepiš pouze \"Je urážlivé/nevhodné\", ale řekni i důvod proč to tak je, zejména pokud je urážka zatemněná, nebo je v jiném jazyce než v angličtině, nebo je ve slangu či jde o historickou nebokulturní referenci.</string>
   <string name="reportProcessedFasterInEnglish">Nahlášení bude rychlejší pokud bude v angličtině.</string>
-  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://lichess.org/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Vaše hlášení můžeme zpracovat rychleji, pokud jej napíšete anglicky.</string>
+  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://pawn7.com/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Vaše hlášení můžeme zpracovat rychleji, pokud jej napíšete anglicky.</string>
   <string name="error.provideOneCheatedGameLink">Prosím, uveďte alespoň jeden link na partii, ve které se podvádělo.</string>
   <string name="by">od %s</string>
   <string name="importedByX">Importováno uživatelem %s</string>
@@ -801,7 +801,7 @@
   <string name="aboutSimulSettings">Simultánka je vždy neformální. Je nemožné nabízet odvety, vracení tahu a přidávat čas.</string>
   <string name="create">Vytvořte</string>
   <string name="whenCreateSimul">Když vytvoříte simultánku, budete hrát proti více hráčům najednou.</string>
-  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://lichess.org/simul/new Replaces old string whenCreateSimul">Vytvoření simultánky umožňuje hrát proti více soupeřům zároveň.</string>
+  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://pawn7.com/simul/new Replaces old string whenCreateSimul">Vytvoření simultánky umožňuje hrát proti více soupeřům zároveň.</string>
   <string name="simulVariantsHint">Pokud vyberete více variant, každý ze soupeřů si může vybrat.</string>
   <string name="simulClockHint">Nastavení Fisherových hodin. Čím víc hráčů přijmete, tím víc času budete potřebovat.</string>
   <string name="simulAddExtraTime">Můžete si přidat více času, abyste  tu simultánku lépe zvládli.</string>
@@ -1023,7 +1023,7 @@
   <string name="tryToWin">Zkus vyhrát (nebo alespoň remizovat) každou hru.</string>
   <string name="resignLostGames">Odstup od prohraných her (nenechávej dojít hodiny).</string>
   <string name="temporaryInconvenience">Omlouváme se za dočasnou nedostupnost,</string>
-  <string name="wishYouGreatGames">a přejeme ti mnoho dobrých partií na lichess.org.</string>
+  <string name="wishYouGreatGames">a přejeme ti mnoho dobrých partií na pawn7.com.</string>
   <string name="thankYouForReading">Díky za přečtení!</string>
   <string name="lifetimeScore">Celoživotní skóre</string>
   <string name="currentMatchScore">Současné výsledky zápasů</string>

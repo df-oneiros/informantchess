@@ -15,7 +15,7 @@
   <string name="downloadKit">Hlaða niður streymaratólum</string>
   <string name="xIsStreaming">%s er að streyma</string>
   <string name="rules">Reglur um að streyma</string>
-  <string name="rule1">Láttu leitarorðið „lichess.org“ fylgja með í titli streymisins þíns og notaðu flokkinn „Chess“ (Skák) þegar þú streymir á Lichess.</string>
+  <string name="rule1">Láttu leitarorðið „pawn7.com“ fylgja með í titli streymisins þíns og notaðu flokkinn „Chess“ (Skák) þegar þú streymir á Lichess.</string>
   <string name="rule2">Fjarlægðu leitarorðið þegar þú streymir efni sem hefur ekkert með Lichess að gera.</string>
   <string name="rule3">Lichess greinir streymið þitt sjálfkrafa og virkjar eftirfarandi fríðindi:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">Lestu %s til þess að tryggja göfuglyndi allra í streyminu þínu.</string>

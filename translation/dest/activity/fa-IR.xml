@@ -3,8 +3,8 @@
   <string name="activity">فعالیت</string>
   <string name="hostedALiveStream">میزبان پخش زنده بود</string>
   <plurals name="supportedNbMonths">
-    <item quantity="one">به عنوان %2$s برای %1$s ماه از lichess.org حمایت کرد</item>
-    <item quantity="other">به عنوان %2$s برای %1$s ماه از lichess.org حمایت کرد</item>
+    <item quantity="one">به عنوان %2$s برای %1$s ماه از pawn7.com حمایت کرد</item>
+    <item quantity="other">به عنوان %2$s برای %1$s ماه از pawn7.com حمایت کرد</item>
   </plurals>
   <plurals name="practicedNbPositions">
     <item quantity="one">%1$s وضعیت تمرین‌شده در %2$s</item>
@@ -71,7 +71,7 @@
     <item quantity="other">در %s مسابقه سوئیسی رقابت کرد</item>
   </plurals>
   <string name="rankedInSwissTournament">رتبه #%1$s را در %2$s به دست آورد</string>
-  <string name="signedUp">در lichess.org نام‌نوشت</string>
+  <string name="signedUp">در pawn7.com نام‌نوشت</string>
   <plurals name="joinedNbTeams">
     <item quantity="one">به %s تیم پیوست</item>
     <item quantity="other">به %s تیم پیوست</item>

@@ -40,7 +40,7 @@
     <item quantity="one">Lichess stuðulsfólk í ein mánað</item>
     <item quantity="other">Lichess stuðulsfólk í %s mánaðir</item>
   </plurals>
-  <string name="youSupportWith">Tú stuðlar lichess.org við %s um mánaðin.</string>
+  <string name="youSupportWith">Tú stuðlar pawn7.com við %s um mánaðin.</string>
   <string name="tyvm">Stóra tøkk fyri hjálpina. Tú rokkar!</string>
   <string name="currentStatus">Núverandi støða</string>
   <string name="nextPayment">Næsta gjald</string>

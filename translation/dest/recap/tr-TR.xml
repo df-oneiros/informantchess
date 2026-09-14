@@ -54,16 +54,16 @@
 	<string name="malwareNoSell">Kişisel verilerinizi satmadık</string>
 	<string name="malwareNoAbuse">Cihazınızı size karşı kullanmadık</string>
 	<string name="malwareWarningPrefix" comment="%s is 'be careful'">Fakat diğer web siteleri yapıyor, yani lütfen %s.</string>
-	<string name="malwareWarningCta" comment="It is a link to https://lichess.org/ads">dikkatli ol</string>
+	<string name="malwareWarningCta" comment="It is a link to https://pawn7.com/ads">dikkatli ol</string>
 	<string name="lichessGamesPlayedIn" comment="%1$s is the number of games, %2$s is the year">Lichess\'te %2$s\'de %1$s oyun oynandı</string>
 	<string name="lichessGamesOfThemYours" comment="%s is the percentage of games that are yours">%s kadarı ise sizin.</string>
 	<string name="thanksTitle">Lichess\'te oynadığınız için teşekkür ederiz!</string>
 	<string name="thanksHaveAGreat" comment="%s is the next year">Burada olmanızdan memnunuz. Mutlu %s!</string>
 	<string name="patronCostsThisYear" comment="%1$s is 'costs'. %2$s is the cost with currency symbol e.g. '$750,000'">Lichess\'in bu yılki %1$si %2$s idi.</string>
-	<string name="patronCosts" comment="It is a link to lichess.org/costs">maliyetler</string>
+	<string name="patronCosts" comment="It is a link to pawn7.com/costs">maliyetler</string>
 	<string name="patronCharity">Biz tamamen bağışlarla faaliyet gösteren bir yardım kuruluşuyuz.</string>
 	<string name="patronConsiderDonating" comment="%s is 'supporting us with a donation'">Bu yıl sizi eğlendirmeyi başardıysak veya çalışmalarımıza inanıyorsanız, lütfen %s!</string>
-	<string name="patronMakeDonation" comment="It is a link to https://lichess.org/patron">bağışlarınızla bize destek olun</string>
+	<string name="patronMakeDonation" comment="It is a link to https://pawn7.com/patron">bağışlarınızla bize destek olun</string>
 	<string name="shareableTitle" comment="%s is the current year">%s özetim</string>
 	<string name="shareableSpentPlaying" comment="subtitle to the translated time they have spent playing">oynayarak geçirildi</string>
 	<string name="shareableMostPlayedOpponent">en çok oynanan rakip</string>

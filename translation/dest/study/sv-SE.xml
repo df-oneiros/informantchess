@@ -135,7 +135,7 @@
   <string name="interestingMove">Intressant drag</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Tvivelaktigt drag</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Enda draget</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Zugzwang</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Zugzwang</string>
   <string name="equalPosition">Likvärdig position</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Oklar position</string>
   <string name="whiteIsSlightlyBetter">Vit är något bättre</string>
@@ -179,7 +179,7 @@
   <string name="annotatePositionTitle">Annotera en position</string>
   <string name="annotatePositionText">Klicka på knappen !?, eller högerklicka på drag-listan till höger.&lt;br&gt;Kommentarer delas och sparas.</string>
   <string name="conclusionTitle">Tack för din tid</string>
-  <string name="conclusionText">Du hittar dina &lt;a href=\'/study/mine/hot\'&gt;tidigare studier&lt;/a&gt; på din profilsida.&lt;br&gt;Det finns också ett &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;blogginlägg om studier&lt;/a&gt;.&lt;br&gt;Erfarna användare kanske vill trycka på \"?\" för att se kortkommandon.&lt;br&gt;Ha så kul!</string>
+  <string name="conclusionText">Du hittar dina &lt;a href=\'/study/mine/hot\'&gt;tidigare studier&lt;/a&gt; på din profilsida.&lt;br&gt;Det finns också ett &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;blogginlägg om studier&lt;/a&gt;.&lt;br&gt;Erfarna användare kanske vill trycka på \"?\" för att se kortkommandon.&lt;br&gt;Ha så kul!</string>
   <string name="createChapterTitle">Låt oss skapa ett studiekapitel</string>
   <string name="createChapterText">En studie kan ha flera kapitel.&lt;br&gt;Varje kapitel har ett distinkt drag-träd,&lt;br&gt;och kan skapas på olika sätt.</string>
   <string name="fromInitialPositionTitle">Från ursprunglig position</string>
@@ -187,7 +187,7 @@
   <string name="customPositionTitle">Från position</string>
   <string name="customPositionText">Ställ in brädet sim di vill ha det.&lt;br&gt;Passar för att utforska slutspel.</string>
   <string name="loadExistingLichessGameTitle">Ladda ett befintligt lichess-parti</string>
-  <string name="loadExistingLichessGameText">Klistra in en länk till ett lichess-parti&lt;br&gt;(som till exempel lichess.org/7fHIU0XI)&lt;br&gt;för att hämta partiets drag till kapitlet.</string>
+  <string name="loadExistingLichessGameText">Klistra in en länk till ett lichess-parti&lt;br&gt;(som till exempel pawn7.com/7fHIU0XI)&lt;br&gt;för att hämta partiets drag till kapitlet.</string>
   <string name="fromFenStringTitle">Från en FEN-sträng</string>
   <string name="fromFenStringText">Klistra in en position i FEN-format&lt;br&gt;&lt;i&gt;4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w&lt;/i&gt;&lt;br&gt;för att starta kapitlet från en position.</string>
   <string name="fromPgnGameTitle">Från ett PGN-parti</string>

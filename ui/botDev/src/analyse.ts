@@ -18,7 +18,7 @@ export function analyse(gameCtrl: GameCtrl): void {
   const game = {
     headers: new Map<string, string>([
       ['Event', 'Local game'],
-      ['Site', 'lichess.org'],
+      ['Site', 'pawn7.com'],
       ['Date', new Date().toISOString().split('T')[0]],
       ['Round', '?'],
       ['White', env.bot.nameOf(gameCtrl.white)],

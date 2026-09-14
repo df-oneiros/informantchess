@@ -138,43 +138,43 @@ It is useful to think of ratings as \"relative\" figures (as opposed to \"absolu
   <string name="viewSiteInformationPopUp">View site information popup</string>
   <string name="lichessCanOptionnalySendPopUps">Lichess can optionally send popup notifications, for example when it is your turn or you received a private message.
 
-Click the lock icon next to the lichess.org address in the URL bar of your browser.
+Click the lock icon next to the pawn7.com address in the URL bar of your browser.
 
 Then select whether to allow or block notifications from Lichess.</string>
   <string name="enableAutoplayForSoundsQ">Enable autoplay for sounds?</string>
   <string name="enableAutoplayForSoundsA">Most browsers can prevent sound from playing on a freshly loaded page to protect users. Imagine if every website could immediately bombard you with audio ads.
 
-The red mute icon appears when your browser prevents lichess.org from playing a sound. Usually this restriction is lifted once you click something. On some mobile browsers, touch dragging a piece does not count as a click. In that case you must tap the board to allow sound at the start of each game.
+The red mute icon appears when your browser prevents pawn7.com from playing a sound. Usually this restriction is lifted once you click something. On some mobile browsers, touch dragging a piece does not count as a click. In that case you must tap the board to allow sound at the start of each game.
 
-We show the red icon to alert you when this happens. Often you can explicitly allow lichess.org to play sounds. Here are instructions for doing so on recent versions of some popular browsers.</string>
+We show the red icon to alert you when this happens. Often you can explicitly allow pawn7.com to play sounds. Here are instructions for doing so on recent versions of some popular browsers.</string>
   <string name="mostBrowsersPreventSoundAutoplay" comment="Replaces old string enableAutoplayForSoundsA">To protect users, most browsers block audio from newly-visited webpages.
 
-The mute icon appears when your browser prevents lichess.org from playing sound. This restriction is typically lifted once you click something.
+The mute icon appears when your browser prevents pawn7.com from playing sound. This restriction is typically lifted once you click something.
 On some mobile browsers, touch-dragging a piece does not register as a click. In that case, tap the board at the beginning of each game to enable sound.
 
 The red mute icon alerts you when your browser is blocking sound. Most browsers allow you to grant audio permissions to specific websites. Here are some browser instructions for enabling sound on lichess.com:</string>
   <string name="desktop">desktop</string>
-  <string name="enableAutoplayForSoundsFirefox">1. Go to lichess.org
+  <string name="enableAutoplayForSoundsFirefox">1. Go to pawn7.com
 2. Press Ctrl+i on Linux/Windows or ⌘+i on macOS
 3. Click the Permissions tab
-4. Allow Audio and Video on lichess.org</string>
-  <string name="enableAutoplayForSoundsChrome">1. Go to lichess.org
+4. Allow Audio and Video on pawn7.com</string>
+  <string name="enableAutoplayForSoundsChrome">1. Go to pawn7.com
 2. Click the lock icon in the address bar
 3. Click Site Settings
 4. Allow Sound</string>
-  <string name="enableAutoplayForSoundsChromeSiteInformation" comment="Guidance for Google Chrome users on how to enable audio auto-play if they have sound issues. Replaces old string enableAutoplayForSoundsChrome">1. Go to lichess.org
+  <string name="enableAutoplayForSoundsChromeSiteInformation" comment="Guidance for Google Chrome users on how to enable audio auto-play if they have sound issues. Replaces old string enableAutoplayForSoundsChrome">1. Go to pawn7.com
 2. Click the site information icon in the address bar
 3. Click Site Settings
 4. Allow Sound</string>
-  <string name="enableAutoplayForSoundsSafari">1. Go to lichess.org
+  <string name="enableAutoplayForSoundsSafari">1. Go to pawn7.com
 2. Click Safari in the menu bar
-3. Click Settings for lichess.org ...
+3. Click Settings for pawn7.com ...
 4. Allow All Auto-Play</string>
   <string name="enableAutoplayForSoundsMicrosoftEdge">1. Click the three dots in the top right corner
 2. Click Settings
 3. Click Cookies and Site Permissions
 4. Scroll down and click Media autoplay
-5. Add lichess.org to Allow</string>
+5. Add pawn7.com to Allow</string>
   <string name="stopMyselfFromPlaying">Stop myself from playing?</string>
   <string name="mentalHealthCondition">stand-alone mental health condition</string>
   <string name="lichessUserstyles">Lichess userstyles</string>

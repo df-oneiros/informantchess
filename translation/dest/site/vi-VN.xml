@@ -256,7 +256,7 @@
   <string name="emailCanTakeSomeTime">Có thể sẽ mất một lúc để nhận được.</string>
   <string name="refreshInboxAfterFiveMinutes">Đợi 5 phút sau đó làm mới hộp thư đến trong email.</string>
   <string name="checkSpamFolder">Ngoài ra hãy kiểm tra hộp thư rác, nó có thể ở trong đó. Nếu có, hãy đánh dấu nó không phải là rác.</string>
-  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Nếu bạn không nhận được email xác nhận, hãy kiểm tra thư mục Spam hoặc Thư rác. Hãy nhớ đánh dấu các tin nhắn từ lichess.org là an toàn và \"không phải thư rác\" để bạn có thể nhận được thông báo quan trọng.</string>
+  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Nếu bạn không nhận được email xác nhận, hãy kiểm tra thư mục Spam hoặc Thư rác. Hãy nhớ đánh dấu các tin nhắn từ pawn7.com là an toàn và \"không phải thư rác\" để bạn có thể nhận được thông báo quan trọng.</string>
   <string name="sendEmailForAccountVerification">Nếu bạn không tìm thấy email xác minh, hãy gửi email đến %s và chúng tôi sẽ xác minh tài khoản cho bạn.</string>
   <string name="accountConfirmed">Đã xác nhận người dùng %s thành công.</string>
   <string name="accountCanLogin">Bạn đã có thể đăng nhập ngay bây giờ tại %s.</string>
@@ -565,7 +565,7 @@ trò chuyện trong ván đấu và có một URL có thể chia sẻ công khai
   <string name="reportCheatBoostHelp">Dán đường dẫn đến (các) ván cờ và giải thích hành vi sai của kỳ thủ này. Đừng chỉ nói \"họ gian lận\", nhưng hãy cho chúng tôi biết bạn đã đi đến kết luận này như thế nào.</string>
   <string name="reportUsernameHelp">Giải thích những gì về tên người dùng này là xúc phạm. Đừng chỉ nói \"nó gây khó chịu/không phù hợp\", nhưng hãy cho chúng tôi biết bạn đã đi đến kết luận này như thế nào, đặc biệt nếu sự xúc phạm bị che giấu, không phải bằng tiếng Anh, là tiếng lóng, hoặc là một tài liệu tham khảo lịch sử/văn hóa.</string>
   <string name="reportProcessedFasterInEnglish">Báo cáo của bạn sẽ được xử lý nhanh hơn nếu được viết bằng tiếng Anh.</string>
-  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://lichess.org/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Chúng tôi có thể xử lý báo cáo của bạn nhanh hơn nếu bạn viết bằng tiếng Anh.</string>
+  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://pawn7.com/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Chúng tôi có thể xử lý báo cáo của bạn nhanh hơn nếu bạn viết bằng tiếng Anh.</string>
   <string name="error.provideOneCheatedGameLink">Hãy cung cấp ít nhất một đường dẫn đến ván cờ bị gian lận.</string>
   <string name="by">bởi %s</string>
   <string name="importedByX">Được nhập bởi %s</string>
@@ -687,12 +687,12 @@ trò chuyện trong ván đấu và có một URL có thể chia sẻ công khai
   <string name="aboutSimulSettings">Cờ đồng loạt luôn không xếp hạng. Việc tái đấu, đi lại hay cho thêm thời gian đều bị vô hiệu.</string>
   <string name="create">Tạo</string>
   <string name="whenCreateSimul">Khi bạn tạo một sự kiện cờ đồng loạt, bạn sẽ chơi với nhiều người cùng một lúc.</string>
-  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://lichess.org/simul/new Replaces old string whenCreateSimul">Việc tạo sự kiện cờ đồng loạt cho phép bạn chơi với nhiều đối thủ cùng một lúc.</string>
+  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://pawn7.com/simul/new Replaces old string whenCreateSimul">Việc tạo sự kiện cờ đồng loạt cho phép bạn chơi với nhiều đối thủ cùng một lúc.</string>
   <string name="simulVariantsHint">Nếu bạn chọn nhiều biến thể, mỗi người chơi sẽ được tự chọn biến thể mà họ muốn chơi.</string>
   <string name="simulClockHint">Thiết lập Đồng hồ Fischer. Bạn càng chơi với nhiều người thì càng có thể cần nhiều thời gian.</string>
   <string name="simulAddExtraTime">Bạn có thể cộng thêm thời gian ban đầu của mình để đấu cờ đồng loạt dễ hơn.</string>
   <string name="simulHostExtraTime">Thời gian cộng thêm ban đầu cho người chủ trì</string>
-  <string name="extraClockTimeForHost" comment="Appears on: https://lichess.org/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Thời gian cộng thêm cho người chủ trì:</string>
+  <string name="extraClockTimeForHost" comment="Appears on: https://pawn7.com/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Thời gian cộng thêm cho người chủ trì:</string>
   <string name="simulAddExtraTimePerPlayer">Thêm thời gian ban đầu của bạn khi đấu với mỗi người chơi tham gia sự kiện đồng loạt.</string>
   <string name="simulHostExtraTimePerPlayer">Thời gian cộng thêm cho người chủ trì theo số người tham gia</string>
   <string name="lichessTournaments">Các giải đấu của Lichess</string>
@@ -881,7 +881,7 @@ trò chuyện trong ván đấu và có một URL có thể chia sẻ công khai
   </plurals>
   <string name="showUnreadLichessMessage">Bạn đã nhận được một tin nhắn riêng từ Lichess.</string>
   <string name="clickHereToReadIt">Nhấn vào đây để đọc nó</string>
-  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://lichess.org/@/Lichess Replaces old string clickHereToReadIt">Đọc tin nhắn</string>
+  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://pawn7.com/@/Lichess Replaces old string clickHereToReadIt">Đọc tin nhắn</string>
   <string name="sorry">Rất tiếc :(</string>
   <string name="weHadToTimeYouOutForAWhile">Chúng tôi phải ngừng bạn lại một thời gian.</string>
   <string name="why">Tại sao?</string>
@@ -893,7 +893,7 @@ trò chuyện trong ván đấu và có một URL có thể chia sẻ công khai
   <string name="tryToWin">Cố gắng thắng (hoặc ít nhất hòa) mỗi ván mà bạn chơi.</string>
   <string name="resignLostGames">Chịu thua những ván chắc chắn thua (đừng để đồng hồ chạy đến hết giờ).</string>
   <string name="temporaryInconvenience">Chúng tôi rất tiếc vì những bất tiện tạm thời này,</string>
-  <string name="wishYouGreatGames">và chúc bạn có những ván cờ tuyệt vời trên lichess.org.</string>
+  <string name="wishYouGreatGames">và chúc bạn có những ván cờ tuyệt vời trên pawn7.com.</string>
   <string name="thankYouForReading">Cảm ơn bạn vì đã đọc!</string>
   <string name="lifetimeScore">Tổng điểm đối đầu</string>
   <string name="currentMatchScore">Tỷ số của lần đối đầu hiện tại</string>

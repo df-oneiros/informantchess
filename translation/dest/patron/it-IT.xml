@@ -56,7 +56,7 @@ Tuttavia, i Mecenati possono vantare una fantastica icona di profilo.</string>
     <item quantity="one">Lichess Patron per un mese</item>
     <item quantity="other">Lichess Patron per %s mesi</item>
   </plurals>
-  <string name="youSupportWith">Supporta lichess.org con %s al mese.</string>
+  <string name="youSupportWith">Supporta pawn7.com con %s al mese.</string>
   <string name="tyvm">Grazie per il tuo sostegno! Sei forte!</string>
   <string name="currentStatus">Stato attuale</string>
   <string name="nextPayment">Prossimo pagamento</string>

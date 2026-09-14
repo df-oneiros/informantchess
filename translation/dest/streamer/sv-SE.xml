@@ -15,7 +15,7 @@
   <string name="downloadKit">Hämta sändningstillbehör</string>
   <string name="xIsStreaming">%s direktsänder video</string>
   <string name="rules">Regler för videosändningar</string>
-  <string name="rule1">Inkludera nyckelordet \"lichess.org\" i din kanaltitel när du direktsänder från Lichess.</string>
+  <string name="rule1">Inkludera nyckelordet \"pawn7.com\" i din kanaltitel när du direktsänder från Lichess.</string>
   <string name="rule2">Ta bort sökordet när du inte sänder Lichess-saker.</string>
   <string name="rule3">Lichess kommer att upptäcka din sändning automatiskt och ge dig följande fördelar:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">Läs vår %s för att säkerställa rent spel för alla under din videosändning.</string>

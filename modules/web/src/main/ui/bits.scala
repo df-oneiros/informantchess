@@ -31,7 +31,7 @@ object bits:
           case h => raw(h.replaceIf('\n', "<br>"))
 
   lazy val stage = a(
-    href := "https://lichess.org",
+    href := "https://pawn7.com",
     style := """
 background: #7f1010;
 color: #fff;
@@ -43,7 +43,7 @@ border-top-right-radius: 3px;
 z-index: 99;
 """
   ):
-    "This is an empty Lichess preview website, go to lichess.org instead"
+    "This is an empty Lichess preview website, go to pawn7.com instead"
 
   val connectLinks: Frag = div(cls := "connect-links")(
     a(
@@ -58,7 +58,7 @@ z-index: 99;
       noFollow
     )("GitHub"),
     a(href := "https://discord.gg/lichess", targetBlank, noFollow)("Discord"),
-    a(href := "https://bsky.app/profile/lichess.org", targetBlank, noFollow)("Bluesky"),
+    a(href := "https://bsky.app/profile/pawn7.com", targetBlank, noFollow)("Bluesky"),
     a(
       href := "https://youtube.com/@LichessDotOrg",
       targetBlank,

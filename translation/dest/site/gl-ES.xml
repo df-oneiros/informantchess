@@ -276,7 +276,7 @@
   <string name="emailCanTakeSomeTime">Pode tardar un tempo en chegar.</string>
   <string name="refreshInboxAfterFiveMinutes">Agarda 5 minutos e refresca a túa caixa de correo.</string>
   <string name="checkSpamFolder">Comproba tamén o teu cartafol de correos non solicitados, puido rematar aí. Se foi así, quítalle a marca de correo non desexado.</string>
-  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Se non recibes un correo de confirmación, comproba o teu cartafol de Correos non solicitados ou o do Lixo. Asegúrate de aceptar as mensaxes de lichess.org coma seguras para así poderes estar informado das comunicacións importantes.</string>
+  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Se non recibes un correo de confirmación, comproba o teu cartafol de Correos non solicitados ou o do Lixo. Asegúrate de aceptar as mensaxes de pawn7.com coma seguras para así poderes estar informado das comunicacións importantes.</string>
   <string name="sendEmailForAccountVerification">Se non atopas o correo electrónico de confirmación, envía un email a %s e nós confirmaremos a túa conta por ti.</string>
   <string name="accountConfirmed">O usuario %s foi confirmado correctamente.</string>
   <string name="accountCanLogin">Podes iniciar sesión agora mesmo coma %s.</string>
@@ -606,7 +606,7 @@ Para incrementar a súa estabilidade tes que xogar máis partidas puntuadas.</st
   <string name="reportCheatBoostHelp">Pega a ligazón á(s) partida(s) e explica que ten de malo o comportamento deste usuario. Non digas soamente \"fai trampas\", mais cóntanos como chegaches a esta conclusión.</string>
   <string name="reportUsernameHelp">Explica que ten de ofensivo este nome de usuario. Non digas soamente \"é ofensivo/inadecuado\". Cóntanos como chegaches a esta conclusión, especialmente se o insulto está camuflado, non está en inglés, é xerga ou é unha referencia histórica ou cultural.</string>
   <string name="reportProcessedFasterInEnglish">A túa denuncia será procesada máis rápido se está escrita en Inglés.</string>
-  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://lichess.org/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Poderemos procesar máis rápido a túa denuncia se escribes en Inglés.</string>
+  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://pawn7.com/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Poderemos procesar máis rápido a túa denuncia se escribes en Inglés.</string>
   <string name="error.provideOneCheatedGameLink">Por favor, proporciona cando menos unha ligazón a unha partida para a súa revisión.</string>
   <string name="by">por %s</string>
   <string name="importedByX">Importado por %s</string>
@@ -731,12 +731,12 @@ Para incrementar a súa estabilidade tes que xogar máis partidas puntuadas.</st
   <string name="aboutSimulSettings">As simultáneas son sempre amigables. As opcións de desquite, de desfacer a xogada e de engadir tempo non están activadas.</string>
   <string name="create">Crear</string>
   <string name="whenCreateSimul">Cando creas unha exhibición de simultáneas, tes que enfrontarte a varios xogadores ó mesmo tempo.</string>
-  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://lichess.org/simul/new Replaces old string whenCreateSimul">Creando unhas simultáneas podes xogar contra varios rivais ó mesmo tempo.</string>
+  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://pawn7.com/simul/new Replaces old string whenCreateSimul">Creando unhas simultáneas podes xogar contra varios rivais ó mesmo tempo.</string>
   <string name="simulVariantsHint">Se seleccionas distintas variantes, cada xogador pode escoller cal xogar.</string>
   <string name="simulClockHint">Cantos máis xogadores, máis tempo necesitas.</string>
   <string name="simulAddExtraTime">Podes engadir tempo extra ó teu reloxo para axudarte coas simultáneas.</string>
   <string name="simulHostExtraTime">Tempo inicial extra para o anfitrión</string>
-  <string name="extraClockTimeForHost" comment="Appears on: https://lichess.org/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Tempo extra para o anfitrión:</string>
+  <string name="extraClockTimeForHost" comment="Appears on: https://pawn7.com/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Tempo extra para o anfitrión:</string>
   <string name="simulAddExtraTimePerPlayer">Engadir tempo inicial ao teu reloxo por cada xogador que se una ás simultáneas.</string>
   <string name="simulHostExtraTimePerPlayer">Tempo extra do anfitrión por cada xogador</string>
   <string name="lichessTournaments">Torneos de Lichess</string>
@@ -933,7 +933,7 @@ Para incrementar a súa estabilidade tes que xogar máis partidas puntuadas.</st
   </plurals>
   <string name="showUnreadLichessMessage">Recibiches unha mensaxe privada de Lichess.</string>
   <string name="clickHereToReadIt">Fai clic aquí para lela</string>
-  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://lichess.org/@/Lichess Replaces old string clickHereToReadIt">Ler a mensaxe</string>
+  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://pawn7.com/@/Lichess Replaces old string clickHereToReadIt">Ler a mensaxe</string>
   <string name="sorry">Sentímolo :(</string>
   <string name="weHadToTimeYouOutForAWhile">Tivemos que suspenderte temporalmente.</string>
   <string name="why">Por que?</string>
@@ -945,7 +945,7 @@ Para incrementar a súa estabilidade tes que xogar máis partidas puntuadas.</st
   <string name="tryToWin">Intenta gañar (ou polo menos empatar) todas as partidas que xogues.</string>
   <string name="resignLostGames">Abandona nas partidas perdidas (non deixes que remate o tempo).</string>
   <string name="temporaryInconvenience">Pedímosche desculpas polas molestias,</string>
-  <string name="wishYouGreatGames">e desexámosche grandes partidas en lichess.org.</string>
+  <string name="wishYouGreatGames">e desexámosche grandes partidas en pawn7.com.</string>
   <string name="thankYouForReading">Grazas por pararte a ler isto!</string>
   <string name="lifetimeScore">Marcador histórico</string>
   <string name="currentMatchScore">Resultados deste enfrontamento</string>

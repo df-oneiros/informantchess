@@ -598,7 +598,7 @@ zum bewise dass du en Mänsch bisch.</string>
   <string name="reportCheatBoostHelp">Füeg de Link dem/dene Schpiel bi und erchlär, wie sich de Benutzer falsch benah hät. Säg nöd nur \"de bschisst\", schrib eus wie du da druf chunnsch. (änglisch gschribeni Mäldige, werded schnäller behandlet).</string>
   <string name="reportUsernameHelp">Erchlär, was am Benutzername nöd in Ornig isch: Säg nöd eifach \"er isch beleidigend/unagmässe\", sondern schrib eus, wie du zu dere Folgerig cho bisch. B\'sunders wänn die Beleidigung verschleieret-, nöd uf Änglisch- oder in Dialäkt isch oder wänn sie en historische oder kulturelle Bezug hät.</string>
   <string name="reportProcessedFasterInEnglish">Änglisch g\'schribeni Mäldige werded schnäller behandlet.</string>
-  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://lichess.org/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Mir chönd dini Meldig schneller uf Änglisch bearbeite.</string>
+  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://pawn7.com/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Mir chönd dini Meldig schneller uf Änglisch bearbeite.</string>
   <string name="error.provideOneCheatedGameLink">Bitte gib mindeschtens 1 Link zume Schpiel a, wo bschisse worde isch.</string>
   <string name="by">vu %s</string>
   <string name="importedByX">Importiert vu %s</string>
@@ -730,7 +730,7 @@ Nächschte und macht bi jedem Brätt 1 Zug.</string>
 gits nöd und es isch nie g\'wertet.</string>
   <string name="create">Erschtelle</string>
   <string name="whenCreateSimul">Wänn du dir es Simultanschach machsch, chasch du glichzitig gäge mehreri Gägner schpille.</string>
-  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://lichess.org/simul/new Replaces old string whenCreateSimul">Es Simultan z\'veranstalte erlaubt dir, gäge mehreri Spiler ufs mal z\'spiele.</string>
+  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://pawn7.com/simul/new Replaces old string whenCreateSimul">Es Simultan z\'veranstalte erlaubt dir, gäge mehreri Spiler ufs mal z\'spiele.</string>
   <string name="simulVariantsHint">Wänn du mehreri Variante wählsch, chann jede Simultangägner ussueche, was er schpille will.</string>
   <string name="simulClockHint">Fischer Uhr: Je meh Gägner, umso meh Zit bruchsch wahrschinlich.</string>
   <string name="simulAddExtraTime">Du chasch dir Extrazit geh, dass du z\'rächt chunsch.</string>
@@ -938,7 +938,7 @@ gits nöd und es isch nie g\'wertet.</string>
   <string name="tryToWin">Probier jedes Schpil z\'günne (oder mindeschtens es Remis z\'erreiche).</string>
   <string name="resignLostGames">Gib es verlores Schpiel uf (lass nöd eifach d\'Uhr ablaufe).</string>
   <string name="temporaryInconvenience">Mir entschuldiged eus für die vorübergehende Unannehmlichkeite,</string>
-  <string name="wishYouGreatGames">und wünsched dir tolli Schpiel uf lichess.org.</string>
+  <string name="wishYouGreatGames">und wünsched dir tolli Schpiel uf pawn7.com.</string>
   <string name="thankYouForReading">Danke für’s Läse!</string>
   <string name="lifetimeScore">Läbeszit Rekord</string>
   <string name="currentMatchScore">Aktuelle Schpielschtand</string>

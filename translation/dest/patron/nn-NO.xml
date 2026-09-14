@@ -55,7 +55,7 @@ Men bidragsytarar kan briske seg med et tøft profil-ikon.</string>
     <item quantity="one">Lichess-mesén i ein månad</item>
     <item quantity="other">Lichess-mesén i %s månader</item>
   </plurals>
-  <string name="youSupportWith">Du støttar lichess.org med %s i månaden.</string>
+  <string name="youSupportWith">Du støttar pawn7.com med %s i månaden.</string>
   <string name="tyvm">Mange takk for støtta di. Du er sjef!</string>
   <string name="currentStatus">Gjeldande status</string>
   <string name="nextPayment">Neste betaling</string>

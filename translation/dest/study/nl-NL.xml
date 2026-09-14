@@ -137,7 +137,7 @@
   <string name="interestingMove">Interessante zet</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Dubieuze zet</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Enig mogelijke zet</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Zetdwang</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Zetdwang</string>
   <string name="equalPosition">Stelling in evenwicht</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Onduidelijke stelling</string>
   <string name="whiteIsSlightlyBetter">Wit staat iets beter</string>
@@ -181,7 +181,7 @@
   <string name="annotatePositionTitle">Een stelling van commentaar voorzien</string>
   <string name="annotatePositionText">Klik op de !? knop, of klik met de rechtermuisknop op de zerrenlijst aan de rechterkant.&lt;br&gt;Aantekeningen worden gedeeld en opgeslagen.</string>
   <string name="conclusionTitle">Bedankt voor je tijd</string>
-  <string name="conclusionText">Je kunt je &lt;a href=\'/studie/mine/hot\'&gt;vorige studies&lt;/a&gt; vinden op je profielpagina.&lt;br&gt;Er is ook een &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;blogpost over studies&lt;/a&gt;.&lt;br&gt;Power users kunnen op \"?\" drukken om sneltoetsen te zien.&lt;br&gt;Veel plezier!</string>
+  <string name="conclusionText">Je kunt je &lt;a href=\'/studie/mine/hot\'&gt;vorige studies&lt;/a&gt; vinden op je profielpagina.&lt;br&gt;Er is ook een &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;blogpost over studies&lt;/a&gt;.&lt;br&gt;Power users kunnen op \"?\" drukken om sneltoetsen te zien.&lt;br&gt;Veel plezier!</string>
   <string name="createChapterTitle">Laten we een studiehoofdstuk maken</string>
   <string name="createChapterText">Een studie kan verschillende hoofdstukken bevatten.&lt;br&gt;Elk hoofdstuk heeft een aparte zettenboom,&lt;br&gt;en kan op verschillende manieren worden gemaakt.</string>
   <string name="fromInitialPositionTitle">Vanaf beginstelling</string>
@@ -190,8 +190,8 @@
   <string name="customPositionText">Richt het bord op jouw manier in &lt;br&gt;Geschikt om eindspellen te verkennen.</string>
   <string name="loadExistingLichessGameTitle">Laad een bestaande lichess-partij</string>
   <string name="loadGameFromTheWebTitle" comment="Replaces old string loadExistingLichessGameTitle">Laad een partij van het web</string>
-  <string name="loadExistingLichessGameText">Plak een lichess partij link&lt;br&gt;(zoals lichess.org/7fHIU0XI)&lt;br&gt;om de partijzetten in het hoofdstuk te laden.</string>
-  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">Plak een partij-link&lt;br&gt;(zoals lichess.org/7fHIU0XI)&lt;br&gt;om partijzetten in het hoofdstuk te laden.</string>
+  <string name="loadExistingLichessGameText">Plak een lichess partij link&lt;br&gt;(zoals pawn7.com/7fHIU0XI)&lt;br&gt;om de partijzetten in het hoofdstuk te laden.</string>
+  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">Plak een partij-link&lt;br&gt;(zoals pawn7.com/7fHIU0XI)&lt;br&gt;om partijzetten in het hoofdstuk te laden.</string>
   <string name="fromFenStringTitle">Van een FEN-tekenreeks</string>
   <string name="fromFenStringText">Plak een stelling in FEN-formaat&lt;br&gt;&lt;i&gt;4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w&lt;/i&gt;&lt;br&gt;om het hoofdstuk te beginnen vanaf een bepaalde stelling.</string>
   <string name="fromPgnGameTitle">Van een PGN-bestand</string>

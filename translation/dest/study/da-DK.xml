@@ -137,7 +137,7 @@
   <string name="interestingMove">Interessant træk</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Tvivlsomt træk</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Eneste mulige træk</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Træktvang</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Træktvang</string>
   <string name="equalPosition">Lige stilling</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Uafklaret stilling</string>
   <string name="whiteIsSlightlyBetter">Hvid står lidt bedre</string>
@@ -181,7 +181,7 @@
   <string name="annotatePositionTitle">Annoter en stilling</string>
   <string name="annotatePositionText">Klik på !? knappen, eller lav et højreklik på træklisten i højre side.&lt;br&gt;Annoteringsglyffer deles og gemmes.</string>
   <string name="conclusionTitle">Tak for din tid</string>
-  <string name="conclusionText">Du kan finde dine &lt;a href=\'/study/mine/hot\'&gt;tidligere studier&lt;/a&gt; fra din profilside.&lt;br&gt;Der er også et &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;blogindlæg om studier&lt;/a&gt;.&lt;br&gt;Superbrugere vil måske at trykke på \"?\" for at se tastaturgenveje.&lt;br&gt;God fornøjelse!</string>
+  <string name="conclusionText">Du kan finde dine &lt;a href=\'/study/mine/hot\'&gt;tidligere studier&lt;/a&gt; fra din profilside.&lt;br&gt;Der er også et &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;blogindlæg om studier&lt;/a&gt;.&lt;br&gt;Superbrugere vil måske at trykke på \"?\" for at se tastaturgenveje.&lt;br&gt;God fornøjelse!</string>
   <string name="createChapterTitle">Lad os oprette et studiekapitel</string>
   <string name="createChapterText">Et studie kan have flere kapitler.&lt;br&gt;Hvert kapitel har et særskilt træktræ,&lt;br&gt;og kan oprettes på forskellige måder.</string>
   <string name="fromInitialPositionTitle">Fra indledende stilling</string>
@@ -190,8 +190,8 @@
   <string name="customPositionText">Opstil brættet på din måde.&lt;br&gt;Nyttigt til at udforske slutspil.</string>
   <string name="loadExistingLichessGameTitle">Indlæs et eksisterende lichess-parti</string>
   <string name="loadGameFromTheWebTitle" comment="Replaces old string loadExistingLichessGameTitle">Indlæs et parti fra nettet</string>
-  <string name="loadExistingLichessGameText">Indsæt en URL for et lichess-parti&lt;br&gt;(som lichess.org/7fHIU0XI)&lt;br&gt;for at indlæse partiets træk i kapitlet.</string>
-  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">Indsæt en parti-URL&lt;br&gt;(som lichess.org/7fHIU0XI)&lt;br&gt;for at indlæse partitræk i kapitlet.</string>
+  <string name="loadExistingLichessGameText">Indsæt en URL for et lichess-parti&lt;br&gt;(som pawn7.com/7fHIU0XI)&lt;br&gt;for at indlæse partiets træk i kapitlet.</string>
+  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">Indsæt en parti-URL&lt;br&gt;(som pawn7.com/7fHIU0XI)&lt;br&gt;for at indlæse partitræk i kapitlet.</string>
   <string name="fromFenStringTitle">Fra en FEN-streng</string>
   <string name="fromFenStringText">Indsæt en position i FEN-format&lt;br&gt;&lt;i&gt;4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w&lt;/i&gt;&lt;br&gt;for at starte kapitlet fra en stilling.</string>
   <string name="fromPgnGameTitle">Fra et PGN-parti</string>

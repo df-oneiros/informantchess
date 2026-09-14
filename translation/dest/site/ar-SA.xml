@@ -338,7 +338,7 @@
   <string name="checkSpamFolder">تحقق ايضا من بريدك المهمل ربما وصل لهناك، اذا وجدت الرسالة هناك علمها ك\"غير مهمل\".</string>
   <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">إذا لم تصلك رسالة تأكيد، فتحقق من مجلد الرسائل غير المرغوب فيها أو مجلد البريد المهمل.
 
-تأكد من اعتبار الرسائل القادمة من lichess.org آمنة ووضع علامة \"ليست رسائل مزعجة\" حتى تتمكن من البقاء على اطلاع على الاتصالات المهمة.</string>
+تأكد من اعتبار الرسائل القادمة من pawn7.com آمنة ووضع علامة \"ليست رسائل مزعجة\" حتى تتمكن من البقاء على اطلاع على الاتصالات المهمة.</string>
   <string name="sendEmailForAccountVerification">إذا لم تتمكن من العثور على رسالة تأكيد البريد الإلكتروني الخاصة بك، قم بإرسال بريد إلكتروني إلى %s وسنؤكد حسابك لك.</string>
   <string name="accountConfirmed">المستخدم %s تم تأكيده بنجاح.</string>
   <string name="accountCanLogin">يمكنك الان الدخول باسم %s.</string>
@@ -755,7 +755,7 @@
 https://lichess. org/report.</string>
   <string name="reportUsernameHelp">اشرح ما المسيء في اسم المستخدم هذا. لا تقل فقط \"إنه مسيء/غير مناسب\"، بل أخبرنا كيف توصلت إلى هذا الاستنتاج، خاصة إذا كانت الإهانة غير واضحة، أو ليست باللغة الإنجليزية، أو كانت باللغة العامية، أو كانت إشارة تاريخية/ثقافية.</string>
   <string name="reportProcessedFasterInEnglish">سيتم معالجة بلاغك بشكل أسرع إذا تمت كتابته باللغة الإنجليزية.</string>
-  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://lichess.org/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">سنتمكن من معالجة تقريرك بسرعة أكبر إذا أرسلته باللغة الإنجليزية.</string>
+  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://pawn7.com/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">سنتمكن من معالجة تقريرك بسرعة أكبر إذا أرسلته باللغة الإنجليزية.</string>
   <string name="error.provideOneCheatedGameLink">برجاء تقديم رابط واحد علي الأقل لمباراة حدث فيها غش.</string>
   <string name="by">كتبها %s</string>
   <string name="importedByX">استيراد \'%s\'</string>
@@ -892,12 +892,12 @@ https://lichess. org/report.</string>
   <string name="aboutSimulSettings">التزامنيات دائما عفوية. لا يمكن استرجاع النقلات، أضافة الوقت، او حتى طلب لعبة أخرى.</string>
   <string name="create">ابدأ</string>
   <string name="whenCreateSimul">عندما تنشئ تزامنية، يمكنك اللعب مع عدة لاعبين في الوقت ذاته.</string>
-  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://lichess.org/simul/new Replaces old string whenCreateSimul">إنشاء مباراة محاكاة يسمح لك بمواجهة عدة لاعبين في آنٍ واحد.</string>
+  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://pawn7.com/simul/new Replaces old string whenCreateSimul">إنشاء مباراة محاكاة يسمح لك بمواجهة عدة لاعبين في آنٍ واحد.</string>
   <string name="simulVariantsHint">إذا اخترت عدة أنواع, كل لاعب يمكنه اختيار النوع الذي يريد.</string>
   <string name="simulClockHint">ضبط توقيت بالزيادة . كلما زاد عدد اللاعبين كلما احتجت لوقت أطول.</string>
   <string name="simulAddExtraTime">يمكنك زيادة الوقت لساعتك للمساعدة في التزامنية.</string>
   <string name="simulHostExtraTime">التوقيت الإضافي لساعة المضيف</string>
-  <string name="extraClockTimeForHost" comment="Appears on: https://lichess.org/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">وقت إضافي للمضيف:</string>
+  <string name="extraClockTimeForHost" comment="Appears on: https://pawn7.com/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">وقت إضافي للمضيف:</string>
   <string name="simulAddExtraTimePerPlayer">أضف وقتًا ابتدائيًا إلى ساعتك لكل لاعب ينضم إلى المحاكاة.</string>
   <string name="simulHostExtraTimePerPlayer">استضافة وقت إضافيًا لكل لاعب</string>
   <string name="lichessTournaments">مسابقات الموقع</string>
@@ -1118,7 +1118,7 @@ https://lichess. org/report.</string>
   </plurals>
   <string name="showUnreadLichessMessage">تسلّمتَ رسالة خاصة من ليتشيس.</string>
   <string name="clickHereToReadIt">اضغط هنا بمتابعة القراءة</string>
-  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://lichess.org/@/Lichess Replaces old string clickHereToReadIt">قراءة الرسالة</string>
+  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://pawn7.com/@/Lichess Replaces old string clickHereToReadIt">قراءة الرسالة</string>
   <string name="sorry">نأسف :(</string>
   <string name="weHadToTimeYouOutForAWhile">اضطررنا إلى حظرك لفترة قصيرة.</string>
   <string name="why">لماذا ؟</string>

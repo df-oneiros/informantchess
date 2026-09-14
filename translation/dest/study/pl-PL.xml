@@ -145,7 +145,7 @@
   <string name="interestingMove">Interesujący ruch</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Wątpliwy ruch</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Jedyny ruch</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Zugzwang</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Zugzwang</string>
   <string name="equalPosition">Równa pozycja</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Niejasna pozycja</string>
   <string name="whiteIsSlightlyBetter">Białe stoją nieznacznie lepiej</string>
@@ -189,7 +189,7 @@
   <string name="annotatePositionTitle">Dodaj adnotację do pozycji</string>
   <string name="annotatePositionText">Kliknij przycisk !? lub kliknij prawym przyciskiem myszy na liście ruchów po prawej stronie.&lt;br&gt;Symbole adnotacji są udostepniane i zapisywane.</string>
   <string name="conclusionTitle">Dziękujemy za poświęcony czas</string>
-  <string name="conclusionText">Swoje &lt;a href=\'/study/mine/hot\'&gt;poprzednie opracowania&lt;/a&gt; możesz znaleźć na stronie swojego profilu.&lt;br&gt;Dostępny jest również &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;wpis na blogu o opracowaniach&lt;/a&gt;.&lt;br&gt;Zaawansowani użytkownicy mogą nacisnąć „?”, aby zobaczyć skróty klawiszowe.&lt;br&gt;Miłej zabawy!</string>
+  <string name="conclusionText">Swoje &lt;a href=\'/study/mine/hot\'&gt;poprzednie opracowania&lt;/a&gt; możesz znaleźć na stronie swojego profilu.&lt;br&gt;Dostępny jest również &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;wpis na blogu o opracowaniach&lt;/a&gt;.&lt;br&gt;Zaawansowani użytkownicy mogą nacisnąć „?”, aby zobaczyć skróty klawiszowe.&lt;br&gt;Miłej zabawy!</string>
   <string name="createChapterTitle">Stwórzmy rozdział opracowania</string>
   <string name="createChapterText">Opracowanie może mieć kilka rozdziałów.&lt;br&gt;Każdy rozdział ma odrębne drzewo posunięć,&lt;br&gt;i może być tworzony na różne sposoby.</string>
   <string name="fromInitialPositionTitle">Z pozycji początkowej</string>
@@ -198,8 +198,8 @@
   <string name="customPositionText">Ustaw szachownicę po swojemu.&lt;br&gt;Dobre do eksploracji końcówek.</string>
   <string name="loadExistingLichessGameTitle">Załaduj istniejącą partię lichess</string>
   <string name="loadGameFromTheWebTitle" comment="Replaces old string loadExistingLichessGameTitle">Zaimportuj partię z sieci</string>
-  <string name="loadExistingLichessGameText">Wklej adres URL partii Lichess&lt;br&gt;(na przykład lichess.org/7fHIU0XI), &lt;br&gt;aby załadować ruchy do rozdziału.</string>
-  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">Wklej adres URL partii&lt;br&gt;(na przykład lichess.org/7fHIU0XI), &lt;br&gt;aby załadować posunięcia partii do rozdziału.</string>
+  <string name="loadExistingLichessGameText">Wklej adres URL partii Lichess&lt;br&gt;(na przykład pawn7.com/7fHIU0XI), &lt;br&gt;aby załadować ruchy do rozdziału.</string>
+  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">Wklej adres URL partii&lt;br&gt;(na przykład pawn7.com/7fHIU0XI), &lt;br&gt;aby załadować posunięcia partii do rozdziału.</string>
   <string name="fromFenStringTitle">Z zapisu FEN pozycji</string>
   <string name="fromFenStringText">Wklej pozycję w formacie FEN&lt;br&gt;&lt;i&gt;4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w, &lt;/i&gt;&lt;br&gt;aby rozpocząć rozdział od tej pozycji.</string>
   <string name="fromPgnGameTitle">Z zapisu PGN partii</string>

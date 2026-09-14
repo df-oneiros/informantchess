@@ -271,7 +271,7 @@
   <string name="emailCanTakeSomeTime">E-postanın ulaşması biraz zaman alabilir.</string>
   <string name="refreshInboxAfterFiveMinutes">5 dakika bekleyip e-posta gelen kutunuzu yenileyin.</string>
   <string name="checkSpamFolder">Ayrıca spam klasörünü kontrol edin, orada olabilir. Eğer öyleyse spam değil olarak işaretleyin.</string>
-  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Onay e-postası almazsanız, Spam veya Gereksiz klasörünüzü kontrol edin. Önemli bildirimlerden haberdar olmaya devam edebilmeniz için lichess.org adresinden gelen mesajları güvenli olarak işaretlediğinizden ve \"spam değil\" olarak belirttiğinizden emin olun.</string>
+  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Onay e-postası almazsanız, Spam veya Gereksiz klasörünüzü kontrol edin. Önemli bildirimlerden haberdar olmaya devam edebilmeniz için pawn7.com adresinden gelen mesajları güvenli olarak işaretlediğinizden ve \"spam değil\" olarak belirttiğinizden emin olun.</string>
   <string name="sendEmailForAccountVerification">Doğrulama e-postanızı bulamıyorsanız, %s adresine e-posta gönderin, hesabınızı sizin için onaylayalım.</string>
   <string name="accountConfirmed">%s kullanıcısı başarıyla onaylandı.</string>
   <string name="accountCanLogin">Artık %s olarak giriş yapabilirsiniz.</string>
@@ -600,7 +600,7 @@ Puanlı oyunlar oynamak istikrarınızı artıracaktır.</string>
   <string name="reportCheatBoostHelp">Oyunun (oyunların) bağlantısını yapıştırın ve kullanıcının hangi davranışı yanlış açıklayın. Sadece \"bu hile\" demeyin, bize bu sonuca nasıl vardığınızı söyleyin.</string>
   <string name="reportUsernameHelp">Bu kullanıcı adı hakkında neyin saldırganca olduğunu açıklayın. Sadece \"bu saldırganca/uygunsuz\" demeyin, bu sonuca nasıl vardığınızı söyleyin bize, özellikle de hakaret gizlenmiş, ingilizce olmayan, argo, veya tarihsel/kültürel referansalar varsa.</string>
   <string name="reportProcessedFasterInEnglish">Eğer İngilizce yazarsanız raporunuz daha hızlı işleme alınır.</string>
-  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://lichess.org/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">İngilizce yazarsanız bildiriminizi daha hızlı işleme alabiliriz.</string>
+  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://pawn7.com/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">İngilizce yazarsanız bildiriminizi daha hızlı işleme alabiliriz.</string>
   <string name="error.provideOneCheatedGameLink">Lütfen hileli gördüğünüz en az 1 adet oyun linki verin.</string>
   <string name="by">%s oluşturdu</string>
   <string name="importedByX">%s tarafından yüklendi</string>
@@ -725,12 +725,12 @@ Puanlı oyunlar oynamak istikrarınızı artıracaktır.</string>
   <string name="aboutSimulSettings">Eş zamanlı gösteriler daima puansızdır. Yeniden maç teklifi göndermek, hamleyi geri almak ve ek süre talep etmek devre dışıdır.</string>
   <string name="create">Oluştur</string>
   <string name="whenCreateSimul">Eş zamanlı gösterilerde, birkaç oyuncuyla aynı anda oynarsınız.</string>
-  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://lichess.org/simul/new Replaces old string whenCreateSimul">Bir simultane oluşturmak, aynı anda birden fazla rakibe karşı oynamanızı sağlar.</string>
+  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://pawn7.com/simul/new Replaces old string whenCreateSimul">Bir simultane oluşturmak, aynı anda birden fazla rakibe karşı oynamanızı sağlar.</string>
   <string name="simulVariantsHint">Eğer birkaç varyant seçerseniz, her oyuncu istediği varyantı seçip oynar.</string>
   <string name="simulClockHint">Fischer Saati formatı. Ne kadar fazla oyuncu ile yüzleşirseniz, o kadar fazla zamana ihtiyaç duyabilirsiniz.</string>
   <string name="simulAddExtraTime">Eş zamanlı gösteride süreyi idare edebilmek için kendi saatinize fazladan zaman ekleyebilirsiniz.</string>
   <string name="simulHostExtraTime">Ev sahibinin fazladan süresi</string>
-  <string name="extraClockTimeForHost" comment="Appears on: https://lichess.org/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Ev sahibi için ekstra süre:</string>
+  <string name="extraClockTimeForHost" comment="Appears on: https://pawn7.com/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Ev sahibi için ekstra süre:</string>
   <string name="simulAddExtraTimePerPlayer">Eş zamanlı gösteriye katılan her oyuncu için saatinize başlangıç süresi ekleyin.</string>
   <string name="simulHostExtraTimePerPlayer">Ev sahibi, katılan her oyuncu için ekstra süre alır</string>
   <string name="lichessTournaments">Lichess turnuvaları</string>
@@ -782,8 +782,8 @@ Puanlı oyunlar oynamak istikrarınızı artıracaktır.</string>
   <string name="weHaveSentYouAnEmailTo">%s adresine e-posta yolladık. Şifrenizi tekrar ayarlamak için e-postadaki linke tıklayın.</string>
   <string name="byRegisteringYouAgreeToBeBoundByOur">Kaydolarak, %s \'ı kabul etmiş sayılırsınız.</string>
   <string name="readAboutOur">%s hakkında bilgi edinin.</string>
-  <string name="networkLagBetweenYouAndLichess">Siz ve lichess.org arasındaki gecikme (ping)</string>
-  <string name="timeToProcessAMoveOnLichessServer">lichess.org üzerindeki hamle süreniz (ms)</string>
+  <string name="networkLagBetweenYouAndLichess">Siz ve pawn7.com arasındaki gecikme (ping)</string>
+  <string name="timeToProcessAMoveOnLichessServer">pawn7.com üzerindeki hamle süreniz (ms)</string>
   <string name="downloadAnnotated">Açıklamalarıyla beraber indirin</string>
   <string name="downloadRaw">Açıklamasız indirin.</string>
   <string name="downloadImported">İçeri aktarılmış oyunu indir</string>
@@ -802,7 +802,7 @@ Puanlı oyunlar oynamak istikrarınızı artıracaktır.</string>
   <string name="kidMode">Çocuk modu</string>
   <string name="kidModeIsEnabled">Çocuk modu etkin.</string>
   <string name="kidModeExplanation">Bu mod çocuğunuzun güvenliği ile ilgilidir. Tüm site bağlantıları devre dışı bırakılır. Eğer çocuklarınızı veya okul öğrencilerinizi diğer internet kullanıcılarına karşı korumak istiyorsanız, bu modu etkinleştirin.</string>
-  <string name="inKidModeTheLichessLogoGetsIconX">Çocuk modunda, lichess.org logosu yerine %s belirir, bilin ki çocuğunuz güvendedir :)</string>
+  <string name="inKidModeTheLichessLogoGetsIconX">Çocuk modunda, pawn7.com logosu yerine %s belirir, bilin ki çocuğunuz güvendedir :)</string>
   <string name="askYourChessTeacherAboutLiftingKidMode">Hesabınız kısıtlandı. Çocuk modunu kaldırmak için satranç öğretmeninize danışın.</string>
   <string name="enableKidMode">Çocuk modunu aktifleştir</string>
   <string name="disableKidMode">Çocuk modunu devre dışı bırak</string>
@@ -925,7 +925,7 @@ Puanlı oyunlar oynamak istikrarınızı artıracaktır.</string>
   </plurals>
   <string name="showUnreadLichessMessage">Lichess size bir özel mesaj gönderdi.</string>
   <string name="clickHereToReadIt">Okumak için buraya tıklayın</string>
-  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://lichess.org/@/Lichess Replaces old string clickHereToReadIt">Mesajı oku</string>
+  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://pawn7.com/@/Lichess Replaces old string clickHereToReadIt">Mesajı oku</string>
   <string name="sorry">Üzgünüz :(</string>
   <string name="weHadToTimeYouOutForAWhile">Sizi bir süreliğine oyunlardan men etmek zorunda kaldık.</string>
   <string name="why">Neden?</string>
@@ -937,7 +937,7 @@ Puanlı oyunlar oynamak istikrarınızı artıracaktır.</string>
   <string name="tryToWin">Oynadığınız her oyunu kazanmaya çalışın (ya da en azından berabere kalmayı deneyin).</string>
   <string name="resignLostGames">Kaybettiğiniz oyunlardan çekilin (sürenin dolmasını beklemeyin).</string>
   <string name="temporaryInconvenience">Verdiğimiz geçici rahatsızlıktan dolayı özür dileriz,</string>
-  <string name="wishYouGreatGames">ve lichess.org\'da harika oyunlar dileriz.</string>
+  <string name="wishYouGreatGames">ve pawn7.com\'da harika oyunlar dileriz.</string>
   <string name="thankYouForReading">Okuduğunuz için teşekkür ederiz!</string>
   <string name="lifetimeScore">Toplam skor</string>
   <string name="currentMatchScore">Mevcut maç skoru</string>

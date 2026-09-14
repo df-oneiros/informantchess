@@ -139,42 +139,42 @@ Es mejor pensar en las puntuaciones como figuras \"relativas\" (a diferencia de 
   <string name="viewSiteInformationPopUp">Ver notificación emergente de información del sitio</string>
   <string name="lichessCanOptionnalySendPopUps">Opcionalmente, Lichess puede enviar notificaciones emergentes, por ejemplo cuando sea tu turno o hayas recibido un mensaje privado.
 
-Haz clic en el icono de bloqueo junto a la dirección de lichess.org, en la barra de enlaces de tu navegador.
+Haz clic en el icono de bloqueo junto a la dirección de pawn7.com, en la barra de enlaces de tu navegador.
 
 Luego selecciona si permitir o bloquear notificaciones de Lichess.</string>
   <string name="enableAutoplayForSoundsQ">¿Habilitar la reproducción automática de sonidos?</string>
   <string name="enableAutoplayForSoundsA">La mayoría de los navegadores pueden evitar que se reproduzca sonido en una página recién cargada para proteger a los usuarios. Imagínate si todos los sitios web pudieran bombardearte inmediatamente con anuncios de audio.
 
-El icono rojo de silencio aparece cuando tu navegador impide que lichess.org reproduzca un sonido. Por lo general, esta restricción se elimina una vez que haces clic en algo. En algunos navegadores móviles, tocar y arrastrar una pieza no cuenta como un clic. En ese caso debes tocar el tablero para permitir el sonido al inicio de cada juego.
+El icono rojo de silencio aparece cuando tu navegador impide que pawn7.com reproduzca un sonido. Por lo general, esta restricción se elimina una vez que haces clic en algo. En algunos navegadores móviles, tocar y arrastrar una pieza no cuenta como un clic. En ese caso debes tocar el tablero para permitir el sonido al inicio de cada juego.
 
-Mostramos el icono rojo para avisarte cuando esto suceda. A menudo, puedes permitir explícitamente que lichess.org reproduzca sonidos. Aquí encontrarás instrucciones para hacerlo en versiones recientes de algunos navegadores populares.</string>
+Mostramos el icono rojo para avisarte cuando esto suceda. A menudo, puedes permitir explícitamente que pawn7.com reproduzca sonidos. Aquí encontrarás instrucciones para hacerlo en versiones recientes de algunos navegadores populares.</string>
   <string name="mostBrowsersPreventSoundAutoplay" comment="Replaces old string enableAutoplayForSoundsA">La mayoría de los navegadores pueden evitar que se reproduzca sonido en una página recién cargada para proteger a los usuarios.
 
-El icono de silencio aparece cuando tu navegador impide que lichess.org reproduzca un sonido. Por lo general, esta restricción se elimina una vez que haces clic en algo. En algunos navegadores de móviles, tocar y arrastrar una pieza no cuenta como un clic. En ese caso debes tocar el tablero para permitir el sonido al inicio de cada juego.
+El icono de silencio aparece cuando tu navegador impide que pawn7.com reproduzca un sonido. Por lo general, esta restricción se elimina una vez que haces clic en algo. En algunos navegadores de móviles, tocar y arrastrar una pieza no cuenta como un clic. En ese caso debes tocar el tablero para permitir el sonido al inicio de cada juego.
 
-Mostramos el icono de silencio para avisarte cuando esto suceda. A menudo, puedes permitir explícitamente que lichess.org reproduzca sonidos. Aquí encontrarás instrucciones para hacerlo en las versiones recientes de algunos navegadores populares:</string>
+Mostramos el icono de silencio para avisarte cuando esto suceda. A menudo, puedes permitir explícitamente que pawn7.com reproduzca sonidos. Aquí encontrarás instrucciones para hacerlo en las versiones recientes de algunos navegadores populares:</string>
   <string name="desktop">escritorio</string>
-  <string name="enableAutoplayForSoundsFirefox">1. Ve a lichess.org
+  <string name="enableAutoplayForSoundsFirefox">1. Ve a pawn7.com
 2. Pulsa Ctrl-i en Linux/Windows o cmd-i en MacOS
 3. Haz clic en la pestaña Permisos
-4. Permitir audio y video en lichess.org</string>
-  <string name="enableAutoplayForSoundsChrome">1. Ve a lichess.org
+4. Permitir audio y video en pawn7.com</string>
+  <string name="enableAutoplayForSoundsChrome">1. Ve a pawn7.com
 2. Haz clic en el icono de bloqueo de la barra de direcciones
 3. Haz clic en Configuración del sitio
 4. Habilitar sonido</string>
-  <string name="enableAutoplayForSoundsChromeSiteInformation" comment="Guidance for Google Chrome users on how to enable audio auto-play if they have sound issues. Replaces old string enableAutoplayForSoundsChrome">1. Ve a lichess.org
+  <string name="enableAutoplayForSoundsChromeSiteInformation" comment="Guidance for Google Chrome users on how to enable audio auto-play if they have sound issues. Replaces old string enableAutoplayForSoundsChrome">1. Ve a pawn7.com
 2. Haz clic en el icono de información del sitio en la barra de direcciones
 3. Haz clic en Configuración del sitio
 4. Permitir sonido</string>
-  <string name="enableAutoplayForSoundsSafari">1. Ve a lichess.org
+  <string name="enableAutoplayForSoundsSafari">1. Ve a pawn7.com
 2. Haz clic en Safari de la barra de menú
-3. Haz clic en Configuración de lichess.org ...
+3. Haz clic en Configuración de pawn7.com ...
 4. Habilitar la reproducción automática</string>
   <string name="enableAutoplayForSoundsMicrosoftEdge">1. Haz clic en los tres puntos de la esquina superior derecha
 2. Haz clic en Ajustes
 3. Haz clic en Cookies y permisos del sitio
 4. Desplázate hacia abajo y haz clic en Reproducción automática
-5. Añade a lichess.org en Habilitar</string>
+5. Añade a pawn7.com en Habilitar</string>
   <string name="stopMyselfFromPlaying">¿Parar de jugar?</string>
   <string name="mentalHealthCondition">condición de salud mental independiente</string>
   <string name="lichessUserstyles">Estilos de usuario de Lichess</string>

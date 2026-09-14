@@ -575,7 +575,7 @@
   <string name="reportCheatBoostHelp">Klistra in länken till partiet/partierna och förklara vad som är fel med den här användarens beteende. Skriv inte bara \"de fuskar\", utan förklara hur du dragit denna slutsats. Din rapport kan komma att behandlas fortare om den är skriven på engelska.</string>
   <string name="reportUsernameHelp">Förklara hur det här användarnamnet är kränkande. Skriv inte bara \"det är stötande/olämpligt\", utan förklara hur du kom fram till denna slutsats. Detta är extra viktigt om förolämpningen är fördunklad, inte på engelska, är i slang, eller är en historisk/kulturell referens.</string>
   <string name="reportProcessedFasterInEnglish">Din rapport kommer att behandlas snabbare om den skrivs på engelska.</string>
-  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://lichess.org/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Vi kan behandla din anmälan snabbare om du skriver på engelska.</string>
+  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://pawn7.com/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Vi kan behandla din anmälan snabbare om du skriver på engelska.</string>
   <string name="error.provideOneCheatedGameLink">Ange minst en länk till ett spel där användaren fuskade.</string>
   <string name="by">av %s</string>
   <string name="importedByX">Importerad av %s</string>
@@ -904,7 +904,7 @@
   <string name="tryToWin">Försök vinna (eller åtminstone nå remi i) varje parti som du spelar.</string>
   <string name="resignLostGames">Ge upp förlorade partier (i stället för att låta tiden rinna ut).</string>
   <string name="temporaryInconvenience">Vi ber om ursäkt för den tillfälliga olägenheten,</string>
-  <string name="wishYouGreatGames">och önskar dig bra partier på lichess.org.</string>
+  <string name="wishYouGreatGames">och önskar dig bra partier på pawn7.com.</string>
   <string name="thankYouForReading">Tack för att du läste!</string>
   <string name="lifetimeScore">Livstidspoäng</string>
   <string name="currentMatchScore">Nuvarande matchpoäng</string>

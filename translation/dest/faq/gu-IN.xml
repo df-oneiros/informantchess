@@ -121,35 +121,35 @@ LM ટાઇટલ માટે પૂછશો નહીં.</string>
   <string name="howToThreeDots">કેવી રીતે...</string>
   <string name="enableDisableNotificationPopUps">નોટિફિકેશન પોપઅપ્સ સક્ષમ અથવા નિષ્ક્રિય કરવા?</string>
   <string name="viewSiteInformationPopUp">સાઇટ માહિતી પોપઅપ જુઓ</string>
-  <string name="lichessCanOptionnalySendPopUps">Lichess વૈકલ્પિક રીતે પોપઅપ નોટિફિકેશન્સ મોકલી શકે છે, ઉદાહરણ તરીકે જ્યારે તમારો વારો હોય અથવા તમને કોઈ ખાનગી સંદેશ મળ્યો હોય. તમારા બ્રાઉઝરના URL બારમાં lichess.org એડ્રેસની બાજુમાં આપેલા લોક આઇકન પર ક્લિક કરો
+  <string name="lichessCanOptionnalySendPopUps">Lichess વૈકલ્પિક રીતે પોપઅપ નોટિફિકેશન્સ મોકલી શકે છે, ઉદાહરણ તરીકે જ્યારે તમારો વારો હોય અથવા તમને કોઈ ખાનગી સંદેશ મળ્યો હોય. તમારા બ્રાઉઝરના URL બારમાં pawn7.com એડ્રેસની બાજુમાં આપેલા લોક આઇકન પર ક્લિક કરો
 
 પછી Lichess તરફથી નોટિફિકેશન્સને મંજૂરી આપવી કે બ્લોક કરવી તે પસંદ કરો.</string>
   <string name="enableAutoplayForSoundsQ">સાઉન્ડ માટે ઓટોપ્લે સક્ષમ કરવું?</string>
   <string name="enableAutoplayForSoundsA">મોટાભાગના બ્રાઉઝર્સ વપરાશકર્તાઓને સુરક્ષિત રાખવા માટે તાજી લોડ થયેલા પેજ પર સાઉન્ડ વગાડતા અટકાવી શકે છે. કલ્પના કરો કે જો દરેક વેબસાઇટ તરત જ તમને ઓડિયો જાહેરાતોથી ભરી દે તો?
 
-જ્યારે તમારું બ્રાઉઝર lichess.org ને સાઉન્ડ વગાડતા અટકાવે છે, ત્યારે લાલ મ્યૂટ આઇકન દેખાય છે. સામાન્ય રીતે એકવાર તમે કંઈક ક્લિક કરો પછી આ પ્રતિબંધ દૂર થઈ જાય છે. કેટલાક મોબાઇલ બ્રાઉઝર્સ પર, ટચ કરીને કોઈ ટુકડો ખેંચવાથી તેને ક્લિક ગણવામાં આવતું નથી. તે કિસ્સામાં તમારે દરેક રમતની શરૂઆતમાં સાઉન્ડની મંજૂરી આપવા માટે બોર્ડ પર ટેપ કરવું પડશે.
+જ્યારે તમારું બ્રાઉઝર pawn7.com ને સાઉન્ડ વગાડતા અટકાવે છે, ત્યારે લાલ મ્યૂટ આઇકન દેખાય છે. સામાન્ય રીતે એકવાર તમે કંઈક ક્લિક કરો પછી આ પ્રતિબંધ દૂર થઈ જાય છે. કેટલાક મોબાઇલ બ્રાઉઝર્સ પર, ટચ કરીને કોઈ ટુકડો ખેંચવાથી તેને ક્લિક ગણવામાં આવતું નથી. તે કિસ્સામાં તમારે દરેક રમતની શરૂઆતમાં સાઉન્ડની મંજૂરી આપવા માટે બોર્ડ પર ટેપ કરવું પડશે.
 
-જ્યારે આવું થાય છે ત્યારે તમને ચેતવણી આપવા માટે અમે લાલ આઇકન બતાવીએ છીએ. ઘણીવાર તમે lichess.org ને સાઉન્ડ વગાડવાની સ્પષ્ટપણે મંજૂરી આપી શકો છો. અહીં કેટલાક લોકપ્રિય બ્રાઉઝર્સના તાજેતરના સંસ્કરણો પર આ કરવા માટેની સૂચનાઓ આપેલી છે:</string>
+જ્યારે આવું થાય છે ત્યારે તમને ચેતવણી આપવા માટે અમે લાલ આઇકન બતાવીએ છીએ. ઘણીવાર તમે pawn7.com ને સાઉન્ડ વગાડવાની સ્પષ્ટપણે મંજૂરી આપી શકો છો. અહીં કેટલાક લોકપ્રિય બ્રાઉઝર્સના તાજેતરના સંસ્કરણો પર આ કરવા માટેની સૂચનાઓ આપેલી છે:</string>
   <string name="desktop">ડેસ્કટોપ</string>
-  <string name="enableAutoplayForSoundsFirefox">1. lichess.org પર જાઓ
+  <string name="enableAutoplayForSoundsFirefox">1. pawn7.com પર જાઓ
 
 2. Linux/Windows પર Ctrl-i અથવા MacOS પર cmd-i દબાવો
 
 3. Permissions ટેબ પર ક્લિક કરો
 
-4. lichess.org પર Audio અને Video ને મંજૂરી આપો</string>
-  <string name="enableAutoplayForSoundsChrome">1. lichess.org પર જાઓ
+4. pawn7.com પર Audio અને Video ને મંજૂરી આપો</string>
+  <string name="enableAutoplayForSoundsChrome">1. pawn7.com પર જાઓ
 
 2. એડ્રેસ બારમાં લોક આઇકન પર ક્લિક કરો
 
 3. Site Settings પર ક્લિક કરો
 
 4. Sound ને મંજૂરી આપો</string>
-  <string name="enableAutoplayForSoundsSafari">lichess.org પર જાઓ
+  <string name="enableAutoplayForSoundsSafari">pawn7.com પર જાઓ
 
 મેનૂ બારમાં Safari પર ક્લિક કરો
 
-Settings for lichess.org ... પર ક્લિક કરો
+Settings for pawn7.com ... પર ક્લિક કરો
 
 Allow All Auto-Play ને મંજૂરી આપો</string>
   <string name="enableAutoplayForSoundsMicrosoftEdge">ઉપરના જમણા ખૂણામાં ત્રણ ટપકાં પર ક્લિક કરો
@@ -160,7 +160,7 @@ Cookies and Site Permissions પર ક્લિક કરો
 
 નીચે સ્ક્રોલ કરો અને Media autoplay પર ક્લિક કરો
 
-Allow માં lichess.org ઉમેરો</string>
+Allow માં pawn7.com ઉમેરો</string>
   <string name="stopMyselfFromPlaying">રમવાથી મારી જાતને કેવી રીતે રોકવી?</string>
   <string name="mentalHealthCondition">સ્વતંત્ર માનસિક સ્વાસ્થ્યની સ્થિતિ</string>
   <string name="lichessUserstyles">Lichess યુઝરસ્ટાઇલ્સ</string>

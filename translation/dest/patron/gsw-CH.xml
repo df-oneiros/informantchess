@@ -56,7 +56,7 @@ Aber en Lichess-Gönner chann sis Profil mit dem coole Flügel-Icon schmücke.</
     <item quantity="one">Lichess Gönner für 1 Monet</item>
     <item quantity="other">Lichess Gönner für %s Mönet</item>
   </plurals>
-  <string name="youSupportWith">Du underschtützisch lichess.org mit %s pro Monet.</string>
+  <string name="youSupportWith">Du underschtützisch pawn7.com mit %s pro Monet.</string>
   <string name="tyvm">Danke vill Mal für dini Underschtützig. Du bisch super!</string>
   <string name="currentStatus">Aktuelle Schtatus</string>
   <string name="nextPayment">Nächschti Zahlig</string>

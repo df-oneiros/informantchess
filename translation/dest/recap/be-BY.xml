@@ -21,8 +21,8 @@
 		<item quantity="many">%s грамаў</item>
 		<item quantity="other">%s грамаў</item>
 	</plurals>
-	<string name="malwareWarningCta" comment="It is a link to https://lichess.org/ads">будзьце асцярожныя</string>
-	<string name="patronMakeDonation" comment="It is a link to https://lichess.org/patron">падтрымліваў нас ахвяраваннем</string>
+	<string name="malwareWarningCta" comment="It is a link to https://pawn7.com/ads">будзьце асцярожныя</string>
+	<string name="patronMakeDonation" comment="It is a link to https://pawn7.com/patron">падтрымліваў нас ахвяраваннем</string>
 	<string name="shareableTitle" comment="%s is the current year">Мой %s вынік</string>
 	<string name="shareableSpentPlaying" comment="subtitle to the translated time they have spent playing">правялі за партыямі</string>
 </resources>

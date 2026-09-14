@@ -872,7 +872,7 @@
   <string name="tryToWin">พยายามเอาชนะ (หรืออย่างน้อยก็เสมอ) ทุกเกมที่คุณเล่น</string>
   <string name="resignLostGames">ยอมแพ้ในเกมที่แพ้ (อย่าปล่อยให้นาฬิกาหมดเวลา)</string>
   <string name="temporaryInconvenience">เราขออภัยในความไม่สะดวกชั่วคราว</string>
-  <string name="wishYouGreatGames">และปรารถนาให้คุณมีเกมที่ยอดเยี่ยมบน lichess.org</string>
+  <string name="wishYouGreatGames">และปรารถนาให้คุณมีเกมที่ยอดเยี่ยมบน pawn7.com</string>
   <string name="thankYouForReading">ขอบคุณที่อ่าน!</string>
   <string name="lifetimeScore">สกอร์ตลอดชีพ</string>
   <string name="currentMatchScore">สกอร์เกมปัจจุบัน</string>

@@ -13,6 +13,6 @@
   <string name="twoFactorEnabled">Tofaktorautentisering skrudd på</string>
   <string name="twoFactorToDisable">Du treng din tilgangskode og ein autenseringskode frå godkjenningsappen for å deaktivera totrinns autensering.</string>
   <string name="openTwoFactorApp">Opna 2-stegs autentiseringsappen på eininga di for å sjå autentiseringskoden og verifisera identiteten din.</string>
-  <string name="setupReminder">For å sikra kontoen din vert du oppmoda om å aktivera totrinns-autensering på https://lichess.org/account/twofactor.
+  <string name="setupReminder">For å sikra kontoen din vert du oppmoda om å aktivera totrinns-autensering på https://pawn7.com/account/twofactor.
 Du mottek denne meldinga fordi kontoen din har spesielle ansvarsområde som gruppeleiar, trenar, lærar eller strøymar</string>
 </resources>

@@ -26,7 +26,7 @@ import { ChatCtrl } from 'lib/chat/chatCtrl';
 import { displayColumns } from 'lib/device';
 import { playable, playedTurns, fenToEpd, validUci } from 'lib/game';
 import { plyColor } from 'lib/game/chess';
-import { PromotionCtrl } from 'lib/game/promotion';
+import { PromotionCtrl, promotionRules } from 'lib/game/promotion';
 import { pubsub } from 'lib/pubsub';
 import { storedBooleanProp } from 'lib/storage';
 import { makeTree, treePath, treeOps, type TreeWrapper } from 'lib/tree';
@@ -159,6 +159,8 @@ export default class AnalyseCtrl implements CevalHandler {
       this.withCg,
       () => this.withCg(g => g.set(this.cgConfig)),
       this.redraw,
+      undefined,
+      promotionRules(this.data.game.variant.key),
     );
     this.motif = new MotifCtrl(this.settings);
 

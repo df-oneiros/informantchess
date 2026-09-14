@@ -13,6 +13,6 @@
   <string name="twoFactorEnabled">Tveggja þátta auðkenning er virk</string>
   <string name="twoFactorToDisable">Þú þarft lykilorðið þitt og auðkenningarkóða úr auðkenningarappinu þínu til þess að slökkva á tveggja þátta auðkenningu.</string>
   <string name="openTwoFactorApp">Opnaðu tveggja-þátta-auðkenningarforritið í tækinu þínu til þess að sjá auðkenningarkóðann þinn og staðfesta hver þú ert.</string>
-  <string name="setupReminder">Vinsamlegast virkjaðu tveggja þátta auðkenningu til að tryggja aðganginn þinn á https://lichess.org/account/twofactor.
+  <string name="setupReminder">Vinsamlegast virkjaðu tveggja þátta auðkenningu til að tryggja aðganginn þinn á https://pawn7.com/account/twofactor.
 Þú fékkst þessi skilaboð vegna þess að aðgangur þinn gegnir sérstöku hlutverki svo sem skákmaður með titil, liðsstjóri, þjálfari, kennari eða streymari.</string>
 </resources>

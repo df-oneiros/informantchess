@@ -59,7 +59,7 @@
     <item quantity="many">Спонсор Lichess протягом %s місяців</item>
     <item quantity="other">Спонсор Lichess на %s місяців</item>
   </plurals>
-  <string name="youSupportWith">Ви підтримуєте lichess.org сумою %s на місяць.</string>
+  <string name="youSupportWith">Ви підтримуєте pawn7.com сумою %s на місяць.</string>
   <string name="tyvm">Дуже дякуємо за вашу допомогу. Ви круті!</string>
   <string name="currentStatus">Поточний статус</string>
   <string name="nextPayment">Наступний платіж</string>

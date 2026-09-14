@@ -105,7 +105,7 @@
     <item quantity="other">השתתף/ה ב־%s טורנירים שוויצריים</item>
   </plurals>
   <string name="rankedInSwissTournament">סיים/ה במקום %1$s ב־%2$s</string>
-  <string name="signedUp">נרשם/ה לlichess.org</string>
+  <string name="signedUp">נרשם/ה לpawn7.com</string>
   <plurals name="joinedNbTeams">
     <item quantity="one">הצטרף/ה לקבוצה %s</item>
     <item quantity="two">הצטרף/ה ל־%s קבוצות</item>

@@ -140,43 +140,43 @@ någon annan eller innehålla reklam. Du kan läsa mer i %1$s.</string>
   <string name="viewSiteInformationPopUp">Visa webbplatsinformations-popup</string>
   <string name="lichessCanOptionnalySendPopUps">Lichess kan optionellt skicka popup-aviseringar, till exempel för när det är din tur eller om du fått ett privat meddelande.
 
-  Klicka på låsikonen bredvid lichess.org-adressen i URL-fältet i din webbläsare.
+  Klicka på låsikonen bredvid pawn7.com-adressen i URL-fältet i din webbläsare.
 
   Välj sedan om du vill tillåta eller blockera aviseringar från Lichess.</string>
   <string name="enableAutoplayForSoundsQ">Aktivera autouppspelning av ljud?</string>
   <string name="enableAutoplayForSoundsA">De flesta webbläsare kan förhindra ljud från att spela på en nyladdad sida för att skydda användare. Tänk om varje webbplats omedelbart kunde bombardera dig med ljudannonser.
 
-Den röda tystningsikonen visas när din webbläsare hindrar lichess.org från att spela ett ljud. Vanligtvis lyfts denna begränsning när du klickar på något. På vissa mobila webbläsare, att trycka-och-dra en bit räknas inte som ett klick. I så fall måste du trycka på tavlan för att tillåta ljud i början av varje spel.
+Den röda tystningsikonen visas när din webbläsare hindrar pawn7.com från att spela ett ljud. Vanligtvis lyfts denna begränsning när du klickar på något. På vissa mobila webbläsare, att trycka-och-dra en bit räknas inte som ett klick. I så fall måste du trycka på tavlan för att tillåta ljud i början av varje spel.
 
-Vi visar den röda ikonen för att varna dig när detta händer. Ofta kan du uttryckligen tillåta lichess.org att spela ljud. Här är instruktioner för att göra det på senaste versioner av några populära webbläsare.</string>
+Vi visar den röda ikonen för att varna dig när detta händer. Ofta kan du uttryckligen tillåta pawn7.com att spela ljud. Här är instruktioner för att göra det på senaste versioner av några populära webbläsare.</string>
   <string name="mostBrowsersPreventSoundAutoplay" comment="Replaces old string enableAutoplayForSoundsA">De flesta webbläsare förhindrar nybesökta sidor från att spela ljud för att skydda användare.
 
-Mute-ikonen visas när din webbläsare förhindrar lichess.org från att spela ljud. Den här restriktionen är hävs vanligen om du klickar på något.
+Mute-ikonen visas när din webbläsare förhindrar pawn7.com från att spela ljud. Den här restriktionen är hävs vanligen om du klickar på något.
 På vissa mobilwebbläsare räknas inte dra och släppa pjäser som att klicka. I sådana fall måste du trycka på brädet för att tillåta ljud i början av varje spel.
 
-Vi visar en röd mute-ikon för att uppmärksama dig när det här händer. Du kan uttryckligen tillåta lichess.org att spela ljud på de flesta webbläsare. Här finns instruktioner för hur du tillåter webbplates att spela ljud på nyare versioner av några populära webbläsare:</string>
+Vi visar en röd mute-ikon för att uppmärksama dig när det här händer. Du kan uttryckligen tillåta pawn7.com att spela ljud på de flesta webbläsare. Här finns instruktioner för hur du tillåter webbplates att spela ljud på nyare versioner av några populära webbläsare:</string>
   <string name="desktop">skrivbord</string>
-  <string name="enableAutoplayForSoundsFirefox">1. Gå till lichess.org
+  <string name="enableAutoplayForSoundsFirefox">1. Gå till pawn7.com
 2. Tryck Ctrl-i på Linux/Windows eller cmd-i på MacOS
 3. Klicka på fliken Behörigheter
-4. Tillåt Ljud och video på lichess.org</string>
-  <string name="enableAutoplayForSoundsChrome">1. Gå till lichess.org
+4. Tillåt Ljud och video på pawn7.com</string>
+  <string name="enableAutoplayForSoundsChrome">1. Gå till pawn7.com
 2. Klicka på låsikonen i adressfältet
 3. Klicka på Webbplatsinställningar
 4. Tillåt ljud</string>
-  <string name="enableAutoplayForSoundsChromeSiteInformation" comment="Guidance for Google Chrome users on how to enable audio auto-play if they have sound issues. Replaces old string enableAutoplayForSoundsChrome">1. Gå till lichess.org
+  <string name="enableAutoplayForSoundsChromeSiteInformation" comment="Guidance for Google Chrome users on how to enable audio auto-play if they have sound issues. Replaces old string enableAutoplayForSoundsChrome">1. Gå till pawn7.com
 2. Klicka på sidinformationsikonen i sökfältet
 3. Klicka på sidinställningar
 4. Tillåt ljud</string>
-  <string name="enableAutoplayForSoundsSafari">1. Gå till lichess.org
+  <string name="enableAutoplayForSoundsSafari">1. Gå till pawn7.com
 2. Klicka på Safari i menyraden
-3. Klicka på Inställningar för lichess.org ...
+3. Klicka på Inställningar för pawn7.com ...
 4. Tillåt all Autouppspelning</string>
   <string name="enableAutoplayForSoundsMicrosoftEdge">1. Klicka på de tre prickarna i det övre högra hörnet
 2. Klicka på Inställningar
 3. Klicka på Cookies och webbplatsbehörigheter
 4. Bläddra ner och klicka på Media autouppspelning
-5. Lägg till lichess.org på tillåtet</string>
+5. Lägg till pawn7.com på tillåtet</string>
   <string name="stopMyselfFromPlaying">Hindra mig själv från att spela?</string>
   <string name="mentalHealthCondition">fristående psykiskt hälsotillstånd</string>
   <string name="lichessUserstyles">Lichess användarprofiler</string>

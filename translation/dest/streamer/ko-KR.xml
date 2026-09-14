@@ -15,8 +15,8 @@
   <string name="downloadKit">스트리머 키트 다운로드</string>
   <string name="xIsStreaming">%s가 스트리밍 중입니다</string>
   <string name="rules">스트리밍 규칙</string>
-  <string name="rule1">Lichess에 스트리밍을 할 경우 스트리밍 제목에 \"lichess.org\" 키워드를 포함하고 카테고리를 \"Chess\"로 설정하세요.</string>
-  <string name="rule2">Lichess가 아닌 콘텐츠를 스트리밍할 때는 lichess.org 키워드를 제거하세요.</string>
+  <string name="rule1">Lichess에 스트리밍을 할 경우 스트리밍 제목에 \"pawn7.com\" 키워드를 포함하고 카테고리를 \"Chess\"로 설정하세요.</string>
+  <string name="rule2">Lichess가 아닌 콘텐츠를 스트리밍할 때는 pawn7.com 키워드를 제거하세요.</string>
   <string name="rule3">Lichess는 스트리밍을 자동으로 감지하고 다음 특전을 활성화합니다:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">스트리밍하는 동안 모두에게 공정한 플레이를 보장하려면 %s를 읽어보세요.</string>
   <string name="streamingFairplayFAQ">스트리밍 페어플레이 FAQ</string>

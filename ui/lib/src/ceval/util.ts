@@ -55,7 +55,7 @@ export function showEngineError(engine: string, error: string): void {
           <h2>Things to try</h2>
           <ul>
             <li>Decrease memory slider in engine settings</li>
-            <li>Clear site data for lichess.org</li>
+            <li>Clear site data for pawn7.com</li>
             <li>Select another engine</li>
             <li>Update your browser</li>
           </ul>`),

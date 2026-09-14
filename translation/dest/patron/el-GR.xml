@@ -56,7 +56,7 @@
     <item quantity="one">Υποστηρικτής του Lichess για ένα μήνα</item>
     <item quantity="other">Υποστηρικτής του Lichess για %s μήνες</item>
   </plurals>
-  <string name="youSupportWith">Υποστηρίζετε το lichess.org με %s μηνιαίως.</string>
+  <string name="youSupportWith">Υποστηρίζετε το pawn7.com με %s μηνιαίως.</string>
   <string name="tyvm">Ευχαριστούμε πολύ για την βοήθεια!</string>
   <string name="currentStatus">Τρέχουσα κατάσταση</string>
   <string name="nextPayment">Επόμενη πληρωμή</string>

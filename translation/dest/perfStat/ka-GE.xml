@@ -6,7 +6,7 @@
   <string name="notEnoughRatedGames">ჯერ იმდენი პარტია არ გითამაშიათ, რომ თქვენი რეიტინგი ზუსტად განვსაზღვროთ.</string>
   <string name="progressOverLastXGames">პროგრესი ბოლო %s თამაშში:</string>
   <string name="ratingDeviation">რეიტინგიდან გადახრა: %s.</string>
-  <string name="ratingDeviationTooltip" comment="ratingDeviationTooltip&#10;&#10;This is a tooltip (appears on mouseover) for the rating deviation. Appears on performance statistics pages such as https://lichess.org/@/thibault/perf/ultraBullet&#10;&#10;As of 2021-05-19, $1%s is set to 110.">მაჩვენებელი რაც მცირეა, უფრო სტაბილური რეიტინგი გაქვთ. თუ იგი %1$s-ის ზევითაა, რეიტინგი დროებითად ითვლება. თუ გინდათ, რომ სარეიტინგო სიებში მოხვდეთ, ეს მაჩვენებელი %2$s-ზე დაბალი უნდა იყოს სტანდარტულ ჭადრაკში, ან თუ ჭადრაკის სხვა ვარიანტებს თამაშობთ, მაშინ %3$s-ზე დაბალი.</string>
+  <string name="ratingDeviationTooltip" comment="ratingDeviationTooltip&#10;&#10;This is a tooltip (appears on mouseover) for the rating deviation. Appears on performance statistics pages such as https://pawn7.com/@/thibault/perf/ultraBullet&#10;&#10;As of 2021-05-19, $1%s is set to 110.">მაჩვენებელი რაც მცირეა, უფრო სტაბილური რეიტინგი გაქვთ. თუ იგი %1$s-ის ზევითაა, რეიტინგი დროებითად ითვლება. თუ გინდათ, რომ სარეიტინგო სიებში მოხვდეთ, ეს მაჩვენებელი %2$s-ზე დაბალი უნდა იყოს სტანდარტულ ჭადრაკში, ან თუ ჭადრაკის სხვა ვარიანტებს თამაშობთ, მაშინ %3$s-ზე დაბალი.</string>
   <string name="totalGames">სულ ნათამაშები პარტია</string>
   <string name="ratedGames">შეფასებული პარტია</string>
   <string name="tournamentGames">სატურნირო პარტიები</string>

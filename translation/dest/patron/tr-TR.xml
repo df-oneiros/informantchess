@@ -57,7 +57,7 @@ Ancak Destekçilerimiz, müthiş profil simgeleriyle sonuna kadar övünme hakk�
     <item quantity="one">Bir aydır Lichess Destekçisi</item>
     <item quantity="other">%s aydır Lichess Destekçisi</item>
   </plurals>
-  <string name="youSupportWith">Ayda %s ile lichess.org\'u destekliyorsunuz.</string>
+  <string name="youSupportWith">Ayda %s ile pawn7.com\'u destekliyorsunuz.</string>
   <string name="tyvm">Desteğin için çok teşekkür ederiz. Harikasın!</string>
   <string name="currentStatus">Mevcut durum</string>
   <string name="nextPayment">Sonraki ödeme</string>

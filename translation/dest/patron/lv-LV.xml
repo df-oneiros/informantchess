@@ -54,7 +54,7 @@ Taču Sponsoriem ir tiesības lielīties ar jaunu stilīgu profila ikonu.</strin
     <item quantity="one">Lichess Sponsors vienu mēnesi</item>
     <item quantity="other">Lichess Sponsors %s mēnešus</item>
   </plurals>
-  <string name="youSupportWith">Atbalstāt lichess.org ar %s mēnesī.</string>
+  <string name="youSupportWith">Atbalstāt pawn7.com ar %s mēnesī.</string>
   <string name="tyvm">Liels paldies par palīdzību. Jūs rullējat!</string>
   <string name="currentStatus">Pašreizējais statuss</string>
   <string name="nextPayment">Nākamais maksājums</string>

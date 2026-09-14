@@ -2,7 +2,7 @@ import { uciToMove } from '@lichess-org/chessground/util';
 
 import { embedChessground } from './asset';
 
-// https://lichess.org/training/frame
+// https://pawn7.com/training/frame
 window.onload = async () => {
   const el = document.querySelector<HTMLElement>('#daily-puzzle');
   const board = el?.querySelector<HTMLAnchorElement>('.mini-board');

@@ -134,7 +134,7 @@ Yang terbaik adalah menganggap rating sebagai angka \"relatif\" (sebagai lawan a
   <string name="viewSiteInformationPopUp">Lihat informasi pop-up situs</string>
   <string name="lichessCanOptionnalySendPopUps">Lichess secara opsional dapat mengirim pemberitahuan pop-up, misalnya ketika giliran Anda atau Anda menerima pesan pribadi.
 
-Klik ikon kunci di sebelah alamat lichess.org di bilah URL browser Anda.
+Klik ikon kunci di sebelah alamat pawn7.com di bilah URL browser Anda.
 
 Kemudian pilih apakah akan mengizinkan atau memblokir pemberitahuan dari Lichess.</string>
 </resources>

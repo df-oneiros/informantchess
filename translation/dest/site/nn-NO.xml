@@ -606,7 +606,7 @@ få en computeranalyse, chatte eller dele ein URL.</string>
   <string name="reportCheatBoostHelp">Legg ved lenke til partiet/partia og forklar kva som er gale med åtferda til denne brukaren. Å berre påstå at brukaren juksar er ikkje nok, men gje ei nærare forklaring på korleis du kom til denne konklusjonen.</string>
   <string name="reportUsernameHelp">Forklår kva som gjer brukarnamnet er støytande. Det held ikkje med å påstå at \"namnet er støytande/upassande\", men fortell oss korleis du kom til denne konklusjonen, spesielt om tydinga er uklår, ikkje er på engelsk, er eit slanguttrykk, eller har ein historisk/kulturell referanse.</string>
   <string name="reportProcessedFasterInEnglish">Rapporten din blir raskare behandla om du skriv på engelsk.</string>
-  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://lichess.org/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Vi kan handsama rapporten din raskare om du skriv på engelsk.</string>
+  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://pawn7.com/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Vi kan handsama rapporten din raskare om du skriv på engelsk.</string>
   <string name="error.provideOneCheatedGameLink">Oppgje minst ei lenke til eit jukseparti.</string>
   <string name="by">av %s</string>
   <string name="importedByX">Importert av %s</string>
@@ -731,12 +731,12 @@ få en computeranalyse, chatte eller dele ein URL.</string>
   <string name="aboutSimulSettings">Simultanframsyningar er alltid urangerte. Omstart, attendetrekk og \"meirtid\" er slått av.</string>
   <string name="create">Opprett</string>
   <string name="whenCreateSimul">Når du arrangerer ei simultanframsyning spelar du mot fleire motstandarar samstundes.</string>
-  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://lichess.org/simul/new Replaces old string whenCreateSimul">Ved å oppretta ein simultan kan du spela mot fleire motspelarar samstundes.</string>
+  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://pawn7.com/simul/new Replaces old string whenCreateSimul">Ved å oppretta ein simultan kan du spela mot fleire motspelarar samstundes.</string>
   <string name="simulVariantsHint">Om du vel fleire variantar, får kvar spelar velje kva variant dei ønskjer.</string>
   <string name="simulClockHint">Fischer klokkesett. Jo fleire spelarar du tar med, jo meir tid kan du trengje.</string>
   <string name="simulAddExtraTime">Du kan legge til ekstra tid på di eiga klokka for å makte simultanframsyninga.</string>
   <string name="simulHostExtraTime">Ekstra tid for simultanoppvisaren</string>
-  <string name="extraClockTimeForHost" comment="Appears on: https://lichess.org/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Ekstra klokketid for verten:</string>
+  <string name="extraClockTimeForHost" comment="Appears on: https://pawn7.com/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Ekstra klokketid for verten:</string>
   <string name="simulAddExtraTimePerPlayer">Legg ekstra tenketid til klokka di for kvar spelar som melder seg på simultanspelet.</string>
   <string name="simulHostExtraTimePerPlayer">Ekstra tenketid som simultanverten får for kvar spelar</string>
   <string name="lichessTournaments">Lichess-turnering</string>
@@ -933,7 +933,7 @@ få en computeranalyse, chatte eller dele ein URL.</string>
   </plurals>
   <string name="showUnreadLichessMessage">Du har fått ei privat melding frå Lichess.</string>
   <string name="clickHereToReadIt">Klikk her for å lesa den</string>
-  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://lichess.org/@/Lichess Replaces old string clickHereToReadIt">Les meldinga</string>
+  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://pawn7.com/@/Lichess Replaces old string clickHereToReadIt">Les meldinga</string>
   <string name="sorry">Beklagar :(</string>
   <string name="weHadToTimeYouOutForAWhile">Vi måtte gje deg ein timeout.</string>
   <string name="why">Kvifor?</string>
@@ -945,7 +945,7 @@ få en computeranalyse, chatte eller dele ein URL.</string>
   <string name="tryToWin">Forsøk å vinne (eller i det minste oppnå remis) i alle parti du spelar.</string>
   <string name="resignLostGames">Resigner ved tapte stillingar (ikkje la tida renne ut).</string>
   <string name="temporaryInconvenience">Vi seier oss leie for det kortvarige bryet,</string>
-  <string name="wishYouGreatGames">og vonar du får gode sjakkoppgjer på lichess.org.</string>
+  <string name="wishYouGreatGames">og vonar du får gode sjakkoppgjer på pawn7.com.</string>
   <string name="thankYouForReading">Takk for at du leste!</string>
   <string name="lifetimeScore">Livstidsscore</string>
   <string name="currentMatchScore">Gjeldande kampscore</string>

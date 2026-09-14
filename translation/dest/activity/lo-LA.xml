@@ -3,7 +3,7 @@
   <string name="activity">ກິດຈະກຳ</string>
   <string name="hostedALiveStream">ຈັດການຖ່າຍທອດສົດ</string>
   <plurals name="supportedNbMonths">
-    <item quantity="other">ໄດ້ສະໜັບສະໜູນ lichess.org ເປັນເວລາ %1$s ເດືອນ ໃນຖານະ %2$s</item>
+    <item quantity="other">ໄດ້ສະໜັບສະໜູນ pawn7.com ເປັນເວລາ %1$s ເດືອນ ໃນຖານະ %2$s</item>
   </plurals>
   <plurals name="practicedNbPositions">
     <item quantity="other">ໄດ້ຝຶກຊ້ອມ %1$s ຕຳແໜ່ງ ໃນ %2$s</item>
@@ -54,7 +54,7 @@
     <item quantity="other">ເຂົ້າຮ່ວມການແຂ່ງຂັນລະບົບ Swiss %s ລາຍການ</item>
   </plurals>
   <string name="rankedInSwissTournament">ໄດ້ອັນດັບ #%1$s ໃນ %2$s</string>
-  <string name="signedUp">ສະໝັກສະມາຊິກ lichess.org</string>
+  <string name="signedUp">ສະໝັກສະມາຊິກ pawn7.com</string>
   <plurals name="joinedNbTeams">
     <item quantity="other">ເຂົ້າຮ່ວມ %s ທີມ</item>
   </plurals>

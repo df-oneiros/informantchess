@@ -272,7 +272,7 @@
   <string name="emailCanTakeSomeTime">Sähköpostin saapuminen voi kestää jonkin aikaa.</string>
   <string name="refreshInboxAfterFiveMinutes">Odota 5 minuuttia ja päivitä sähköpostin saapuneet-kansio.</string>
   <string name="checkSpamFolder">Tarkistathan myös roskapostikansiosi, koska se saattaa joutua sinne. Jos niin käy, merkitse, että viesti ei ole roskaposti.</string>
-  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Jos et saa vahvistussähköpostia, tarkista roskapostikansiosi. Muista luokitella lichess.org-osoitteesta tulevat viestit turvallisiksi ja \"ei roskapostiksi\", jotta voit pysyä ajan tasalla tärkeistä viesteistä.</string>
+  <string name="checkSpamOrJunkFolder" comment="checkSpamFolder&#10;It = The confirmation email Replaces old string checkSpamFolder">Jos et saa vahvistussähköpostia, tarkista roskapostikansiosi. Muista luokitella pawn7.com-osoitteesta tulevat viestit turvallisiksi ja \"ei roskapostiksi\", jotta voit pysyä ajan tasalla tärkeistä viesteistä.</string>
   <string name="sendEmailForAccountVerification">Jos et löydä vahvistussähköpostia, lähetä meille sähköposti osoitteeseen %s, niin me vahvistamme käyttäjätunnuksesi.</string>
   <string name="accountConfirmed">Käyttäjän %s vahvistaminen onnistui.</string>
   <string name="accountCanLogin">Voit nyt kirjautua sisään tunnuksella %s.</string>
@@ -601,7 +601,7 @@
   <string name="reportCheatBoostHelp">Liitä linkki peliin/peleihin ja kerro, mikä tämän käyttäjän toiminnassa on pielessä. Älä vain sano hänen huijaavan, vaan kerro meille, miksi olet päätellyt niin.</string>
   <string name="reportUsernameHelp">Selitä, mikä tässä käyttäjätunnuksessa on loukkaavaa. Älä vain sano sen olevan loukkaava tai sopimaton, vaan kerro meille, mihin näkemyksesi perustuu, varsinkin jos loukkaus on epäsuora, muun kuin englanninkielinen, slangia, tai jos siinä viitataan kulttuuriin tai historiaan.</string>
   <string name="reportProcessedFasterInEnglish">Ilmoituksesi käsitellään nopeammin, jos se on kirjoitettu englanniksi.</string>
-  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://lichess.org/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Voimme käsitellä ilmoituksesi nopeammin, jos kirjoitat meille englanniksi.</string>
+  <string name="processReportFasterInEnglish" comment="Appears on the &quot;Report a user&quot; page https://pawn7.com/report, to encourage users to write in English, so any Lichess moderator can process it. Replaces old string reportProcessedFasterInEnglish">Voimme käsitellä ilmoituksesi nopeammin, jos kirjoitat meille englanniksi.</string>
   <string name="error.provideOneCheatedGameLink">Anna ainakin yksi linkki peliin, jossa epäilet huijaamista.</string>
   <string name="by">%s</string>
   <string name="importedByX">Käyttäjän %s tuoma</string>
@@ -726,12 +726,12 @@
   <string name="aboutSimulSettings">Simultaanit ovat aina rentoja. Revanssit, siirtojen perumiset ja ajan lisääminen ovat poissa käytöstä.</string>
   <string name="create">Luo</string>
   <string name="whenCreateSimul">Jos luot simultaanin, sinun täytyy pelata useita pelaajia vastaan kerralla.</string>
-  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://lichess.org/simul/new Replaces old string whenCreateSimul">Kun luot simultaanin, voit pelata samanaikaisesti useaa vastustajaa vastaan.</string>
+  <string name="creatingASimul" comment="A basic description of what a simul is like, on the form that lets you create a new simul https://pawn7.com/simul/new Replaces old string whenCreateSimul">Kun luot simultaanin, voit pelata samanaikaisesti useaa vastustajaa vastaan.</string>
   <string name="simulVariantsHint">Jos valitset useita variantteja, jokainen pelaaja valitsee mihin osallistuu.</string>
   <string name="simulClockHint">Fischer-kellon asetukset. Mitä enemmän pelaajia on, sitä enemmän aikaa saatat tarvita.</string>
   <string name="simulAddExtraTime">Voit lisätä aikaa kelloosi selviytyäksesi simultaanista.</string>
   <string name="simulHostExtraTime">Isännän ylimääräinen aika</string>
-  <string name="extraClockTimeForHost" comment="Appears on: https://lichess.org/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Lisäaika isännän kellossa:</string>
+  <string name="extraClockTimeForHost" comment="Appears on: https://pawn7.com/simul/new&#10;&#10;Allows a simul host to select extra time for the simul.&#10;&#10;Please note this string used to state &quot;Host extra clock time&quot;, without the word &quot;initial&quot; Replaces old string simulHostExtraTime">Lisäaika isännän kellossa:</string>
   <string name="simulAddExtraTimePerPlayer">Lisää alussa kelloosi aikaa jokaista simultaaniin liittyvää pelaajaa kohden.</string>
   <string name="simulHostExtraTimePerPlayer">Lisää jokaista pelaajaa kohden isännän kelloon lisää aikaa</string>
   <string name="lichessTournaments">Lichessin turnaukset</string>
@@ -926,7 +926,7 @@
   </plurals>
   <string name="showUnreadLichessMessage">Olet saanut henkilökohtaisen viestin Lichessiltä.</string>
   <string name="clickHereToReadIt">Lue se napsauttamalla tästä</string>
-  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://lichess.org/@/Lichess Replaces old string clickHereToReadIt">Lue viesti</string>
+  <string name="readTheMessage" comment="'It' refers to a private message. This text follows after a different string which advises players they have received a private message from Lichess. For users, this is appears as a regular private message from the Lichess account: https://pawn7.com/@/Lichess Replaces old string clickHereToReadIt">Lue viesti</string>
   <string name="sorry">Pahoittelumme :(</string>
   <string name="weHadToTimeYouOutForAWhile">Meidän täytyi komentaa sinut jäähylle hetkeksi.</string>
   <string name="why">Miksi?</string>
@@ -938,7 +938,7 @@
   <string name="tryToWin">Yritä voittaa (tai edes pelata tasan) jokainen pelisi.</string>
   <string name="resignLostGames">Luovuta hävityt pelit (äläkä anna ajan kulua loppuun).</string>
   <string name="temporaryInconvenience">Pahoittelemme tilapäistä harmia,</string>
-  <string name="wishYouGreatGames">ja toivotamme hyviä pelejä lichess.org -sivustolla.</string>
+  <string name="wishYouGreatGames">ja toivotamme hyviä pelejä pawn7.com -sivustolla.</string>
   <string name="thankYouForReading">Kiitos, että luit tämän!</string>
   <string name="lifetimeScore">Kaikkien aikojen yhteistilanne</string>
   <string name="currentMatchScore">Nykyisen ottelun tilanne</string>

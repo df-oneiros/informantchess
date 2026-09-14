@@ -52,7 +52,7 @@
     <item quantity="one">بەخشەرەی Lichess بۆ ماوەی یەک مانگ</item>
     <item quantity="other">بەخشەری Lichess بۆ ماوەی %s مانگ</item>
   </plurals>
-  <string name="youSupportWith">تۆ پشتگیری lichess.org دەکەیت بە %s لە مانگێکدا.</string>
+  <string name="youSupportWith">تۆ پشتگیری pawn7.com دەکەیت بە %s لە مانگێکدا.</string>
   <string name="tyvm">زۆر سوپاس بۆ هاوکاریت. تۆ نایابیت!</string>
   <string name="currentStatus">بارودۆخی ئێستا</string>
   <string name="nextPayment">پارەی دواتر</string>

@@ -59,9 +59,9 @@
   <string name="notifyInboxMsg">Gelen kutusunda yeni bir mesaj</string>
   <string name="notifyDirectMessage" comment="notifyInboxMsg&#10;&#10;A notification setting - notifies players when they receive a new message in their Lichess inbox Replaces old string notifyInboxMsg">Yeni özel mesaj</string>
   <string name="notifyForumMention">Sizden bahseden bir forum mesajı</string>
-  <string name="notifyForumMentions" comment="notifyForumMention&#10;&#10; A notification setting - notifies players when someone has @mentioned their name in the Lichess Forum (https://lichess.org/forum) Replaces old string notifyForumMention">Forum bahsetmeleri</string>
+  <string name="notifyForumMentions" comment="notifyForumMention&#10;&#10; A notification setting - notifies players when someone has @mentioned their name in the Lichess Forum (https://pawn7.com/forum) Replaces old string notifyForumMention">Forum bahsetmeleri</string>
   <string name="notifyInvitedStudy">Çalışma daveti</string>
-  <string name="notifyStudyInvites" comment="notifyInvitedStudy&#10;&#10; A notification setting - notifies players about invites to studies (https://lichess.org/study/) Replaces old string notifyInvitedStudy">Çalışma davetleri</string>
+  <string name="notifyStudyInvites" comment="notifyInvitedStudy&#10;&#10; A notification setting - notifies players about invites to studies (https://pawn7.com/study/) Replaces old string notifyInvitedStudy">Çalışma davetleri</string>
   <string name="notifyGameEvent">Yazışmalı oyun güncellemeleri</string>
   <string name="notifyChallenge">Meydan okumalar</string>
   <string name="notifyTournamentSoon">Yakında başlayan turnuva</string>

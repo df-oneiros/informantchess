@@ -137,7 +137,7 @@
   <string name="interestingMove">Qiziq yurish</string>
   <string name="dubiousMove" comment="dubiousMove&#10;A questionable move.">Shubhali yurish</string>
   <string name="onlyMove" comment="onlyMove&#10;The only possible move. This is a label that can be placed in a study of a past game. It may not technically be the only move, but the only feasible one.">Yagona yurish</string>
-  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://lichess.org/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Sugsvang</string>
+  <string name="zugzwang" comment="zugzwang&#10;What zugzwang is: https://pawn7.com/practice/intermediate-tactics/zugzwang/9cKgYrHb/ybYJ9gNa&#10;&#10;This specific string is a label that can be applied to a position in a study, to indicate one side is in zugzwang.">Sugsvang</string>
   <string name="equalPosition">Teng pozitsiya</string>
   <string name="unclearPosition" comment="unclearPosition&#10;It is unclear who is winning or losing.">Noaniq pozitsiya</string>
   <string name="whiteIsSlightlyBetter">Oqlar biroz ustun</string>
@@ -181,7 +181,7 @@
   <string name="annotatePositionTitle">Pozitsiyaga belgilar qoʻshish</string>
   <string name="annotatePositionText">!? tugmasini bosing yoki oʻng tarafdagi yurishlar roʻyxati ustiga sichqonchani oʻng tugmasini bosing.&lt;br&gt;Tahlil belgilari saqlanadi va hamma uchun koʻrinadi.</string>
   <string name="conclusionTitle">Vaqt ajratganingiz uchun rahmat</string>
-  <string name="conclusionText">&lt;a href=\'/study/mine/hot\'&gt;Oldingi saboqlaringizni&lt;/a&gt; profil sahifangizdan topishingiz mumkin.&lt;br&gt;Shuningdek, &lt;a href=\'//lichess.org/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;saboqlar haqidagi blog‑post&lt;/a&gt; bilan ham tanishib chiqing.&lt;br&gt;Tajribali foydalanuvchilar klaviatura yorliqlarini koʻrish uchun \"?\" belgisini bosishlari mumkin.&lt;br&gt;Omad tilaymiz!</string>
+  <string name="conclusionText">&lt;a href=\'/study/mine/hot\'&gt;Oldingi saboqlaringizni&lt;/a&gt; profil sahifangizdan topishingiz mumkin.&lt;br&gt;Shuningdek, &lt;a href=\'//pawn7.com/blog/V0KrLSkAAMo3hsi4/study-chess-the-lichess-way\'&gt;saboqlar haqidagi blog‑post&lt;/a&gt; bilan ham tanishib chiqing.&lt;br&gt;Tajribali foydalanuvchilar klaviatura yorliqlarini koʻrish uchun \"?\" belgisini bosishlari mumkin.&lt;br&gt;Omad tilaymiz!</string>
   <string name="createChapterTitle">Saboq uchun bob yaratamiz</string>
   <string name="createChapterText">Saboq bir nechta bobdan iborat boʻlishi mumkin.&lt;br&gt;Har bir bobda alohida yurishlar varianti mavjud&lt;br&gt;va ularni turli usullar bilan yaratish mumkin.</string>
   <string name="fromInitialPositionTitle">Boshlangʻich pozitsiyadan</string>
@@ -190,8 +190,8 @@
   <string name="customPositionText">Pozitsiyani oʻzingiz xohlagancha tering.&lt;br&gt;Endshpillarni oʻrganish uchun qulay.</string>
   <string name="loadExistingLichessGameTitle">Mavjud Lichess oʻyinini yuklash</string>
   <string name="loadGameFromTheWebTitle" comment="Replaces old string loadExistingLichessGameTitle">Vebdan oʻyinni yuklash</string>
-  <string name="loadExistingLichessGameText">Bobga oʻyinni yuklash uchun&lt;br&gt;Lichess oʻyini havolasini (URL) kiriting&lt;br&gt;(masalan: lichess.org/7fHIU0XI).</string>
-  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">Bobga oʻyinni yuklash uchun&lt;br&gt;Lichess oʻyini havolasini (URL) kiriting&lt;br&gt;(masalan: lichess.org/7fHIU0XI).</string>
+  <string name="loadExistingLichessGameText">Bobga oʻyinni yuklash uchun&lt;br&gt;Lichess oʻyini havolasini (URL) kiriting&lt;br&gt;(masalan: pawn7.com/7fHIU0XI).</string>
+  <string name="loadGameFromTheWebText" comment="The special text tags must be retained in exact order, for example &amp;lt;br&amp;gt; must stay exactly as-is. You do not need to add spaces or new lines before or after them.&#10;&#10;Note that &quot;br&quot; in particular means &quot;line break&quot;. In other words, it will start a new line in the final text. Replaces old string loadExistingLichessGameText">Bobga oʻyinni yuklash uchun&lt;br&gt;Lichess oʻyini havolasini (URL) kiriting&lt;br&gt;(masalan: pawn7.com/7fHIU0XI).</string>
   <string name="fromFenStringTitle">FEN satridan</string>
   <string name="fromFenStringText">Bobni maʼlum bir pozitsiyadan boshlash uchun&lt;br&gt;FEN formatidagi pozitsiyani kiriting:&lt;br&gt;&lt;i&gt;4k3/4rb2/8/7p/8/5Q2/1PP5/1K6 w&lt;/i&gt;</string>
   <string name="fromPgnGameTitle">PGN oʻyinidan</string>

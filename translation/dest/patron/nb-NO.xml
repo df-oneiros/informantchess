@@ -55,7 +55,7 @@ Patroner kan like fullt briske seg med et tøft, nytt profilikon.</string>
     <item quantity="one">Lichess-patron i én måned</item>
     <item quantity="other">Lichess-patron i %s måneder</item>
   </plurals>
-  <string name="youSupportWith">Du støtter lichess.org med %s per måned.</string>
+  <string name="youSupportWith">Du støtter pawn7.com med %s per måned.</string>
   <string name="tyvm">Tusen takk for støtten. Du er sjef!</string>
   <string name="currentStatus">Gjeldende status</string>
   <string name="nextPayment">Neste betaling</string>

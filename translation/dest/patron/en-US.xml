@@ -56,7 +56,7 @@ However, Patrons get bragging rights with cool new Patron wings that show up on 
     <item quantity="one">Lichess Patron for one month</item>
     <item quantity="other">Lichess Patron for %s months</item>
   </plurals>
-  <string name="youSupportWith">You support lichess.org with %s per month.</string>
+  <string name="youSupportWith">You support pawn7.com with %s per month.</string>
   <string name="tyvm">Thank you very much for your help. You rock!</string>
   <string name="currentStatus">Current status</string>
   <string name="nextPayment">Next payment</string>

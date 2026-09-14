@@ -55,7 +55,7 @@ Men protektorer kan bryste sig af et sejt, nyt profil-ikon.</string>
     <item quantity="one">Lichess Protektor i en måned</item>
     <item quantity="other">Lichess Protektor i %s måneder</item>
   </plurals>
-  <string name="youSupportWith">Du støtter lichess.org med %s per måned.</string>
+  <string name="youSupportWith">Du støtter pawn7.com med %s per måned.</string>
   <string name="tyvm">Mange tak for din støtte! Du er for sej!</string>
   <string name="currentStatus">Nuværende status</string>
   <string name="nextPayment">Næste betaling</string>

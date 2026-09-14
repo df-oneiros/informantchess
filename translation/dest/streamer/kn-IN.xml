@@ -15,7 +15,7 @@
   <string name="downloadKit">ಸ್ಟ್ರೀಮರ್ ಕಿಟ್ ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
   <string name="xIsStreaming">%s ಸ್ಟ್ರೀಮಿಂಗ್ ಆಗುತ್ತಿದೆ</string>
   <string name="rules">ಸ್ಟ್ರೀಮಿಂಗ್ ನಿಯಮಗಳು</string>
-  <string name="rule1">ನಿಮ್ಮ ಸ್ಟ್ರೀಮ್ ಶೀರ್ಷಿಕೆಯಲ್ಲಿ \"lichess.org\" ಕೀವರ್ಡ್ ಅನ್ನು ಸೇರಿಸಿ ಮತ್ತು ನೀವು Lichess ನಲ್ಲಿ ಸ್ಟ್ರೀಮ್ ಮಾಡುವಾಗ \"Chess\" ವರ್ಗವನ್ನು ಬಳಸಿ.</string>
+  <string name="rule1">ನಿಮ್ಮ ಸ್ಟ್ರೀಮ್ ಶೀರ್ಷಿಕೆಯಲ್ಲಿ \"pawn7.com\" ಕೀವರ್ಡ್ ಅನ್ನು ಸೇರಿಸಿ ಮತ್ತು ನೀವು Lichess ನಲ್ಲಿ ಸ್ಟ್ರೀಮ್ ಮಾಡುವಾಗ \"Chess\" ವರ್ಗವನ್ನು ಬಳಸಿ.</string>
   <string name="rule2">ನೀವು Lichess ಅಲ್ಲದ ವಿಷಯವನ್ನು ಸ್ಟ್ರೀಮ್ ಮಾಡಿದಾಗ ಕೀವರ್ಡ್ ತೆಗೆದುಹಾಕಿ.</string>
   <string name="rule3">Lichess ನಿಮ್ಮ ಸ್ಟ್ರೀಮ್ ಅನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪತ್ತೆ ಮಾಡುತ್ತದೆ ಮತ್ತು ಕೆಳಗಿನ ಪರ್ಕ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುತ್ತದೆ:</string>
   <string name="rule4" comment="the resulting message is: Read our streaming Fairplay FAQ to ensure a fair play for everyone in your stream">ನಿಮ್ಮ ಸ್ಟ್ರೀಮ್ ಸಮಯದಲ್ಲಿ ಎಲ್ಲರಿಗೂ ನ್ಯಾಯೋಚಿತ ಆಟವಾಗುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ನಮ್ಮ %s ಓದಿ.</string>

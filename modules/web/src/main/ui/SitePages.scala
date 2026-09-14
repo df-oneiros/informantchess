@@ -21,7 +21,7 @@ final class SitePages(helpers: Helpers):
     val external = frag(" ", iconTag(Icon.ExternalArrow))
     def activeCls(c: String) = cls := active.activeO(c)
     lila.ui.bits.pageMenuSubnav(
-      a(activeCls("about"), href := "/about")(trans.site.aboutX("lichess.org")),
+      a(activeCls("about"), href := "/about")(trans.site.aboutX("pawn7.com")),
       a(activeCls("news"), href := routes.Feed.index(1))("Lichess updates"),
       a(activeCls("faq"), href := routes.Main.faq)(trans.faq.faqAbbreviation()),
       a(activeCls("contact"), href := routes.Main.contact)(trans.contact.contact()),
@@ -58,7 +58,7 @@ final class SitePages(helpers: Helpers):
       active = "webmasters",
       contentCls = "page force-ltr"
     ).css("bits.page")
-      .csp(_.copy(frameSrc = "https://lichess.org" :: Nil)):
+      .csp(_.copy(frameSrc = "https://pawn7.com" :: Nil)):
         frag(
           st.section(cls := "box box-pad developers")(
             h1(cls := "box__top")("HTTP API"),
@@ -83,7 +83,7 @@ final class SitePages(helpers: Helpers):
                 parameters(),
                 p(
                   "You can also show the channel for a specific variant or time control by adding the channel key to the URL, corresponding to the channels available at ",
-                  a(href := "/tv")("lichess.org/tv"),
+                  a(href := "/tv")("pawn7.com/tv"),
                   ". If not included, the top rated game will be shown."
                 ),
                 copyMeInput(
@@ -167,7 +167,7 @@ final class SitePages(helpers: Helpers):
               div(cls := "body")(
                 div(cls := "center"):
                   raw:
-                    s"""<iframe src="https://lichess.org/embed/broadcast/fide-world-rapidblitz-team-championships-2024--rapid-matches-1-10/G1YjiG7j" $args></iframe>"""
+                    s"""<iframe src="https://pawn7.com/embed/broadcast/fide-world-rapidblitz-team-championships-2024--rapid-matches-1-10/G1YjiG7j" $args></iframe>"""
                 ,
                 p(
                   "On a broadcast page, select the embed iframe code, then optionally add query parameters to customize the appearance."
@@ -181,7 +181,7 @@ final class SitePages(helpers: Helpers):
           st.section(cls := "box box-pad developers", id := "analysis") {
             val args = """style="width: 100%; aspect-ratio: 4/3;" frameborder="0""""
             val iframe =
-              s"""<iframe src="https://lichess.org/embed/analysis" $args></iframe>"""
+              s"""<iframe src="https://pawn7.com/embed/analysis" $args></iframe>"""
             frag(
               a(href := "#embed-analysis")(
                 h1(cls := "box__top", id := "embed-analysis")("Embed an analysis board")
@@ -201,7 +201,7 @@ final class SitePages(helpers: Helpers):
                 div(
                   "Example using a custom initial position:",
                   copyMeInput:
-                    s"""<iframe src="https://lichess.org/embed/analysis?fen=r1bqkb1r/pp2pppp/2np1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R_b_KQkq_-_1_6&color=black" $args></iframe>"""
+                    s"""<iframe src="https://pawn7.com/embed/analysis?fen=r1bqkb1r/pp2pppp/2np1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R_b_KQkq_-_1_6&color=black" $args></iframe>"""
                 ),
                 p("The text is automatically translated to your visitor's language.")
               )
